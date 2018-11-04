@@ -3,8 +3,8 @@
     but Google wants us to use Roboto/Noto Sans for Latin.
     the CJK prepend needs to prepend Roboto/Noto Sans/Serif
     too ✓
-  + Adobe Source Sans Pro are smaller than Noto Sans, need
-    to resize
+  + Adobe Source Sans Pro is 2/3 of Noto Sans, need
+    to resize with matrix
 * Noto Sans CJK SC and Noto Sans SC are different font names
   (The later is a subset of the former). So we need to provide
   substitutes. ✓
@@ -27,7 +27,7 @@
   + packaging of deepin-opensymbol-fonts ✓
   + fontconfig substitutions ✓
 * We need to re-evaluate the selections in 60-family-prefer.conf
-  specially the CJK part. Most of the fonts listed there are
+  especially the CJK part. Most of the fonts listed there are
   pretty old and have modern replacement.
 * We need to evaluate Noto fonts and add them to TT/Non-TT Instucted
   Fonts
