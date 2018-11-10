@@ -19,9 +19,9 @@
     if not explicitly assigned, we can't prepend "emoji" to
     "sans-serif" (boo#1092737), so we have to make sure every
     font appeared before Noto Color Emoji are emoji-less)
-  + Firefox embeded a "EmojiOne Mozilla" font, which is black
-    and white, we need to reject it. ✓
-  + We may need to unset hint/antialias for emoji fonts.
+  + Firefox embeded a "EmojiOne Mozilla" font, we need to
+    restrict it. ✓
+  + We may need to unset hint/antialias/autohint for emoji fonts. ✓
 * openSUSE should use modern symbol fonts like Deepin OpenSymbol
   which is 100% replacement for M$ Wingdings and Symbola ✓
   + packaging of deepin-opensymbol-fonts ✓
