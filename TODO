@@ -9,7 +9,7 @@
     (The later is a subset of the former). So we need to provide
     substitutes. ✓
   + Adobe Souce Han are the same as Google Noto CJK. we need
-    to use Noto CJK to provide Source Han
+    to use Noto CJK to provide Source Han ✓
 * openSUSE should support colored emojis out of the box.
   + "emoji" family has been defined by fontconfig. ✓
   + "Symbola" conflicts with color emoji. need to replace it
