@@ -1,0 +1,4386 @@
+Noto_Color_Emoji
+NotoSansArabic-SemiCondensedThin.ttf
+NotoSansArabic-SemiCondensedThin.ttf: true
+NotoSansArabic-SemiCondensedBold.ttf
+NotoSansArabic-SemiCondensedBold.ttf: true
+NotoSansArabic-ExtraCondensedThin.ttf
+NotoSansArabic-ExtraCondensedThin.ttf: true
+NotoSansArabic-CondensedThin.ttf
+NotoSansArabic-CondensedThin.ttf: true
+NotoSansArabic-Thin.ttf
+NotoSansArabic-Thin.ttf: true
+NotoSansArabic-Medium.ttf
+NotoSansArabic-Medium.ttf: true
+NotoSansArabic-CondensedExtraLight.ttf
+NotoSansArabic-CondensedExtraLight.ttf: true
+NotoSansArabic-CondensedExtraBold.ttf
+NotoSansArabic-CondensedExtraBold.ttf: true
+NotoSansArabic-CondensedBlack.ttf
+NotoSansArabic-CondensedBlack.ttf: true
+NotoSansArabic-ExtraLight.ttf
+NotoSansArabic-ExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedLight.ttf
+NotoSansArabic-ExtraCondensedLight.ttf: true
+NotoSansArabic-Bold.ttf
+NotoSansArabic-Bold.ttf: true
+NotoSansArabic-ExtraCondensedExtraBold.ttf
+NotoSansArabic-ExtraCondensedExtraBold.ttf: true
+NotoSansArabic-ExtraCondensedSemiBold.ttf
+NotoSansArabic-ExtraCondensedSemiBold.ttf: true
+NotoSansArabic-CondensedSemiBold.ttf
+NotoSansArabic-CondensedSemiBold.ttf: true
+NotoSansArabic-CondensedLight.ttf
+NotoSansArabic-CondensedLight.ttf: true
+NotoSansArabic-ExtraCondensedBold.ttf
+NotoSansArabic-ExtraCondensedBold.ttf: true
+NotoSansArabic-ExtraCondensedMedium.ttf
+NotoSansArabic-ExtraCondensedMedium.ttf: true
+NotoSansArabic-SemiCondensedSemiBold.ttf
+NotoSansArabic-SemiCondensedSemiBold.ttf: true
+NotoSansArabic-SemiCondensedExtraLight.ttf
+NotoSansArabic-SemiCondensedExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedExtraLight.ttf
+NotoSansArabic-ExtraCondensedExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedBlack.ttf
+NotoSansArabic-ExtraCondensedBlack.ttf: true
+NotoSansArabic-SemiCondensedExtraBold.ttf
+NotoSansArabic-SemiCondensedExtraBold.ttf: true
+NotoSansArabic-CondensedMedium.ttf
+NotoSansArabic-CondensedMedium.ttf: true
+NotoSansArabic-Light.ttf
+NotoSansArabic-Light.ttf: true
+NotoSansArabic-Condensed.ttf
+NotoSansArabic-Condensed.ttf: true
+NotoSansArabic-ExtraBold.ttf
+NotoSansArabic-ExtraBold.ttf: true
+NotoSansArabic-SemiCondensedLight.ttf
+NotoSansArabic-SemiCondensedLight.ttf: true
+NotoSansArabic-ExtraCondensed.ttf
+NotoSansArabic-ExtraCondensed.ttf: true
+NotoSansArabic-SemiCondensedMedium.ttf
+NotoSansArabic-SemiCondensedMedium.ttf: true
+NotoColorEmoji.ttf
+NotoColorEmoji.ttf: false
+NotoSansArabic-SemiCondensedBlack.ttf
+NotoSansArabic-SemiCondensedBlack.ttf: true
+NotoSansArabic-CondensedBold.ttf
+NotoSansArabic-CondensedBold.ttf: true
+NotoSansArabic-SemiCondensed.ttf
+NotoSansArabic-SemiCondensed.ttf: true
+NotoSansArabic-Regular.ttf
+NotoSansArabic-Regular.ttf: true
+NotoSansArabic-Black.ttf
+NotoSansArabic-Black.ttf: true
+NotoSansArabic-SemiBold.ttf
+NotoSansArabic-SemiBold.ttf: true
+Noto_Emoji
+NotoEmoji-Regular.ttf
+NotoEmoji-Regular.ttf: false
+Noto_Kufi_Arabic
+NotoKufiArabic-Bold.ttf
+NotoKufiArabic-Bold.ttf: true
+NotoKufiArabic-Regular.ttf
+NotoKufiArabic-Regular.ttf: true
+Noto_Mono
+NotoMono-Regular.ttf
+NotoMono-Regular.ttf: true
+Noto_Naskh_Arabic
+NotoNaskhArabic-Bold.ttf
+NotoNaskhArabic-Bold.ttf: true
+NotoNaskhArabic-Regular.ttf
+NotoNaskhArabic-Regular.ttf: true
+Noto_Naskh_Arabic_UI
+NotoNaskhArabicUI-Bold.ttf
+NotoNaskhArabicUI-Bold.ttf: true
+NotoNaskhArabicUI-Regular.ttf
+NotoNaskhArabicUI-Regular.ttf: true
+Noto_Nastaliq_Urdu
+NotoNastaliqUrdu-Regular.ttf
+NotoNastaliqUrdu-Regular.ttf: false
+Noto_Sans_Adlam
+NotoSansAdlam-Regular.ttf
+NotoSansAdlam-Regular.ttf: true
+Noto_Sans_Adlam_Unjoined
+NotoSansAdlamUnjoined-Regular.ttf
+NotoSansAdlamUnjoined-Regular.ttf: true
+Noto_Sans_AnatoHiero
+NotoSansAnatolianHieroglyphs-Regular.ttf
+NotoSansAnatolianHieroglyphs-Regular.ttf: false
+Noto_Sans_Arabic
+Noto_Sans_Arabic_Blk
+Noto_Sans_Arabic_Cond
+Noto_Sans_Arabic_Cond_Blk
+Noto_Sans_Arabic_Cond_ExtBd
+Noto_Sans_Arabic_Cond_ExtLt
+Noto_Sans_Arabic_Cond_Light
+Noto_Sans_Arabic_Cond_Med
+Noto_Sans_Arabic_Cond_SemBd
+Noto_Sans_Arabic_Cond_Thin
+Noto_Sans_Arabic_ExtBd
+Noto_Sans_Arabic_ExtCond
+Noto_Sans_Arabic_ExtCond_Blk
+Noto_Sans_Arabic_ExtCond_ExtBd
+Noto_Sans_Arabic_ExtCond_ExtLt
+Noto_Sans_Arabic_ExtCond_Light
+Noto_Sans_Arabic_ExtCond_Med
+Noto_Sans_Arabic_ExtCond_SemBd
+Noto_Sans_Arabic_ExtCond_Thin
+Noto_Sans_Arabic_ExtLt
+Noto_Sans_Arabic_Light
+Noto_Sans_Arabic_Med
+Noto_Sans_Arabic_SemBd
+Noto_Sans_Arabic_SemCond
+Noto_Sans_Arabic_SemCond_Blk
+Noto_Sans_Arabic_SemCond_ExtBd
+Noto_Sans_Arabic_SemCond_ExtLt
+Noto_Sans_Arabic_SemCond_Light
+Noto_Sans_Arabic_SemCond_Med
+Noto_Sans_Arabic_SemCond_SemBd
+Noto_Sans_Arabic_SemCond_Thin
+Noto_Sans_Arabic_Thin
+NotoSansArabic-SemiCondensedThin.ttf
+NotoSansArabic-SemiCondensedThin.ttf: true
+NotoSansArabic-SemiCondensedBold.ttf
+NotoSansArabic-SemiCondensedBold.ttf: true
+NotoSansArabic-ExtraCondensedThin.ttf
+NotoSansArabic-ExtraCondensedThin.ttf: true
+NotoSansArabic-CondensedThin.ttf
+NotoSansArabic-CondensedThin.ttf: true
+NotoSansArabic-Thin.ttf
+NotoSansArabic-Thin.ttf: true
+NotoSansArabic-Medium.ttf
+NotoSansArabic-Medium.ttf: true
+NotoSansArabic-CondensedExtraLight.ttf
+NotoSansArabic-CondensedExtraLight.ttf: true
+NotoSansArabic-CondensedExtraBold.ttf
+NotoSansArabic-CondensedExtraBold.ttf: true
+NotoSansArabic-CondensedBlack.ttf
+NotoSansArabic-CondensedBlack.ttf: true
+NotoSansArabic-ExtraLight.ttf
+NotoSansArabic-ExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedLight.ttf
+NotoSansArabic-ExtraCondensedLight.ttf: true
+NotoSansArabic-Bold.ttf
+NotoSansArabic-Bold.ttf: true
+NotoSansArabic-ExtraCondensedExtraBold.ttf
+NotoSansArabic-ExtraCondensedExtraBold.ttf: true
+NotoSansArabic-ExtraCondensedSemiBold.ttf
+NotoSansArabic-ExtraCondensedSemiBold.ttf: true
+NotoSansArabic-CondensedSemiBold.ttf
+NotoSansArabic-CondensedSemiBold.ttf: true
+NotoSansArabic-CondensedLight.ttf
+NotoSansArabic-CondensedLight.ttf: true
+NotoSansArabic-ExtraCondensedBold.ttf
+NotoSansArabic-ExtraCondensedBold.ttf: true
+NotoSansArabic-ExtraCondensedMedium.ttf
+NotoSansArabic-ExtraCondensedMedium.ttf: true
+NotoSansArabic-SemiCondensedSemiBold.ttf
+NotoSansArabic-SemiCondensedSemiBold.ttf: true
+NotoSansArabic-SemiCondensedExtraLight.ttf
+NotoSansArabic-SemiCondensedExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedExtraLight.ttf
+NotoSansArabic-ExtraCondensedExtraLight.ttf: true
+NotoSansArabic-ExtraCondensedBlack.ttf
+NotoSansArabic-ExtraCondensedBlack.ttf: true
+NotoSansArabic-SemiCondensedExtraBold.ttf
+NotoSansArabic-SemiCondensedExtraBold.ttf: true
+NotoSansArabic-CondensedMedium.ttf
+NotoSansArabic-CondensedMedium.ttf: true
+NotoSansArabic-Light.ttf
+NotoSansArabic-Light.ttf: true
+NotoSansArabic-Condensed.ttf
+NotoSansArabic-Condensed.ttf: true
+NotoSansArabic-ExtraBold.ttf
+NotoSansArabic-ExtraBold.ttf: true
+NotoSansArabic-SemiCondensedLight.ttf
+NotoSansArabic-SemiCondensedLight.ttf: true
+NotoSansArabic-ExtraCondensed.ttf
+NotoSansArabic-ExtraCondensed.ttf: true
+NotoSansArabic-SemiCondensedMedium.ttf
+NotoSansArabic-SemiCondensedMedium.ttf: true
+NotoSansArabic-SemiCondensedBlack.ttf
+NotoSansArabic-SemiCondensedBlack.ttf: true
+NotoSansArabic-CondensedBold.ttf
+NotoSansArabic-CondensedBold.ttf: true
+NotoSansArabic-SemiCondensed.ttf
+NotoSansArabic-SemiCondensed.ttf: true
+NotoSansArabic-Regular.ttf
+NotoSansArabic-Regular.ttf: true
+NotoSansArabic-Black.ttf
+NotoSansArabic-Black.ttf: true
+NotoSansArabic-SemiBold.ttf
+NotoSansArabic-SemiBold.ttf: true
+Noto_Sans_Arabic_UI
+Noto_Sans_Arabic_UI_Bk
+Noto_Sans_Arabic_UI_Cn
+Noto_Sans_Arabic_UI_Cn_Bk
+Noto_Sans_Arabic_UI_Cn_Lt
+Noto_Sans_Arabic_UI_Cn_Md
+Noto_Sans_Arabic_UI_Cn_SmBd
+Noto_Sans_Arabic_UI_Cn_Th
+Noto_Sans_Arabic_UI_Cn_XBd
+Noto_Sans_Arabic_UI_Cn_XLt
+Noto_Sans_Arabic_UI_Lt
+Noto_Sans_Arabic_UI_Md
+Noto_Sans_Arabic_UI_SmBd
+Noto_Sans_Arabic_UI_SmCn
+Noto_Sans_Arabic_UI_SmCn_Bk
+Noto_Sans_Arabic_UI_SmCn_Lt
+Noto_Sans_Arabic_UI_SmCn_Md
+Noto_Sans_Arabic_UI_SmCn_SmBd
+Noto_Sans_Arabic_UI_SmCn_Th
+Noto_Sans_Arabic_UI_SmCn_XBd
+Noto_Sans_Arabic_UI_SmCn_XLt
+Noto_Sans_Arabic_UI_Th
+Noto_Sans_Arabic_UI_XBd
+Noto_Sans_Arabic_UI_XCn
+Noto_Sans_Arabic_UI_XCn_Bk
+Noto_Sans_Arabic_UI_XCn_Lt
+Noto_Sans_Arabic_UI_XCn_Md
+Noto_Sans_Arabic_UI_XCn_SmBd
+Noto_Sans_Arabic_UI_XCn_Th
+Noto_Sans_Arabic_UI_XCn_XBd
+Noto_Sans_Arabic_UI_XCn_XLt
+Noto_Sans_Arabic_UI_XLt
+NotoSansArabicUI-CondensedBold.ttf
+NotoSansArabicUI-CondensedBold.ttf: true
+NotoSansArabicUI-SemiCondensedLight.ttf
+NotoSansArabicUI-SemiCondensedLight.ttf: true
+NotoSansArabicUI-CondensedMedium.ttf
+NotoSansArabicUI-CondensedMedium.ttf: true
+NotoSansArabicUI-ExtraCondensedLight.ttf
+NotoSansArabicUI-ExtraCondensedLight.ttf: true
+NotoSansArabicUI-SemiCondensedSemiBold.ttf
+NotoSansArabicUI-SemiCondensedSemiBold.ttf: true
+NotoSansArabicUI-SemiCondensedBlack.ttf
+NotoSansArabicUI-SemiCondensedBlack.ttf: true
+NotoSansArabicUI-CondensedSemiBold.ttf
+NotoSansArabicUI-CondensedSemiBold.ttf: true
+NotoSansArabicUI-CondensedLight.ttf
+NotoSansArabicUI-CondensedLight.ttf: true
+NotoSansArabicUI-Medium.ttf
+NotoSansArabicUI-Medium.ttf: true
+NotoSansArabicUI-SemiCondensedExtraBold.ttf
+NotoSansArabicUI-SemiCondensedExtraBold.ttf: true
+NotoSansArabicUI-ExtraCondensedThin.ttf
+NotoSansArabicUI-ExtraCondensedThin.ttf: true
+NotoSansArabicUI-SemiCondensed.ttf
+NotoSansArabicUI-SemiCondensed.ttf: true
+NotoSansArabicUI-SemiCondensedThin.ttf
+NotoSansArabicUI-SemiCondensedThin.ttf: true
+NotoSansArabicUI-ExtraCondensed.ttf
+NotoSansArabicUI-ExtraCondensed.ttf: true
+NotoSansArabicUI-ExtraCondensedExtraBold.ttf
+NotoSansArabicUI-ExtraCondensedExtraBold.ttf: true
+NotoSansArabicUI-Bold.ttf
+NotoSansArabicUI-Bold.ttf: true
+NotoSansArabicUI-ExtraLight.ttf
+NotoSansArabicUI-ExtraLight.ttf: true
+NotoSansArabicUI-ExtraCondensedBold.ttf
+NotoSansArabicUI-ExtraCondensedBold.ttf: true
+NotoSansArabicUI-CondensedExtraBold.ttf
+NotoSansArabicUI-CondensedExtraBold.ttf: true
+NotoSansArabicUI-CondensedThin.ttf
+NotoSansArabicUI-CondensedThin.ttf: true
+NotoSansArabicUI-ExtraBold.ttf
+NotoSansArabicUI-ExtraBold.ttf: true
+NotoSansArabicUI-Regular.ttf
+NotoSansArabicUI-Regular.ttf: true
+NotoSansArabicUI-Condensed.ttf
+NotoSansArabicUI-Condensed.ttf: true
+NotoSansArabicUI-CondensedExtraLight.ttf
+NotoSansArabicUI-CondensedExtraLight.ttf: true
+NotoSansArabicUI-ExtraCondensedMedium.ttf
+NotoSansArabicUI-ExtraCondensedMedium.ttf: true
+NotoSansArabicUI-SemiCondensedMedium.ttf
+NotoSansArabicUI-SemiCondensedMedium.ttf: true
+NotoSansArabicUI-SemiBold.ttf
+NotoSansArabicUI-SemiBold.ttf: true
+NotoSansArabicUI-Thin.ttf
+NotoSansArabicUI-Thin.ttf: true
+NotoSansArabicUI-CondensedBlack.ttf
+NotoSansArabicUI-CondensedBlack.ttf: true
+NotoSansArabicUI-ExtraCondensedExtraLight.ttf
+NotoSansArabicUI-ExtraCondensedExtraLight.ttf: true
+NotoSansArabicUI-SemiCondensedBold.ttf
+NotoSansArabicUI-SemiCondensedBold.ttf: true
+NotoSansArabicUI-ExtraCondensedSemiBold.ttf
+NotoSansArabicUI-ExtraCondensedSemiBold.ttf: true
+NotoSansArabicUI-SemiCondensedExtraLight.ttf
+NotoSansArabicUI-SemiCondensedExtraLight.ttf: true
+NotoSansArabicUI-Light.ttf
+NotoSansArabicUI-Light.ttf: true
+NotoSansArabicUI-Black.ttf
+NotoSansArabicUI-Black.ttf: true
+NotoSansArabicUI-ExtraCondensedBlack.ttf
+NotoSansArabicUI-ExtraCondensedBlack.ttf: true
+Noto_Sans_Armenian
+Noto_Sans_Armenian_Blk
+Noto_Sans_Armenian_Cond
+Noto_Sans_Armenian_Cond_Blk
+Noto_Sans_Armenian_Cond_ExtBd
+Noto_Sans_Armenian_Cond_ExtLt
+Noto_Sans_Armenian_Cond_Light
+Noto_Sans_Armenian_Cond_Med
+Noto_Sans_Armenian_Cond_SemBd
+Noto_Sans_Armenian_Cond_Thin
+Noto_Sans_Armenian_ExtBd
+Noto_Sans_Armenian_ExtCond
+Noto_Sans_Armenian_ExtCond_Blk
+Noto_Sans_Armenian_ExtCond_ExtBd
+Noto_Sans_Armenian_ExtCond_ExtLt
+Noto_Sans_Armenian_ExtCond_Light
+Noto_Sans_Armenian_ExtCond_Med
+Noto_Sans_Armenian_ExtCond_SemBd
+Noto_Sans_Armenian_ExtCond_Thin
+Noto_Sans_Armenian_ExtLt
+Noto_Sans_Armenian_Light
+Noto_Sans_Armenian_Med
+Noto_Sans_Armenian_SemBd
+Noto_Sans_Armenian_SemCond
+Noto_Sans_Armenian_SemCond_Blk
+Noto_Sans_Armenian_SemCond_ExtBd
+Noto_Sans_Armenian_SemCond_ExtLt
+Noto_Sans_Armenian_SemCond_Light
+Noto_Sans_Armenian_SemCond_Med
+Noto_Sans_Armenian_SemCond_SemBd
+Noto_Sans_Armenian_SemCond_Thin
+Noto_Sans_Armenian_Thin
+NotoSansArmenian-Bold.ttf
+NotoSansArmenian-Bold.ttf: true
+NotoSansArmenian-SemiCondensedBold.ttf
+NotoSansArmenian-SemiCondensedBold.ttf: true
+NotoSansArmenian-ExtraBold.ttf
+NotoSansArmenian-ExtraBold.ttf: true
+NotoSansArmenian-ExtraCondensedSemiBold.ttf
+NotoSansArmenian-ExtraCondensedSemiBold.ttf: true
+NotoSansArmenian-CondensedBold.ttf
+NotoSansArmenian-CondensedBold.ttf: true
+NotoSansArmenian-SemiCondensedThin.ttf
+NotoSansArmenian-SemiCondensedThin.ttf: true
+NotoSansArmenian-CondensedSemiBold.ttf
+NotoSansArmenian-CondensedSemiBold.ttf: true
+NotoSansArmenian-ExtraCondensedThin.ttf
+NotoSansArmenian-ExtraCondensedThin.ttf: true
+NotoSansArmenian-Black.ttf
+NotoSansArmenian-Black.ttf: true
+NotoSansArmenian-SemiCondensedBlack.ttf
+NotoSansArmenian-SemiCondensedBlack.ttf: true
+NotoSansArmenian-SemiCondensedMedium.ttf
+NotoSansArmenian-SemiCondensedMedium.ttf: true
+NotoSansArmenian-ExtraCondensed.ttf
+NotoSansArmenian-ExtraCondensed.ttf: true
+NotoSansArmenian-ExtraCondensedExtraBold.ttf
+NotoSansArmenian-ExtraCondensedExtraBold.ttf: true
+NotoSansArmenian-SemiCondensed.ttf
+NotoSansArmenian-SemiCondensed.ttf: true
+NotoSansArmenian-Medium.ttf
+NotoSansArmenian-Medium.ttf: true
+NotoSansArmenian-Condensed.ttf
+NotoSansArmenian-Condensed.ttf: true
+NotoSansArmenian-CondensedExtraLight.ttf
+NotoSansArmenian-CondensedExtraLight.ttf: true
+NotoSansArmenian-ExtraLight.ttf
+NotoSansArmenian-ExtraLight.ttf: true
+NotoSansArmenian-ExtraCondensedBlack.ttf
+NotoSansArmenian-ExtraCondensedBlack.ttf: true
+NotoSansArmenian-SemiCondensedLight.ttf
+NotoSansArmenian-SemiCondensedLight.ttf: true
+NotoSansArmenian-SemiCondensedSemiBold.ttf
+NotoSansArmenian-SemiCondensedSemiBold.ttf: true
+NotoSansArmenian-ExtraCondensedMedium.ttf
+NotoSansArmenian-ExtraCondensedMedium.ttf: true
+NotoSansArmenian-ExtraCondensedExtraLight.ttf
+NotoSansArmenian-ExtraCondensedExtraLight.ttf: true
+NotoSansArmenian-Regular.ttf
+NotoSansArmenian-Regular.ttf: true
+NotoSansArmenian-SemiBold.ttf
+NotoSansArmenian-SemiBold.ttf: true
+NotoSansArmenian-CondensedExtraBold.ttf
+NotoSansArmenian-CondensedExtraBold.ttf: true
+NotoSansArmenian-CondensedLight.ttf
+NotoSansArmenian-CondensedLight.ttf: true
+NotoSansArmenian-SemiCondensedExtraLight.ttf
+NotoSansArmenian-SemiCondensedExtraLight.ttf: true
+NotoSansArmenian-ExtraCondensedLight.ttf
+NotoSansArmenian-ExtraCondensedLight.ttf: true
+NotoSansArmenian-Thin.ttf
+NotoSansArmenian-Thin.ttf: true
+NotoSansArmenian-CondensedBlack.ttf
+NotoSansArmenian-CondensedBlack.ttf: true
+NotoSansArmenian-Light.ttf
+NotoSansArmenian-Light.ttf: true
+NotoSansArmenian-ExtraCondensedBold.ttf
+NotoSansArmenian-ExtraCondensedBold.ttf: true
+NotoSansArmenian-SemiCondensedExtraBold.ttf
+NotoSansArmenian-SemiCondensedExtraBold.ttf: true
+NotoSansArmenian-CondensedThin.ttf
+NotoSansArmenian-CondensedThin.ttf: true
+NotoSansArmenian-CondensedMedium.ttf
+NotoSansArmenian-CondensedMedium.ttf: true
+Noto_Sans_Avestan
+NotoSansAvestan-Regular.ttf
+NotoSansAvestan-Regular.ttf: true
+Noto_Sans_Balinese
+NotoSansBalinese-Regular.ttf
+NotoSansBalinese-Regular.ttf: false
+Noto_Sans_Bamum
+NotoSansBamum-Regular.ttf
+NotoSansBamum-Regular.ttf: true
+Noto_Sans_Batak
+NotoSansBatak-Regular.ttf
+NotoSansBatak-Regular.ttf: false
+Noto_Sans_Bengali
+Noto_Sans_Bengali_Blk
+Noto_Sans_Bengali_ExtBd
+Noto_Sans_Bengali_ExtLt
+Noto_Sans_Bengali_Light
+Noto_Sans_Bengali_Med
+Noto_Sans_Bengali_SemBd
+Noto_Sans_Bengali_Thin
+NotoSansBengali-Light.ttf
+NotoSansBengali-Light.ttf: true
+NotoSansBengali-Bold.ttf
+NotoSansBengali-Bold.ttf: true
+NotoSansBengali-ExtraLight.ttf
+NotoSansBengali-ExtraLight.ttf: true
+NotoSansBengali-SemiBold.ttf
+NotoSansBengali-SemiBold.ttf: true
+NotoSansBengali-Thin.ttf
+NotoSansBengali-Thin.ttf: true
+NotoSansBengali-ExtraBold.ttf
+NotoSansBengali-ExtraBold.ttf: true
+NotoSansBengali-Black.ttf
+NotoSansBengali-Black.ttf: true
+NotoSansBengali-Regular.ttf
+NotoSansBengali-Regular.ttf: true
+NotoSansBengali-Medium.ttf
+NotoSansBengali-Medium.ttf: true
+Noto_Sans_Bengali_Blk
+Noto_Sans_Bengali_ExtBd
+Noto_Sans_Bengali_ExtLt
+Noto_Sans_Bengali_Light
+Noto_Sans_Bengali_Med
+Noto_Sans_Bengali_SemBd
+Noto_Sans_Bengali_Thin
+Noto_Sans_Bengali_UI
+NotoSansBengaliUI-Medium.ttf
+NotoSansBengaliUI-Medium.ttf: true
+NotoSansBengaliUI-Light.ttf
+NotoSansBengaliUI-Light.ttf: true
+NotoSansBengaliUI-ExtraBold.ttf
+NotoSansBengaliUI-ExtraBold.ttf: true
+NotoSansBengaliUI-SemiBold.ttf
+NotoSansBengaliUI-SemiBold.ttf: true
+NotoSansBengaliUI-Regular.ttf
+NotoSansBengaliUI-Regular.ttf: true
+NotoSansBengaliUI-Black.ttf
+NotoSansBengaliUI-Black.ttf: true
+NotoSansBengaliUI-ExtraLight.ttf
+NotoSansBengaliUI-ExtraLight.ttf: true
+NotoSansBengaliUI-Bold.ttf
+NotoSansBengaliUI-Bold.ttf: true
+NotoSansBengaliUI-Thin.ttf
+NotoSansBengaliUI-Thin.ttf: true
+Noto_Sans_Brahmi
+NotoSansBrahmi-Regular.ttf
+NotoSansBrahmi-Regular.ttf: false
+Noto_Sans_Buginese
+NotoSansBuginese-Regular.ttf
+NotoSansBuginese-Regular.ttf: false
+Noto_Sans_Buhid
+NotoSansBuhid-Regular.ttf
+NotoSansBuhid-Regular.ttf: true
+Noto_Sans_Canadian_Aboriginal
+NotoSansCanadianAboriginal-Regular.ttf
+NotoSansCanadianAboriginal-Regular.ttf: false
+Noto_Sans_Carian
+NotoSansCarian-Regular.ttf
+NotoSansCarian-Regular.ttf: true
+Noto_Sans_Chakma
+NotoSansChakma-Regular.ttf
+NotoSansChakma-Regular.ttf: true
+Noto_Sans_Cham
+Noto_Sans_Cham_Blk
+Noto_Sans_Cham_ExtBd
+Noto_Sans_Cham_ExtLt
+Noto_Sans_Cham_Light
+Noto_Sans_Cham_Med
+Noto_Sans_Cham_SemBd
+Noto_Sans_Cham_Thin
+NotoSansCham-Black.ttf
+NotoSansCham-Black.ttf: false
+NotoSansCham-Bold.ttf
+NotoSansCham-Bold.ttf: false
+NotoSansCham-Regular.ttf
+NotoSansCham-Regular.ttf: false
+NotoSansCham-Light.ttf
+NotoSansCham-Light.ttf: false
+NotoSansCham-SemiBold.ttf
+NotoSansCham-SemiBold.ttf: false
+NotoSansCham-Medium.ttf
+NotoSansCham-Medium.ttf: false
+NotoSansCham-ExtraLight.ttf
+NotoSansCham-ExtraLight.ttf: false
+NotoSansCham-ExtraBold.ttf
+NotoSansCham-ExtraBold.ttf: false
+NotoSansCham-Thin.ttf
+NotoSansCham-Thin.ttf: false
+Noto_Sans_Cherokee
+Noto_Sans_Cherokee_Blk
+Noto_Sans_Cherokee_ExtBd
+Noto_Sans_Cherokee_ExtLt
+Noto_Sans_Cherokee_Light
+Noto_Sans_Cherokee_Med
+Noto_Sans_Cherokee_SemBd
+Noto_Sans_Cherokee_Thin
+NotoSansCherokee-SemiBold.ttf
+NotoSansCherokee-SemiBold.ttf: true
+NotoSansCherokee-Regular.ttf
+NotoSansCherokee-Regular.ttf: true
+NotoSansCherokee-Light.ttf
+NotoSansCherokee-Light.ttf: true
+NotoSansCherokee-Medium.ttf
+NotoSansCherokee-Medium.ttf: true
+NotoSansCherokee-ExtraBold.ttf
+NotoSansCherokee-ExtraBold.ttf: true
+NotoSansCherokee-ExtraLight.ttf
+NotoSansCherokee-ExtraLight.ttf: true
+NotoSansCherokee-Black.ttf
+NotoSansCherokee-Black.ttf: true
+NotoSansCherokee-Bold.ttf
+NotoSansCherokee-Bold.ttf: true
+NotoSansCherokee-Thin.ttf
+NotoSansCherokee-Thin.ttf: true
+Noto_Sans_Coptic
+NotoSansCoptic-Regular.ttf
+NotoSansCoptic-Regular.ttf: false
+Noto_Sans_Cuneiform
+NotoSansCuneiform-Regular.ttf
+NotoSansCuneiform-Regular.ttf: false
+Noto_Sans_Cypriot
+NotoSansCypriot-Regular.ttf
+NotoSansCypriot-Regular.ttf: true
+Noto_Sans_Deseret
+NotoSansDeseret-Regular.ttf
+NotoSansDeseret-Regular.ttf: true
+Noto_Sans_Devanagari
+Noto_Sans_Devanagari_Bk
+Noto_Sans_Devanagari_Cn
+Noto_Sans_Devanagari_Cn_Bk
+Noto_Sans_Devanagari_Cn_Lt
+Noto_Sans_Devanagari_Cn_Md
+Noto_Sans_Devanagari_Cn_SmBd
+Noto_Sans_Devanagari_Cn_Th
+Noto_Sans_Devanagari_Cn_XBd
+Noto_Sans_Devanagari_Cn_XLt
+Noto_Sans_Devanagari_Lt
+Noto_Sans_Devanagari_Md
+Noto_Sans_Devanagari_SmBd
+Noto_Sans_Devanagari_SmCn
+Noto_Sans_Devanagari_SmCn_Bk
+Noto_Sans_Devanagari_SmCn_Lt
+Noto_Sans_Devanagari_SmCn_Md
+Noto_Sans_Devanagari_SmCn_SmBd
+Noto_Sans_Devanagari_SmCn_Th
+Noto_Sans_Devanagari_SmCn_XBd
+Noto_Sans_Devanagari_SmCn_XLt
+Noto_Sans_Devanagari_Th
+Noto_Sans_Devanagari_XBd
+Noto_Sans_Devanagari_XCn
+Noto_Sans_Devanagari_XCn_Bk
+Noto_Sans_Devanagari_XCn_Lt
+Noto_Sans_Devanagari_XCn_Md
+Noto_Sans_Devanagari_XCn_SmBd
+Noto_Sans_Devanagari_XCn_Th
+Noto_Sans_Devanagari_XCn_XBd
+Noto_Sans_Devanagari_XCn_XLt
+Noto_Sans_Devanagari_XLt
+NotoSansDevanagari-SemiCondensedSemiBold.ttf
+NotoSansDevanagari-SemiCondensedSemiBold.ttf: true
+NotoSansDevanagari-ExtraCondensedBlack.ttf
+NotoSansDevanagari-ExtraCondensedBlack.ttf: true
+NotoSansDevanagari-ExtraCondensedExtraLight.ttf
+NotoSansDevanagari-ExtraCondensedExtraLight.ttf: true
+NotoSansDevanagari-CondensedExtraLight.ttf
+NotoSansDevanagari-CondensedExtraLight.ttf: true
+NotoSansDevanagari-CondensedBlack.ttf
+NotoSansDevanagari-CondensedBlack.ttf: true
+NotoSansDevanagari-CondensedThin.ttf
+NotoSansDevanagari-CondensedThin.ttf: true
+NotoSansDevanagari-Thin.ttf
+NotoSansDevanagari-Thin.ttf: true
+NotoSansDevanagari-Bold.ttf
+NotoSansDevanagari-Bold.ttf: true
+NotoSansDevanagari-CondensedExtraBold.ttf
+NotoSansDevanagari-CondensedExtraBold.ttf: true
+NotoSansDevanagari-CondensedSemiBold.ttf
+NotoSansDevanagari-CondensedSemiBold.ttf: true
+NotoSansDevanagari-CondensedMedium.ttf
+NotoSansDevanagari-CondensedMedium.ttf: true
+NotoSansDevanagari-Condensed.ttf
+NotoSansDevanagari-Condensed.ttf: true
+NotoSansDevanagari-Medium.ttf
+NotoSansDevanagari-Medium.ttf: true
+NotoSansDevanagari-ExtraCondensedExtraBold.ttf
+NotoSansDevanagari-ExtraCondensedExtraBold.ttf: true
+NotoSansDevanagari-SemiCondensedExtraLight.ttf
+NotoSansDevanagari-SemiCondensedExtraLight.ttf: true
+NotoSansDevanagari-Regular.ttf
+NotoSansDevanagari-Regular.ttf: true
+NotoSansDevanagari-SemiCondensedLight.ttf
+NotoSansDevanagari-SemiCondensedLight.ttf: true
+NotoSansDevanagari-SemiBold.ttf
+NotoSansDevanagari-SemiBold.ttf: true
+NotoSansDevanagari-SemiCondensedThin.ttf
+NotoSansDevanagari-SemiCondensedThin.ttf: true
+NotoSansDevanagari-ExtraCondensedLight.ttf
+NotoSansDevanagari-ExtraCondensedLight.ttf: true
+NotoSansDevanagari-ExtraCondensedSemiBold.ttf
+NotoSansDevanagari-ExtraCondensedSemiBold.ttf: true
+NotoSansDevanagari-CondensedLight.ttf
+NotoSansDevanagari-CondensedLight.ttf: true
+NotoSansDevanagari-SemiCondensed.ttf
+NotoSansDevanagari-SemiCondensed.ttf: true
+NotoSansDevanagari-ExtraBold.ttf
+NotoSansDevanagari-ExtraBold.ttf: true
+NotoSansDevanagari-ExtraCondensedThin.ttf
+NotoSansDevanagari-ExtraCondensedThin.ttf: true
+NotoSansDevanagari-SemiCondensedExtraBold.ttf
+NotoSansDevanagari-SemiCondensedExtraBold.ttf: true
+NotoSansDevanagari-Light.ttf
+NotoSansDevanagari-Light.ttf: true
+NotoSansDevanagari-SemiCondensedMedium.ttf
+NotoSansDevanagari-SemiCondensedMedium.ttf: true
+NotoSansDevanagari-CondensedBold.ttf
+NotoSansDevanagari-CondensedBold.ttf: true
+NotoSansDevanagari-Black.ttf
+NotoSansDevanagari-Black.ttf: true
+NotoSansDevanagari-SemiCondensedBold.ttf
+NotoSansDevanagari-SemiCondensedBold.ttf: true
+NotoSansDevanagari-ExtraCondensedBold.ttf
+NotoSansDevanagari-ExtraCondensedBold.ttf: true
+NotoSansDevanagari-ExtraCondensed.ttf
+NotoSansDevanagari-ExtraCondensed.ttf: true
+NotoSansDevanagari-SemiCondensedBlack.ttf
+NotoSansDevanagari-SemiCondensedBlack.ttf: true
+NotoSansDevanagari-ExtraLight.ttf
+NotoSansDevanagari-ExtraLight.ttf: true
+NotoSansDevanagari-ExtraCondensedMedium.ttf
+NotoSansDevanagari-ExtraCondensedMedium.ttf: true
+Noto_Sans_Devanagari_Bk
+Noto_Sans_Devanagari_Cn
+Noto_Sans_Devanagari_Cn_Bk
+Noto_Sans_Devanagari_Cn_Lt
+Noto_Sans_Devanagari_Cn_Md
+Noto_Sans_Devanagari_Cn_SmBd
+Noto_Sans_Devanagari_Cn_Th
+Noto_Sans_Devanagari_Cn_XBd
+Noto_Sans_Devanagari_Cn_XLt
+Noto_Sans_Devanagari_Lt
+Noto_Sans_Devanagari_Md
+Noto_Sans_Devanagari_SmBd
+Noto_Sans_Devanagari_SmCn
+Noto_Sans_Devanagari_SmCn_Bk
+Noto_Sans_Devanagari_SmCn_Lt
+Noto_Sans_Devanagari_SmCn_Md
+Noto_Sans_Devanagari_SmCn_SmBd
+Noto_Sans_Devanagari_SmCn_Th
+Noto_Sans_Devanagari_SmCn_XBd
+Noto_Sans_Devanagari_SmCn_XLt
+Noto_Sans_Devanagari_Th
+Noto_Sans_Devanagari_UI
+Noto_Sans_Devanagari_XBd
+Noto_Sans_Devanagari_XCn
+Noto_Sans_Devanagari_XCn_Bk
+Noto_Sans_Devanagari_XCn_Lt
+Noto_Sans_Devanagari_XCn_Md
+Noto_Sans_Devanagari_XCn_SmBd
+Noto_Sans_Devanagari_XCn_Th
+Noto_Sans_Devanagari_XCn_XBd
+Noto_Sans_Devanagari_XCn_XLt
+Noto_Sans_Devanagari_XLt
+NotoSansDevanagariUI-Black.ttf
+NotoSansDevanagariUI-Black.ttf: true
+NotoSansDevanagariUI-CondensedLight.ttf
+NotoSansDevanagariUI-CondensedLight.ttf: true
+NotoSansDevanagariUI-SemiCondensedBlack.ttf
+NotoSansDevanagariUI-SemiCondensedBlack.ttf: true
+NotoSansDevanagariUI-Bold.ttf
+NotoSansDevanagariUI-Bold.ttf: true
+NotoSansDevanagariUI-ExtraCondensed.ttf
+NotoSansDevanagariUI-ExtraCondensed.ttf: true
+NotoSansDevanagariUI-ExtraCondensedExtraLight.ttf
+NotoSansDevanagariUI-ExtraCondensedExtraLight.ttf: true
+NotoSansDevanagariUI-SemiCondensedExtraLight.ttf
+NotoSansDevanagariUI-SemiCondensedExtraLight.ttf: true
+NotoSansDevanagariUI-CondensedBold.ttf
+NotoSansDevanagariUI-CondensedBold.ttf: true
+NotoSansDevanagariUI-ExtraCondensedMedium.ttf
+NotoSansDevanagariUI-ExtraCondensedMedium.ttf: true
+NotoSansDevanagariUI-CondensedThin.ttf
+NotoSansDevanagariUI-CondensedThin.ttf: true
+NotoSansDevanagariUI-Condensed.ttf
+NotoSansDevanagariUI-Condensed.ttf: true
+NotoSansDevanagariUI-SemiCondensedLight.ttf
+NotoSansDevanagariUI-SemiCondensedLight.ttf: true
+NotoSansDevanagariUI-CondensedSemiBold.ttf
+NotoSansDevanagariUI-CondensedSemiBold.ttf: true
+NotoSansDevanagariUI-ExtraBold.ttf
+NotoSansDevanagariUI-ExtraBold.ttf: true
+NotoSansDevanagariUI-ExtraCondensedThin.ttf
+NotoSansDevanagariUI-ExtraCondensedThin.ttf: true
+NotoSansDevanagariUI-SemiCondensedThin.ttf
+NotoSansDevanagariUI-SemiCondensedThin.ttf: true
+NotoSansDevanagariUI-SemiCondensedSemiBold.ttf
+NotoSansDevanagariUI-SemiCondensedSemiBold.ttf: true
+NotoSansDevanagariUI-ExtraLight.ttf
+NotoSansDevanagariUI-ExtraLight.ttf: true
+NotoSansDevanagariUI-Medium.ttf
+NotoSansDevanagariUI-Medium.ttf: true
+NotoSansDevanagariUI-Regular.ttf
+NotoSansDevanagariUI-Regular.ttf: true
+NotoSansDevanagariUI-ExtraCondensedExtraBold.ttf
+NotoSansDevanagariUI-ExtraCondensedExtraBold.ttf: true
+NotoSansDevanagariUI-CondensedExtraLight.ttf
+NotoSansDevanagariUI-CondensedExtraLight.ttf: true
+NotoSansDevanagariUI-SemiCondensedExtraBold.ttf
+NotoSansDevanagariUI-SemiCondensedExtraBold.ttf: true
+NotoSansDevanagariUI-ExtraCondensedLight.ttf
+NotoSansDevanagariUI-ExtraCondensedLight.ttf: true
+NotoSansDevanagariUI-CondensedBlack.ttf
+NotoSansDevanagariUI-CondensedBlack.ttf: true
+NotoSansDevanagariUI-SemiBold.ttf
+NotoSansDevanagariUI-SemiBold.ttf: true
+NotoSansDevanagariUI-Light.ttf
+NotoSansDevanagariUI-Light.ttf: true
+NotoSansDevanagariUI-Thin.ttf
+NotoSansDevanagariUI-Thin.ttf: true
+NotoSansDevanagariUI-SemiCondensed.ttf
+NotoSansDevanagariUI-SemiCondensed.ttf: true
+NotoSansDevanagariUI-ExtraCondensedBold.ttf
+NotoSansDevanagariUI-ExtraCondensedBold.ttf: true
+NotoSansDevanagariUI-ExtraCondensedSemiBold.ttf
+NotoSansDevanagariUI-ExtraCondensedSemiBold.ttf: true
+NotoSansDevanagariUI-SemiCondensedMedium.ttf
+NotoSansDevanagariUI-SemiCondensedMedium.ttf: true
+NotoSansDevanagariUI-CondensedExtraBold.ttf
+NotoSansDevanagariUI-CondensedExtraBold.ttf: true
+NotoSansDevanagariUI-CondensedMedium.ttf
+NotoSansDevanagariUI-CondensedMedium.ttf: true
+NotoSansDevanagariUI-SemiCondensedBold.ttf
+NotoSansDevanagariUI-SemiCondensedBold.ttf: true
+NotoSansDevanagariUI-ExtraCondensedBlack.ttf
+NotoSansDevanagariUI-ExtraCondensedBlack.ttf: true
+Noto_Sans_Disp
+Noto_Sans_Disp_Blk
+Noto_Sans_Disp_Cond
+Noto_Sans_Disp_Cond_Blk
+Noto_Sans_Disp_Cond_ExtBd
+Noto_Sans_Disp_Cond_ExtLt
+Noto_Sans_Disp_Cond_Light
+Noto_Sans_Disp_Cond_Med
+Noto_Sans_Disp_Cond_SemBd
+Noto_Sans_Disp_Cond_Thin
+Noto_Sans_Disp_ExtBd
+Noto_Sans_Disp_ExtCond
+Noto_Sans_Disp_ExtCond_Blk
+Noto_Sans_Disp_ExtCond_ExtBd
+Noto_Sans_Disp_ExtCond_ExtLt
+Noto_Sans_Disp_ExtCond_Light
+Noto_Sans_Disp_ExtCond_Med
+Noto_Sans_Disp_ExtCond_SemBd
+Noto_Sans_Disp_ExtCond_Thin
+Noto_Sans_Disp_ExtLt
+Noto_Sans_Disp_Light
+Noto_Sans_Disp_Med
+Noto_Sans_Disp_SemBd
+Noto_Sans_Disp_SemCond
+Noto_Sans_Disp_SemCond_Blk
+Noto_Sans_Disp_SemCond_ExtBd
+Noto_Sans_Disp_SemCond_ExtLt
+Noto_Sans_Disp_SemCond_Light
+Noto_Sans_Disp_SemCond_Med
+Noto_Sans_Disp_SemCond_SemBd
+Noto_Sans_Disp_SemCond_Thin
+Noto_Sans_Disp_Thin
+NotoSansDisplay-SemiCondensedBlack.ttf
+NotoSansDisplay-SemiCondensedBlack.ttf: true
+NotoSansDisplay-SemiCondensedLightItalic.ttf
+NotoSansDisplay-SemiCondensedLightItalic.ttf: true
+NotoSansDisplay-SemiCondensedExtraLight.ttf
+NotoSansDisplay-SemiCondensedExtraLight.ttf: true
+NotoSansDisplay-CondensedExtraBold.ttf
+NotoSansDisplay-CondensedExtraBold.ttf: true
+NotoSansDisplay-CondensedBlackItalic.ttf
+NotoSansDisplay-CondensedBlackItalic.ttf: true
+NotoSansDisplay-SemiCondensedExtraLightItalic.ttf
+NotoSansDisplay-SemiCondensedExtraLightItalic.ttf: true
+NotoSansDisplay-SemiCondensedMediumItalic.ttf
+NotoSansDisplay-SemiCondensedMediumItalic.ttf: true
+NotoSansDisplay-SemiCondensed.ttf
+NotoSansDisplay-SemiCondensed.ttf: true
+NotoSansDisplay-Condensed.ttf
+NotoSansDisplay-Condensed.ttf: true
+NotoSansDisplay-SemiCondensedSemiBoldItalic.ttf
+NotoSansDisplay-SemiCondensedSemiBoldItalic.ttf: true
+NotoSansDisplay-MediumItalic.ttf
+NotoSansDisplay-MediumItalic.ttf: true
+NotoSansDisplay-ExtraCondensedLight.ttf
+NotoSansDisplay-ExtraCondensedLight.ttf: true
+NotoSansDisplay-CondensedBlack.ttf
+NotoSansDisplay-CondensedBlack.ttf: true
+NotoSansDisplay-SemiCondensedBold.ttf
+NotoSansDisplay-SemiCondensedBold.ttf: true
+NotoSansDisplay-ExtraCondensedBold.ttf
+NotoSansDisplay-ExtraCondensedBold.ttf: true
+NotoSansDisplay-CondensedSemiBoldItalic.ttf
+NotoSansDisplay-CondensedSemiBoldItalic.ttf: true
+NotoSansDisplay-CondensedExtraBoldItalic.ttf
+NotoSansDisplay-CondensedExtraBoldItalic.ttf: true
+NotoSansDisplay-LightItalic.ttf
+NotoSansDisplay-LightItalic.ttf: true
+NotoSansDisplay-Bold.ttf
+NotoSansDisplay-Bold.ttf: true
+NotoSansDisplay-CondensedExtraLightItalic.ttf
+NotoSansDisplay-CondensedExtraLightItalic.ttf: true
+NotoSansDisplay-CondensedLight.ttf
+NotoSansDisplay-CondensedLight.ttf: true
+NotoSansDisplay-ExtraBold.ttf
+NotoSansDisplay-ExtraBold.ttf: true
+NotoSansDisplay-SemiCondensedThin.ttf
+NotoSansDisplay-SemiCondensedThin.ttf: true
+NotoSansDisplay-SemiCondensedBlackItalic.ttf
+NotoSansDisplay-SemiCondensedBlackItalic.ttf: true
+NotoSansDisplay-SemiBold.ttf
+NotoSansDisplay-SemiBold.ttf: true
+NotoSansDisplay-ExtraCondensedBoldItalic.ttf
+NotoSansDisplay-ExtraCondensedBoldItalic.ttf: true
+NotoSansDisplay-SemiCondensedSemiBold.ttf
+NotoSansDisplay-SemiCondensedSemiBold.ttf: true
+NotoSansDisplay-CondensedBoldItalic.ttf
+NotoSansDisplay-CondensedBoldItalic.ttf: true
+NotoSansDisplay-ExtraCondensedThinItalic.ttf
+NotoSansDisplay-ExtraCondensedThinItalic.ttf: true
+NotoSansDisplay-ExtraLight.ttf
+NotoSansDisplay-ExtraLight.ttf: true
+NotoSansDisplay-SemiCondensedExtraBoldItalic.ttf
+NotoSansDisplay-SemiCondensedExtraBoldItalic.ttf: true
+NotoSansDisplay-CondensedLightItalic.ttf
+NotoSansDisplay-CondensedLightItalic.ttf: true
+NotoSansDisplay-ThinItalic.ttf
+NotoSansDisplay-ThinItalic.ttf: true
+NotoSansDisplay-CondensedMediumItalic.ttf
+NotoSansDisplay-CondensedMediumItalic.ttf: true
+NotoSansDisplay-ExtraCondensed.ttf
+NotoSansDisplay-ExtraCondensed.ttf: true
+NotoSansDisplay-ExtraCondensedExtraBoldItalic.ttf
+NotoSansDisplay-ExtraCondensedExtraBoldItalic.ttf: true
+NotoSansDisplay-Thin.ttf
+NotoSansDisplay-Thin.ttf: true
+NotoSansDisplay-CondensedItalic.ttf
+NotoSansDisplay-CondensedItalic.ttf: true
+NotoSansDisplay-CondensedThin.ttf
+NotoSansDisplay-CondensedThin.ttf: true
+NotoSansDisplay-Black.ttf
+NotoSansDisplay-Black.ttf: true
+NotoSansDisplay-ExtraCondensedBlack.ttf
+NotoSansDisplay-ExtraCondensedBlack.ttf: true
+NotoSansDisplay-Regular.ttf
+NotoSansDisplay-Regular.ttf: true
+NotoSansDisplay-BlackItalic.ttf
+NotoSansDisplay-BlackItalic.ttf: true
+NotoSansDisplay-SemiCondensedLight.ttf
+NotoSansDisplay-SemiCondensedLight.ttf: true
+NotoSansDisplay-ExtraCondensedItalic.ttf
+NotoSansDisplay-ExtraCondensedItalic.ttf: true
+NotoSansDisplay-ExtraCondensedLightItalic.ttf
+NotoSansDisplay-ExtraCondensedLightItalic.ttf: true
+NotoSansDisplay-Light.ttf
+NotoSansDisplay-Light.ttf: true
+NotoSansDisplay-SemiCondensedBoldItalic.ttf
+NotoSansDisplay-SemiCondensedBoldItalic.ttf: true
+NotoSansDisplay-ExtraCondensedExtraLight.ttf
+NotoSansDisplay-ExtraCondensedExtraLight.ttf: true
+NotoSansDisplay-CondensedMedium.ttf
+NotoSansDisplay-CondensedMedium.ttf: true
+NotoSansDisplay-Medium.ttf
+NotoSansDisplay-Medium.ttf: true
+NotoSansDisplay-ExtraBoldItalic.ttf
+NotoSansDisplay-ExtraBoldItalic.ttf: true
+NotoSansDisplay-Italic.ttf
+NotoSansDisplay-Italic.ttf: true
+NotoSansDisplay-ExtraCondensedMedium.ttf
+NotoSansDisplay-ExtraCondensedMedium.ttf: true
+NotoSansDisplay-SemiBoldItalic.ttf
+NotoSansDisplay-SemiBoldItalic.ttf: true
+NotoSansDisplay-CondensedSemiBold.ttf
+NotoSansDisplay-CondensedSemiBold.ttf: true
+NotoSansDisplay-ExtraLightItalic.ttf
+NotoSansDisplay-ExtraLightItalic.ttf: true
+NotoSansDisplay-ExtraCondensedSemiBoldItalic.ttf
+NotoSansDisplay-ExtraCondensedSemiBoldItalic.ttf: true
+NotoSansDisplay-SemiCondensedMedium.ttf
+NotoSansDisplay-SemiCondensedMedium.ttf: true
+NotoSansDisplay-ExtraCondensedSemiBold.ttf
+NotoSansDisplay-ExtraCondensedSemiBold.ttf: true
+NotoSansDisplay-ExtraCondensedExtraLightItalic.ttf
+NotoSansDisplay-ExtraCondensedExtraLightItalic.ttf: true
+NotoSansDisplay-ExtraCondensedMediumItalic.ttf
+NotoSansDisplay-ExtraCondensedMediumItalic.ttf: true
+NotoSansDisplay-BoldItalic.ttf
+NotoSansDisplay-BoldItalic.ttf: true
+NotoSansDisplay-ExtraCondensedBlackItalic.ttf
+NotoSansDisplay-ExtraCondensedBlackItalic.ttf: true
+NotoSansDisplay-CondensedBold.ttf
+NotoSansDisplay-CondensedBold.ttf: true
+NotoSansDisplay-CondensedThinItalic.ttf
+NotoSansDisplay-CondensedThinItalic.ttf: true
+NotoSansDisplay-SemiCondensedExtraBold.ttf
+NotoSansDisplay-SemiCondensedExtraBold.ttf: true
+NotoSansDisplay-CondensedExtraLight.ttf
+NotoSansDisplay-CondensedExtraLight.ttf: true
+NotoSansDisplay-ExtraCondensedThin.ttf
+NotoSansDisplay-ExtraCondensedThin.ttf: true
+NotoSansDisplay-ExtraCondensedExtraBold.ttf
+NotoSansDisplay-ExtraCondensedExtraBold.ttf: true
+NotoSansDisplay-SemiCondensedItalic.ttf
+NotoSansDisplay-SemiCondensedItalic.ttf: true
+NotoSansDisplay-SemiCondensedThinItalic.ttf
+NotoSansDisplay-SemiCondensedThinItalic.ttf: true
+Noto_Sans_EgyptHiero
+NotoSansEgyptianHieroglyphs-Regular.ttf
+NotoSansEgyptianHieroglyphs-Regular.ttf: false
+Noto_Sans_Ethiopic
+Noto_Sans_Ethiopic_Blk
+Noto_Sans_Ethiopic_Cond
+Noto_Sans_Ethiopic_Cond_Blk
+Noto_Sans_Ethiopic_Cond_ExtBd
+Noto_Sans_Ethiopic_Cond_ExtLt
+Noto_Sans_Ethiopic_Cond_Light
+Noto_Sans_Ethiopic_Cond_Med
+Noto_Sans_Ethiopic_Cond_SemBd
+Noto_Sans_Ethiopic_Cond_Thin
+Noto_Sans_Ethiopic_ExtBd
+Noto_Sans_Ethiopic_ExtCond
+Noto_Sans_Ethiopic_ExtCond_Blk
+Noto_Sans_Ethiopic_ExtCond_ExtBd
+Noto_Sans_Ethiopic_ExtCond_ExtLt
+Noto_Sans_Ethiopic_ExtCond_Light
+Noto_Sans_Ethiopic_ExtCond_Med
+Noto_Sans_Ethiopic_ExtCond_SemBd
+Noto_Sans_Ethiopic_ExtCond_Thin
+Noto_Sans_Ethiopic_ExtLt
+Noto_Sans_Ethiopic_Light
+Noto_Sans_Ethiopic_Med
+Noto_Sans_Ethiopic_SemBd
+Noto_Sans_Ethiopic_SemCond
+Noto_Sans_Ethiopic_SemCond_Blk
+Noto_Sans_Ethiopic_SemCond_ExtBd
+Noto_Sans_Ethiopic_SemCond_ExtLt
+Noto_Sans_Ethiopic_SemCond_Light
+Noto_Sans_Ethiopic_SemCond_Med
+Noto_Sans_Ethiopic_SemCond_SemBd
+Noto_Sans_Ethiopic_SemCond_Thin
+Noto_Sans_Ethiopic_Thin
+NotoSansEthiopic-Bold.ttf
+NotoSansEthiopic-Bold.ttf: true
+NotoSansEthiopic-ExtraCondensedExtraLight.ttf
+NotoSansEthiopic-ExtraCondensedExtraLight.ttf: true
+NotoSansEthiopic-CondensedThin.ttf
+NotoSansEthiopic-CondensedThin.ttf: true
+NotoSansEthiopic-SemiCondensedMedium.ttf
+NotoSansEthiopic-SemiCondensedMedium.ttf: true
+NotoSansEthiopic-ExtraLight.ttf
+NotoSansEthiopic-ExtraLight.ttf: true
+NotoSansEthiopic-SemiCondensedThin.ttf
+NotoSansEthiopic-SemiCondensedThin.ttf: true
+NotoSansEthiopic-CondensedSemiBold.ttf
+NotoSansEthiopic-CondensedSemiBold.ttf: true
+NotoSansEthiopic-Medium.ttf
+NotoSansEthiopic-Medium.ttf: true
+NotoSansEthiopic-ExtraCondensedThin.ttf
+NotoSansEthiopic-ExtraCondensedThin.ttf: true
+NotoSansEthiopic-SemiBold.ttf
+NotoSansEthiopic-SemiBold.ttf: true
+NotoSansEthiopic-ExtraCondensedSemiBold.ttf
+NotoSansEthiopic-ExtraCondensedSemiBold.ttf: true
+NotoSansEthiopic-ExtraCondensedExtraBold.ttf
+NotoSansEthiopic-ExtraCondensedExtraBold.ttf: true
+NotoSansEthiopic-ExtraCondensedLight.ttf
+NotoSansEthiopic-ExtraCondensedLight.ttf: true
+NotoSansEthiopic-Thin.ttf
+NotoSansEthiopic-Thin.ttf: true
+NotoSansEthiopic-ExtraCondensed.ttf
+NotoSansEthiopic-ExtraCondensed.ttf: true
+NotoSansEthiopic-ExtraCondensedMedium.ttf
+NotoSansEthiopic-ExtraCondensedMedium.ttf: true
+NotoSansEthiopic-SemiCondensedExtraBold.ttf
+NotoSansEthiopic-SemiCondensedExtraBold.ttf: true
+NotoSansEthiopic-CondensedMedium.ttf
+NotoSansEthiopic-CondensedMedium.ttf: true
+NotoSansEthiopic-SemiCondensedBlack.ttf
+NotoSansEthiopic-SemiCondensedBlack.ttf: true
+NotoSansEthiopic-SemiCondensedExtraLight.ttf
+NotoSansEthiopic-SemiCondensedExtraLight.ttf: true
+NotoSansEthiopic-SemiCondensedBold.ttf
+NotoSansEthiopic-SemiCondensedBold.ttf: true
+NotoSansEthiopic-CondensedBold.ttf
+NotoSansEthiopic-CondensedBold.ttf: true
+NotoSansEthiopic-ExtraCondensedBlack.ttf
+NotoSansEthiopic-ExtraCondensedBlack.ttf: true
+NotoSansEthiopic-CondensedExtraBold.ttf
+NotoSansEthiopic-CondensedExtraBold.ttf: true
+NotoSansEthiopic-ExtraCondensedBold.ttf
+NotoSansEthiopic-ExtraCondensedBold.ttf: true
+NotoSansEthiopic-Regular.ttf
+NotoSansEthiopic-Regular.ttf: true
+NotoSansEthiopic-SemiCondensedLight.ttf
+NotoSansEthiopic-SemiCondensedLight.ttf: true
+NotoSansEthiopic-Black.ttf
+NotoSansEthiopic-Black.ttf: true
+NotoSansEthiopic-ExtraBold.ttf
+NotoSansEthiopic-ExtraBold.ttf: true
+NotoSansEthiopic-CondensedLight.ttf
+NotoSansEthiopic-CondensedLight.ttf: true
+NotoSansEthiopic-SemiCondensed.ttf
+NotoSansEthiopic-SemiCondensed.ttf: true
+NotoSansEthiopic-CondensedExtraLight.ttf
+NotoSansEthiopic-CondensedExtraLight.ttf: true
+NotoSansEthiopic-CondensedBlack.ttf
+NotoSansEthiopic-CondensedBlack.ttf: true
+NotoSansEthiopic-Light.ttf
+NotoSansEthiopic-Light.ttf: true
+NotoSansEthiopic-Condensed.ttf
+NotoSansEthiopic-Condensed.ttf: true
+NotoSansEthiopic-SemiCondensedSemiBold.ttf
+NotoSansEthiopic-SemiCondensedSemiBold.ttf: true
+Noto_Sans
+Noto_Sans_Blk
+Noto_Sans_Cond
+Noto_Sans_Cond_Blk
+Noto_Sans_Cond_ExtBd
+Noto_Sans_Cond_ExtLt
+Noto_Sans_Cond_Light
+Noto_Sans_Cond_Med
+Noto_Sans_Cond_SemBd
+Noto_Sans_Cond_Thin
+Noto_Sans_ExtBd
+Noto_Sans_ExtCond
+Noto_Sans_ExtCond_Blk
+Noto_Sans_ExtCond_ExtBd
+Noto_Sans_ExtCond_ExtLt
+Noto_Sans_ExtCond_Light
+Noto_Sans_ExtCond_Med
+Noto_Sans_ExtCond_SemBd
+Noto_Sans_ExtCond_Thin
+Noto_Sans_ExtLt
+Noto_Sans_Light
+Noto_Sans_Med
+Noto_Sans_SemBd
+Noto_Sans_SemCond
+Noto_Sans_SemCond_Blk
+Noto_Sans_SemCond_ExtBd
+Noto_Sans_SemCond_ExtLt
+Noto_Sans_SemCond_Light
+Noto_Sans_SemCond_Med
+Noto_Sans_SemCond_SemBd
+Noto_Sans_SemCond_Thin
+Noto_Sans_Thin
+NotoSans-SemiBold.ttf
+NotoSans-SemiBold.ttf: true
+NotoSans-SemiCondensedBlack.ttf
+NotoSans-SemiCondensedBlack.ttf: true
+NotoSans-SemiCondensedSemiBoldItalic.ttf
+NotoSans-SemiCondensedSemiBoldItalic.ttf: true
+NotoSans-SemiCondensedBold.ttf
+NotoSans-SemiCondensedBold.ttf: true
+NotoSans-ExtraCondensedLightItalic.ttf
+NotoSans-ExtraCondensedLightItalic.ttf: true
+NotoSans-CondensedBlackItalic.ttf
+NotoSans-CondensedBlackItalic.ttf: true
+NotoSans-CondensedBoldItalic.ttf
+NotoSans-CondensedBoldItalic.ttf: true
+NotoSans-ExtraCondensedExtraLightItalic.ttf
+NotoSans-ExtraCondensedExtraLightItalic.ttf: true
+NotoSans-ExtraCondensedLight.ttf
+NotoSans-ExtraCondensedLight.ttf: true
+NotoSans-SemiCondensedExtraBold.ttf
+NotoSans-SemiCondensedExtraBold.ttf: true
+NotoSans-CondensedMedium.ttf
+NotoSans-CondensedMedium.ttf: true
+NotoSans-SemiCondensedSemiBold.ttf
+NotoSans-SemiCondensedSemiBold.ttf: true
+NotoSans-Black.ttf
+NotoSans-Black.ttf: true
+NotoSans-ExtraLightItalic.ttf
+NotoSans-ExtraLightItalic.ttf: true
+NotoSans-ExtraBold.ttf
+NotoSans-ExtraBold.ttf: true
+NotoSans-ExtraCondensedItalic.ttf
+NotoSans-ExtraCondensedItalic.ttf: true
+NotoSans-SemiCondensedLightItalic.ttf
+NotoSans-SemiCondensedLightItalic.ttf: true
+NotoSans-SemiCondensedExtraLight.ttf
+NotoSans-SemiCondensedExtraLight.ttf: true
+NotoSans-BoldItalic.ttf
+NotoSans-BoldItalic.ttf: true
+NotoSans-CondensedExtraBold.ttf
+NotoSans-CondensedExtraBold.ttf: true
+NotoSans-CondensedItalic.ttf
+NotoSans-CondensedItalic.ttf: true
+NotoSans-Condensed.ttf
+NotoSans-Condensed.ttf: true
+NotoSans-SemiCondensedLight.ttf
+NotoSans-SemiCondensedLight.ttf: true
+NotoSans-CondensedBlack.ttf
+NotoSans-CondensedBlack.ttf: true
+NotoSans-ExtraCondensedMedium.ttf
+NotoSans-ExtraCondensedMedium.ttf: true
+NotoSans-ExtraCondensedBoldItalic.ttf
+NotoSans-ExtraCondensedBoldItalic.ttf: true
+NotoSans-ExtraCondensedBlackItalic.ttf
+NotoSans-ExtraCondensedBlackItalic.ttf: true
+NotoSans-SemiCondensedExtraLightItalic.ttf
+NotoSans-SemiCondensedExtraLightItalic.ttf: true
+NotoSans-CondensedBold.ttf
+NotoSans-CondensedBold.ttf: true
+NotoSans-ExtraCondensedSemiBoldItalic.ttf
+NotoSans-ExtraCondensedSemiBoldItalic.ttf: true
+NotoSans-CondensedMediumItalic.ttf
+NotoSans-CondensedMediumItalic.ttf: true
+NotoSans-CondensedExtraLight.ttf
+NotoSans-CondensedExtraLight.ttf: true
+NotoSans-Bold.ttf
+NotoSans-Bold.ttf: true
+NotoSans-CondensedLightItalic.ttf
+NotoSans-CondensedLightItalic.ttf: true
+NotoSans-CondensedLight.ttf
+NotoSans-CondensedLight.ttf: true
+NotoSans-ExtraCondensedExtraBoldItalic.ttf
+NotoSans-ExtraCondensedExtraBoldItalic.ttf: true
+NotoSans-SemiCondensedMedium.ttf
+NotoSans-SemiCondensedMedium.ttf: true
+NotoSans-SemiCondensedItalic.ttf
+NotoSans-SemiCondensedItalic.ttf: true
+NotoSans-ExtraCondensedExtraBold.ttf
+NotoSans-ExtraCondensedExtraBold.ttf: true
+NotoSans-SemiCondensedBlackItalic.ttf
+NotoSans-SemiCondensedBlackItalic.ttf: true
+NotoSans-ExtraCondensedThinItalic.ttf
+NotoSans-ExtraCondensedThinItalic.ttf: true
+NotoSans-ExtraCondensedExtraLight.ttf
+NotoSans-ExtraCondensedExtraLight.ttf: true
+NotoSans-SemiCondensedThin.ttf
+NotoSans-SemiCondensedThin.ttf: true
+NotoSans-ExtraCondensed.ttf
+NotoSans-ExtraCondensed.ttf: true
+NotoSans-SemiCondensedMediumItalic.ttf
+NotoSans-SemiCondensedMediumItalic.ttf: true
+NotoSans-ExtraCondensedSemiBold.ttf
+NotoSans-ExtraCondensedSemiBold.ttf: true
+NotoSans-ExtraCondensedMediumItalic.ttf
+NotoSans-ExtraCondensedMediumItalic.ttf: true
+NotoSans-CondensedSemiBold.ttf
+NotoSans-CondensedSemiBold.ttf: true
+NotoSans-ExtraCondensedThin.ttf
+NotoSans-ExtraCondensedThin.ttf: true
+NotoSans-SemiCondensedBoldItalic.ttf
+NotoSans-SemiCondensedBoldItalic.ttf: true
+NotoSans-SemiCondensedExtraBoldItalic.ttf
+NotoSans-SemiCondensedExtraBoldItalic.ttf: true
+NotoSans-Thin.ttf
+NotoSans-Thin.ttf: true
+NotoSans-SemiBoldItalic.ttf
+NotoSans-SemiBoldItalic.ttf: true
+NotoSans-ExtraBoldItalic.ttf
+NotoSans-ExtraBoldItalic.ttf: true
+NotoSans-ThinItalic.ttf
+NotoSans-ThinItalic.ttf: true
+NotoSans-ExtraCondensedBlack.ttf
+NotoSans-ExtraCondensedBlack.ttf: true
+NotoSans-CondensedThin.ttf
+NotoSans-CondensedThin.ttf: true
+NotoSans-CondensedSemiBoldItalic.ttf
+NotoSans-CondensedSemiBoldItalic.ttf: true
+NotoSans-ExtraCondensedBold.ttf
+NotoSans-ExtraCondensedBold.ttf: true
+NotoSans-CondensedThinItalic.ttf
+NotoSans-CondensedThinItalic.ttf: true
+NotoSans-BlackItalic.ttf
+NotoSans-BlackItalic.ttf: true
+NotoSans-LightItalic.ttf
+NotoSans-LightItalic.ttf: true
+NotoSans-MediumItalic.ttf
+NotoSans-MediumItalic.ttf: true
+NotoSans-CondensedExtraLightItalic.ttf
+NotoSans-CondensedExtraLightItalic.ttf: true
+NotoSans-CondensedExtraBoldItalic.ttf
+NotoSans-CondensedExtraBoldItalic.ttf: true
+NotoSans-Regular.ttf
+NotoSans-Regular.ttf: true
+NotoSans-SemiCondensedThinItalic.ttf
+NotoSans-SemiCondensedThinItalic.ttf: true
+NotoSans-Italic.ttf
+NotoSans-Italic.ttf: true
+NotoSans-Light.ttf
+NotoSans-Light.ttf: true
+NotoSans-SemiCondensed.ttf
+NotoSans-SemiCondensed.ttf: true
+NotoSans-ExtraLight.ttf
+NotoSans-ExtraLight.ttf: true
+NotoSans-Medium.ttf
+NotoSans-Medium.ttf: true
+Noto_Sans_Georgian
+Noto_Sans_Georgian_Blk
+Noto_Sans_Georgian_Cond
+Noto_Sans_Georgian_Cond_Blk
+Noto_Sans_Georgian_Cond_ExtBd
+Noto_Sans_Georgian_Cond_ExtLt
+Noto_Sans_Georgian_Cond_Light
+Noto_Sans_Georgian_Cond_Med
+Noto_Sans_Georgian_Cond_SemBd
+Noto_Sans_Georgian_Cond_Thin
+Noto_Sans_Georgian_ExtBd
+Noto_Sans_Georgian_ExtCond
+Noto_Sans_Georgian_ExtCond_Blk
+Noto_Sans_Georgian_ExtCond_ExtBd
+Noto_Sans_Georgian_ExtCond_ExtLt
+Noto_Sans_Georgian_ExtCond_Light
+Noto_Sans_Georgian_ExtCond_Med
+Noto_Sans_Georgian_ExtCond_SemBd
+Noto_Sans_Georgian_ExtCond_Thin
+Noto_Sans_Georgian_ExtLt
+Noto_Sans_Georgian_Light
+Noto_Sans_Georgian_Med
+Noto_Sans_Georgian_SemBd
+Noto_Sans_Georgian_SemCond
+Noto_Sans_Georgian_SemCond_Blk
+Noto_Sans_Georgian_SemCond_ExtBd
+Noto_Sans_Georgian_SemCond_ExtLt
+Noto_Sans_Georgian_SemCond_Light
+Noto_Sans_Georgian_SemCond_Med
+Noto_Sans_Georgian_SemCond_SemBd
+Noto_Sans_Georgian_SemCond_Thin
+Noto_Sans_Georgian_Thin
+NotoSansGeorgian-SemiCondensedThin.ttf
+NotoSansGeorgian-SemiCondensedThin.ttf: true
+NotoSansGeorgian-SemiCondensedLight.ttf
+NotoSansGeorgian-SemiCondensedLight.ttf: true
+NotoSansGeorgian-Regular.ttf
+NotoSansGeorgian-Regular.ttf: true
+NotoSansGeorgian-ExtraBold.ttf
+NotoSansGeorgian-ExtraBold.ttf: true
+NotoSansGeorgian-CondensedExtraLight.ttf
+NotoSansGeorgian-CondensedExtraLight.ttf: true
+NotoSansGeorgian-Thin.ttf
+NotoSansGeorgian-Thin.ttf: true
+NotoSansGeorgian-SemiCondensed.ttf
+NotoSansGeorgian-SemiCondensed.ttf: true
+NotoSansGeorgian-CondensedBold.ttf
+NotoSansGeorgian-CondensedBold.ttf: true
+NotoSansGeorgian-ExtraCondensedThin.ttf
+NotoSansGeorgian-ExtraCondensedThin.ttf: true
+NotoSansGeorgian-ExtraLight.ttf
+NotoSansGeorgian-ExtraLight.ttf: true
+NotoSansGeorgian-SemiCondensedBold.ttf
+NotoSansGeorgian-SemiCondensedBold.ttf: true
+NotoSansGeorgian-ExtraCondensedMedium.ttf
+NotoSansGeorgian-ExtraCondensedMedium.ttf: true
+NotoSansGeorgian-SemiBold.ttf
+NotoSansGeorgian-SemiBold.ttf: true
+NotoSansGeorgian-Black.ttf
+NotoSansGeorgian-Black.ttf: true
+NotoSansGeorgian-CondensedBlack.ttf
+NotoSansGeorgian-CondensedBlack.ttf: true
+NotoSansGeorgian-ExtraCondensedBlack.ttf
+NotoSansGeorgian-ExtraCondensedBlack.ttf: true
+NotoSansGeorgian-ExtraCondensedExtraLight.ttf
+NotoSansGeorgian-ExtraCondensedExtraLight.ttf: true
+NotoSansGeorgian-CondensedMedium.ttf
+NotoSansGeorgian-CondensedMedium.ttf: true
+NotoSansGeorgian-ExtraCondensedExtraBold.ttf
+NotoSansGeorgian-ExtraCondensedExtraBold.ttf: true
+NotoSansGeorgian-SemiCondensedExtraBold.ttf
+NotoSansGeorgian-SemiCondensedExtraBold.ttf: true
+NotoSansGeorgian-ExtraCondensedLight.ttf
+NotoSansGeorgian-ExtraCondensedLight.ttf: true
+NotoSansGeorgian-SemiCondensedMedium.ttf
+NotoSansGeorgian-SemiCondensedMedium.ttf: true
+NotoSansGeorgian-CondensedLight.ttf
+NotoSansGeorgian-CondensedLight.ttf: true
+NotoSansGeorgian-CondensedSemiBold.ttf
+NotoSansGeorgian-CondensedSemiBold.ttf: true
+NotoSansGeorgian-SemiCondensedBlack.ttf
+NotoSansGeorgian-SemiCondensedBlack.ttf: true
+NotoSansGeorgian-Light.ttf
+NotoSansGeorgian-Light.ttf: true
+NotoSansGeorgian-Condensed.ttf
+NotoSansGeorgian-Condensed.ttf: true
+NotoSansGeorgian-ExtraCondensedSemiBold.ttf
+NotoSansGeorgian-ExtraCondensedSemiBold.ttf: true
+NotoSansGeorgian-ExtraCondensed.ttf
+NotoSansGeorgian-ExtraCondensed.ttf: true
+NotoSansGeorgian-SemiCondensedSemiBold.ttf
+NotoSansGeorgian-SemiCondensedSemiBold.ttf: true
+NotoSansGeorgian-ExtraCondensedBold.ttf
+NotoSansGeorgian-ExtraCondensedBold.ttf: true
+NotoSansGeorgian-CondensedThin.ttf
+NotoSansGeorgian-CondensedThin.ttf: true
+NotoSansGeorgian-SemiCondensedExtraLight.ttf
+NotoSansGeorgian-SemiCondensedExtraLight.ttf: true
+NotoSansGeorgian-Medium.ttf
+NotoSansGeorgian-Medium.ttf: true
+NotoSansGeorgian-Bold.ttf
+NotoSansGeorgian-Bold.ttf: true
+NotoSansGeorgian-CondensedExtraBold.ttf
+NotoSansGeorgian-CondensedExtraBold.ttf: true
+Noto_Sans_Glagolitic
+NotoSansGlagolitic-Regular.ttf
+NotoSansGlagolitic-Regular.ttf: true
+Noto_Sans_Gothic
+NotoSansGothic-Regular.ttf
+NotoSansGothic-Regular.ttf: true
+Noto_Sans_Gujarati
+NotoSansGujarati-Bold.ttf
+NotoSansGujarati-Bold.ttf: true
+NotoSansGujarati-Regular.ttf
+NotoSansGujarati-Regular.ttf: true
+Noto_Sans_Gujarati_UI
+NotoSansGujaratiUI-Bold.ttf
+NotoSansGujaratiUI-Bold.ttf: true
+NotoSansGujaratiUI-Regular.ttf
+NotoSansGujaratiUI-Regular.ttf: true
+Noto_Sans_Gurmukhi
+NotoSansGurmukhi-Bold.ttf
+NotoSansGurmukhi-Bold.ttf: true
+NotoSansGurmukhi-Regular.ttf
+NotoSansGurmukhi-Regular.ttf: true
+Noto_Sans_Gurmukhi_UI
+NotoSansGurmukhiUI-Regular.ttf
+NotoSansGurmukhiUI-Regular.ttf: true
+NotoSansGurmukhiUI-Bold.ttf
+NotoSansGurmukhiUI-Bold.ttf: true
+Noto_Sans_Hanunoo
+NotoSansHanunoo-Regular.ttf
+NotoSansHanunoo-Regular.ttf: false
+Noto_Sans_Hebrew
+Noto_Sans_Hebrew_Blk
+Noto_Sans_Hebrew_Cond
+Noto_Sans_Hebrew_Cond_Blk
+Noto_Sans_Hebrew_Cond_ExtBd
+Noto_Sans_Hebrew_Cond_ExtLt
+Noto_Sans_Hebrew_Cond_Light
+Noto_Sans_Hebrew_Cond_Med
+Noto_Sans_Hebrew_Cond_SemBd
+Noto_Sans_Hebrew_Cond_Thin
+Noto_Sans_Hebrew_ExtBd
+Noto_Sans_Hebrew_ExtCond
+Noto_Sans_Hebrew_ExtCond_Blk
+Noto_Sans_Hebrew_ExtCond_ExtBd
+Noto_Sans_Hebrew_ExtCond_ExtLt
+Noto_Sans_Hebrew_ExtCond_Light
+Noto_Sans_Hebrew_ExtCond_Med
+Noto_Sans_Hebrew_ExtCond_SemBd
+Noto_Sans_Hebrew_ExtCond_Thin
+Noto_Sans_Hebrew_ExtLt
+Noto_Sans_Hebrew_Light
+Noto_Sans_Hebrew_Med
+Noto_Sans_Hebrew_SemBd
+Noto_Sans_Hebrew_SemCond
+Noto_Sans_Hebrew_SemCond_Blk
+Noto_Sans_Hebrew_SemCond_ExtBd
+Noto_Sans_Hebrew_SemCond_ExtLt
+Noto_Sans_Hebrew_SemCond_Light
+Noto_Sans_Hebrew_SemCond_Med
+Noto_Sans_Hebrew_SemCond_SemBd
+Noto_Sans_Hebrew_SemCond_Thin
+Noto_Sans_Hebrew_Thin
+NotoSansHebrew-Condensed.ttf
+NotoSansHebrew-Condensed.ttf: true
+NotoSansHebrew-SemiCondensedBlack.ttf
+NotoSansHebrew-SemiCondensedBlack.ttf: true
+NotoSansHebrew-ExtraCondensed.ttf
+NotoSansHebrew-ExtraCondensed.ttf: true
+NotoSansHebrew-ExtraBold.ttf
+NotoSansHebrew-ExtraBold.ttf: true
+NotoSansHebrew-SemiCondensed.ttf
+NotoSansHebrew-SemiCondensed.ttf: true
+NotoSansHebrew-SemiCondensedExtraLight.ttf
+NotoSansHebrew-SemiCondensedExtraLight.ttf: true
+NotoSansHebrew-SemiCondensedLight.ttf
+NotoSansHebrew-SemiCondensedLight.ttf: true
+NotoSansHebrew-Medium.ttf
+NotoSansHebrew-Medium.ttf: true
+NotoSansHebrew-ExtraLight.ttf
+NotoSansHebrew-ExtraLight.ttf: true
+NotoSansHebrew-ExtraCondensedSemiBold.ttf
+NotoSansHebrew-ExtraCondensedSemiBold.ttf: true
+NotoSansHebrew-SemiCondensedExtraBold.ttf
+NotoSansHebrew-SemiCondensedExtraBold.ttf: true
+NotoSansHebrew-ExtraCondensedExtraBold.ttf
+NotoSansHebrew-ExtraCondensedExtraBold.ttf: true
+NotoSansHebrew-ExtraCondensedThin.ttf
+NotoSansHebrew-ExtraCondensedThin.ttf: true
+NotoSansHebrew-ExtraCondensedBold.ttf
+NotoSansHebrew-ExtraCondensedBold.ttf: true
+NotoSansHebrew-CondensedBlack.ttf
+NotoSansHebrew-CondensedBlack.ttf: true
+NotoSansHebrew-Thin.ttf
+NotoSansHebrew-Thin.ttf: true
+NotoSansHebrew-ExtraCondensedMedium.ttf
+NotoSansHebrew-ExtraCondensedMedium.ttf: true
+NotoSansHebrew-Regular.ttf
+NotoSansHebrew-Regular.ttf: true
+NotoSansHebrew-ExtraCondensedBlack.ttf
+NotoSansHebrew-ExtraCondensedBlack.ttf: true
+NotoSansHebrew-CondensedBold.ttf
+NotoSansHebrew-CondensedBold.ttf: true
+NotoSansHebrew-CondensedExtraLight.ttf
+NotoSansHebrew-CondensedExtraLight.ttf: true
+NotoSansHebrew-Light.ttf
+NotoSansHebrew-Light.ttf: true
+NotoSansHebrew-SemiCondensedMedium.ttf
+NotoSansHebrew-SemiCondensedMedium.ttf: true
+NotoSansHebrew-CondensedSemiBold.ttf
+NotoSansHebrew-CondensedSemiBold.ttf: true
+NotoSansHebrew-CondensedExtraBold.ttf
+NotoSansHebrew-CondensedExtraBold.ttf: true
+NotoSansHebrew-SemiCondensedThin.ttf
+NotoSansHebrew-SemiCondensedThin.ttf: true
+NotoSansHebrew-ExtraCondensedLight.ttf
+NotoSansHebrew-ExtraCondensedLight.ttf: true
+NotoSansHebrew-Bold.ttf
+NotoSansHebrew-Bold.ttf: true
+NotoSansHebrew-CondensedThin.ttf
+NotoSansHebrew-CondensedThin.ttf: true
+NotoSansHebrew-SemiBold.ttf
+NotoSansHebrew-SemiBold.ttf: true
+NotoSansHebrew-ExtraCondensedExtraLight.ttf
+NotoSansHebrew-ExtraCondensedExtraLight.ttf: true
+NotoSansHebrew-CondensedLight.ttf
+NotoSansHebrew-CondensedLight.ttf: true
+NotoSansHebrew-Black.ttf
+NotoSansHebrew-Black.ttf: true
+NotoSansHebrew-CondensedMedium.ttf
+NotoSansHebrew-CondensedMedium.ttf: true
+NotoSansHebrew-SemiCondensedSemiBold.ttf
+NotoSansHebrew-SemiCondensedSemiBold.ttf: true
+NotoSansHebrew-SemiCondensedBold.ttf
+NotoSansHebrew-SemiCondensedBold.ttf: true
+Noto_Sans_ImpAramaic
+NotoSansImperialAramaic-Regular.ttf
+NotoSansImperialAramaic-Regular.ttf: false
+Noto_Sans_InsPahlavi
+NotoSansInscriptionalPahlavi-Regular.ttf
+NotoSansInscriptionalPahlavi-Regular.ttf: false
+Noto_Sans_InsParthi
+NotoSansInscriptionalParthian-Regular.ttf
+NotoSansInscriptionalParthian-Regular.ttf: false
+Noto_Sans_Javanese
+NotoSansJavanese-Regular.ttf
+NotoSansJavanese-Regular.ttf: false
+Noto_Sans_Kaithi
+NotoSansKaithi-Regular.ttf
+NotoSansKaithi-Regular.ttf: false
+Noto_Sans_Kannada
+NotoSansKannada-Regular.ttf
+NotoSansKannada-Regular.ttf: true
+NotoSansKannada-Bold.ttf
+NotoSansKannada-Bold.ttf: true
+Noto_Sans_Kannada_UI
+NotoSansKannadaUI-Regular.ttf
+NotoSansKannadaUI-Regular.ttf: true
+NotoSansKannadaUI-Bold.ttf
+NotoSansKannadaUI-Bold.ttf: true
+Noto_Sans_Kayah_Li
+NotoSansKayahLi-Regular.ttf
+NotoSansKayahLi-Regular.ttf: true
+Noto_Sans_Kharoshthi
+NotoSansKharoshthi-Regular.ttf
+NotoSansKharoshthi-Regular.ttf: false
+Noto_Sans_Khmer
+Noto_Sans_Khmer_Blk
+Noto_Sans_Khmer_Cond
+Noto_Sans_Khmer_Cond_Blk
+Noto_Sans_Khmer_Cond_ExtBd
+Noto_Sans_Khmer_Cond_ExtLt
+Noto_Sans_Khmer_Cond_Light
+Noto_Sans_Khmer_Cond_Med
+Noto_Sans_Khmer_Cond_SemBd
+Noto_Sans_Khmer_Cond_Thin
+Noto_Sans_Khmer_ExtBd
+Noto_Sans_Khmer_ExtCond
+Noto_Sans_Khmer_ExtCond_Blk
+Noto_Sans_Khmer_ExtCond_ExtBd
+Noto_Sans_Khmer_ExtCond_ExtLt
+Noto_Sans_Khmer_ExtCond_Light
+Noto_Sans_Khmer_ExtCond_Med
+Noto_Sans_Khmer_ExtCond_SemBd
+Noto_Sans_Khmer_ExtCond_Thin
+Noto_Sans_Khmer_ExtLt
+Noto_Sans_Khmer_Light
+Noto_Sans_Khmer_Med
+Noto_Sans_Khmer_SemBd
+Noto_Sans_Khmer_SemCond
+Noto_Sans_Khmer_SemCond_Blk
+Noto_Sans_Khmer_SemCond_ExtBd
+Noto_Sans_Khmer_SemCond_ExtLt
+Noto_Sans_Khmer_SemCond_Light
+Noto_Sans_Khmer_SemCond_Med
+Noto_Sans_Khmer_SemCond_SemBd
+Noto_Sans_Khmer_SemCond_Thin
+Noto_Sans_Khmer_Thin
+NotoSansKhmer-ExtraBold.ttf
+NotoSansKhmer-ExtraBold.ttf: true
+NotoSansKhmer-ExtraCondensed.ttf
+NotoSansKhmer-ExtraCondensed.ttf: true
+NotoSansKhmer-ExtraCondensedExtraBold.ttf
+NotoSansKhmer-ExtraCondensedExtraBold.ttf: true
+NotoSansKhmer-Thin.ttf
+NotoSansKhmer-Thin.ttf: true
+NotoSansKhmer-ExtraCondensedSemiBold.ttf
+NotoSansKhmer-ExtraCondensedSemiBold.ttf: true
+NotoSansKhmer-SemiCondensedExtraBold.ttf
+NotoSansKhmer-SemiCondensedExtraBold.ttf: true
+NotoSansKhmer-SemiCondensedThin.ttf
+NotoSansKhmer-SemiCondensedThin.ttf: true
+NotoSansKhmer-Medium.ttf
+NotoSansKhmer-Medium.ttf: true
+NotoSansKhmer-CondensedExtraLight.ttf
+NotoSansKhmer-CondensedExtraLight.ttf: true
+NotoSansKhmer-CondensedExtraBold.ttf
+NotoSansKhmer-CondensedExtraBold.ttf: true
+NotoSansKhmer-SemiCondensedLight.ttf
+NotoSansKhmer-SemiCondensedLight.ttf: true
+NotoSansKhmer-Black.ttf
+NotoSansKhmer-Black.ttf: true
+NotoSansKhmer-ExtraCondensedThin.ttf
+NotoSansKhmer-ExtraCondensedThin.ttf: true
+NotoSansKhmer-SemiCondensedBold.ttf
+NotoSansKhmer-SemiCondensedBold.ttf: true
+NotoSansKhmer-CondensedLight.ttf
+NotoSansKhmer-CondensedLight.ttf: true
+NotoSansKhmer-SemiCondensedBlack.ttf
+NotoSansKhmer-SemiCondensedBlack.ttf: true
+NotoSansKhmer-ExtraCondensedExtraLight.ttf
+NotoSansKhmer-ExtraCondensedExtraLight.ttf: true
+NotoSansKhmer-ExtraCondensedBlack.ttf
+NotoSansKhmer-ExtraCondensedBlack.ttf: true
+NotoSansKhmer-ExtraCondensedMedium.ttf
+NotoSansKhmer-ExtraCondensedMedium.ttf: true
+NotoSansKhmer-SemiCondensedSemiBold.ttf
+NotoSansKhmer-SemiCondensedSemiBold.ttf: true
+NotoSansKhmer-CondensedBold.ttf
+NotoSansKhmer-CondensedBold.ttf: true
+NotoSansKhmer-Light.ttf
+NotoSansKhmer-Light.ttf: true
+NotoSansKhmer-ExtraCondensedBold.ttf
+NotoSansKhmer-ExtraCondensedBold.ttf: true
+NotoSansKhmer-ExtraCondensedLight.ttf
+NotoSansKhmer-ExtraCondensedLight.ttf: true
+NotoSansKhmer-CondensedBlack.ttf
+NotoSansKhmer-CondensedBlack.ttf: true
+NotoSansKhmer-CondensedThin.ttf
+NotoSansKhmer-CondensedThin.ttf: true
+NotoSansKhmer-Condensed.ttf
+NotoSansKhmer-Condensed.ttf: true
+NotoSansKhmer-SemiCondensed.ttf
+NotoSansKhmer-SemiCondensed.ttf: true
+NotoSansKhmer-ExtraLight.ttf
+NotoSansKhmer-ExtraLight.ttf: true
+NotoSansKhmer-Bold.ttf
+NotoSansKhmer-Bold.ttf: true
+NotoSansKhmer-Regular.ttf
+NotoSansKhmer-Regular.ttf: true
+NotoSansKhmer-SemiCondensedExtraLight.ttf
+NotoSansKhmer-SemiCondensedExtraLight.ttf: true
+NotoSansKhmer-CondensedSemiBold.ttf
+NotoSansKhmer-CondensedSemiBold.ttf: true
+NotoSansKhmer-SemiCondensedMedium.ttf
+NotoSansKhmer-SemiCondensedMedium.ttf: true
+NotoSansKhmer-SemiBold.ttf
+NotoSansKhmer-SemiBold.ttf: true
+NotoSansKhmer-CondensedMedium.ttf
+NotoSansKhmer-CondensedMedium.ttf: true
+Noto_Sans_Khmer_UI
+Noto_Sans_Khmer_UI_Blk
+Noto_Sans_Khmer_UI_Cond
+Noto_Sans_Khmer_UI_Cond_Blk
+Noto_Sans_Khmer_UI_Cond_ExtBd
+Noto_Sans_Khmer_UI_Cond_ExtLt
+Noto_Sans_Khmer_UI_Cond_Light
+Noto_Sans_Khmer_UI_Cond_Med
+Noto_Sans_Khmer_UI_Cond_SemBd
+Noto_Sans_Khmer_UI_Cond_Thin
+Noto_Sans_Khmer_UI_ExtBd
+Noto_Sans_Khmer_UI_ExtCond
+Noto_Sans_Khmer_UI_ExtCond_Blk
+Noto_Sans_Khmer_UI_ExtCond_ExtBd
+Noto_Sans_Khmer_UI_ExtCond_ExtLt
+Noto_Sans_Khmer_UI_ExtCond_Light
+Noto_Sans_Khmer_UI_ExtCond_Med
+Noto_Sans_Khmer_UI_ExtCond_SemBd
+Noto_Sans_Khmer_UI_ExtCond_Thin
+Noto_Sans_Khmer_UI_ExtLt
+Noto_Sans_Khmer_UI_Light
+Noto_Sans_Khmer_UI_Med
+Noto_Sans_Khmer_UI_SemBd
+Noto_Sans_Khmer_UI_SemCond
+Noto_Sans_Khmer_UI_SemCond_Blk
+Noto_Sans_Khmer_UI_SemCond_ExtBd
+Noto_Sans_Khmer_UI_SemCond_ExtLt
+Noto_Sans_Khmer_UI_SemCond_Light
+Noto_Sans_Khmer_UI_SemCond_Med
+Noto_Sans_Khmer_UI_SemCond_SemBd
+Noto_Sans_Khmer_UI_SemCond_Thin
+Noto_Sans_Khmer_UI_Thin
+NotoSansKhmerUI-Light.ttf
+NotoSansKhmerUI-Light.ttf: true
+NotoSansKhmerUI-ExtraCondensedExtraBold.ttf
+NotoSansKhmerUI-ExtraCondensedExtraBold.ttf: true
+NotoSansKhmerUI-SemiCondensedBold.ttf
+NotoSansKhmerUI-SemiCondensedBold.ttf: true
+NotoSansKhmerUI-ExtraCondensedThin.ttf
+NotoSansKhmerUI-ExtraCondensedThin.ttf: true
+NotoSansKhmerUI-CondensedLight.ttf
+NotoSansKhmerUI-CondensedLight.ttf: true
+NotoSansKhmerUI-ExtraCondensedMedium.ttf
+NotoSansKhmerUI-ExtraCondensedMedium.ttf: true
+NotoSansKhmerUI-CondensedExtraBold.ttf
+NotoSansKhmerUI-CondensedExtraBold.ttf: true
+NotoSansKhmerUI-ExtraCondensedLight.ttf
+NotoSansKhmerUI-ExtraCondensedLight.ttf: true
+NotoSansKhmerUI-SemiCondensedSemiBold.ttf
+NotoSansKhmerUI-SemiCondensedSemiBold.ttf: true
+NotoSansKhmerUI-CondensedExtraLight.ttf
+NotoSansKhmerUI-CondensedExtraLight.ttf: true
+NotoSansKhmerUI-SemiCondensedExtraLight.ttf
+NotoSansKhmerUI-SemiCondensedExtraLight.ttf: true
+NotoSansKhmerUI-Black.ttf
+NotoSansKhmerUI-Black.ttf: true
+NotoSansKhmerUI-ExtraCondensedBold.ttf
+NotoSansKhmerUI-ExtraCondensedBold.ttf: true
+NotoSansKhmerUI-ExtraCondensedExtraLight.ttf
+NotoSansKhmerUI-ExtraCondensedExtraLight.ttf: true
+NotoSansKhmerUI-SemiCondensed.ttf
+NotoSansKhmerUI-SemiCondensed.ttf: true
+NotoSansKhmerUI-Thin.ttf
+NotoSansKhmerUI-Thin.ttf: true
+NotoSansKhmerUI-SemiCondensedBlack.ttf
+NotoSansKhmerUI-SemiCondensedBlack.ttf: true
+NotoSansKhmerUI-SemiCondensedLight.ttf
+NotoSansKhmerUI-SemiCondensedLight.ttf: true
+NotoSansKhmerUI-Condensed.ttf
+NotoSansKhmerUI-Condensed.ttf: true
+NotoSansKhmerUI-Bold.ttf
+NotoSansKhmerUI-Bold.ttf: true
+NotoSansKhmerUI-SemiCondensedExtraBold.ttf
+NotoSansKhmerUI-SemiCondensedExtraBold.ttf: true
+NotoSansKhmerUI-Medium.ttf
+NotoSansKhmerUI-Medium.ttf: true
+NotoSansKhmerUI-SemiCondensedMedium.ttf
+NotoSansKhmerUI-SemiCondensedMedium.ttf: true
+NotoSansKhmerUI-ExtraBold.ttf
+NotoSansKhmerUI-ExtraBold.ttf: true
+NotoSansKhmerUI-SemiBold.ttf
+NotoSansKhmerUI-SemiBold.ttf: true
+NotoSansKhmerUI-CondensedThin.ttf
+NotoSansKhmerUI-CondensedThin.ttf: true
+NotoSansKhmerUI-CondensedBold.ttf
+NotoSansKhmerUI-CondensedBold.ttf: true
+NotoSansKhmerUI-ExtraCondensedBlack.ttf
+NotoSansKhmerUI-ExtraCondensedBlack.ttf: true
+NotoSansKhmerUI-CondensedSemiBold.ttf
+NotoSansKhmerUI-CondensedSemiBold.ttf: true
+NotoSansKhmerUI-ExtraCondensedSemiBold.ttf
+NotoSansKhmerUI-ExtraCondensedSemiBold.ttf: true
+NotoSansKhmerUI-ExtraLight.ttf
+NotoSansKhmerUI-ExtraLight.ttf: true
+NotoSansKhmerUI-CondensedBlack.ttf
+NotoSansKhmerUI-CondensedBlack.ttf: true
+NotoSansKhmerUI-SemiCondensedThin.ttf
+NotoSansKhmerUI-SemiCondensedThin.ttf: true
+NotoSansKhmerUI-Regular.ttf
+NotoSansKhmerUI-Regular.ttf: true
+NotoSansKhmerUI-ExtraCondensed.ttf
+NotoSansKhmerUI-ExtraCondensed.ttf: true
+NotoSansKhmerUI-CondensedMedium.ttf
+NotoSansKhmerUI-CondensedMedium.ttf: true
+Noto_Sans_Lao
+Noto_Sans_Lao_Blk
+Noto_Sans_Lao_Cond
+Noto_Sans_Lao_Cond_Blk
+Noto_Sans_Lao_Cond_ExtBd
+Noto_Sans_Lao_Cond_ExtLt
+Noto_Sans_Lao_Cond_Light
+Noto_Sans_Lao_Cond_Med
+Noto_Sans_Lao_Cond_SemBd
+Noto_Sans_Lao_Cond_Thin
+Noto_Sans_Lao_ExtBd
+Noto_Sans_Lao_ExtCond
+Noto_Sans_Lao_ExtCond_Blk
+Noto_Sans_Lao_ExtCond_ExtBd
+Noto_Sans_Lao_ExtCond_ExtLt
+Noto_Sans_Lao_ExtCond_Light
+Noto_Sans_Lao_ExtCond_Med
+Noto_Sans_Lao_ExtCond_SemBd
+Noto_Sans_Lao_ExtCond_Thin
+Noto_Sans_Lao_ExtLt
+Noto_Sans_Lao_Light
+Noto_Sans_Lao_Med
+Noto_Sans_Lao_SemBd
+Noto_Sans_Lao_SemCond
+Noto_Sans_Lao_SemCond_Blk
+Noto_Sans_Lao_SemCond_ExtBd
+Noto_Sans_Lao_SemCond_ExtLt
+Noto_Sans_Lao_SemCond_Light
+Noto_Sans_Lao_SemCond_Med
+Noto_Sans_Lao_SemCond_SemBd
+Noto_Sans_Lao_SemCond_Thin
+Noto_Sans_Lao_Thin
+NotoSansLao-CondensedBold.ttf
+NotoSansLao-CondensedBold.ttf: true
+NotoSansLao-ExtraCondensedBlack.ttf
+NotoSansLao-ExtraCondensedBlack.ttf: true
+NotoSansLao-CondensedMedium.ttf
+NotoSansLao-CondensedMedium.ttf: true
+NotoSansLao-ExtraCondensedSemiBold.ttf
+NotoSansLao-ExtraCondensedSemiBold.ttf: true
+NotoSansLao-SemiCondensedMedium.ttf
+NotoSansLao-SemiCondensedMedium.ttf: true
+NotoSansLao-Black.ttf
+NotoSansLao-Black.ttf: true
+NotoSansLao-ExtraCondensedLight.ttf
+NotoSansLao-ExtraCondensedLight.ttf: true
+NotoSansLao-CondensedBlack.ttf
+NotoSansLao-CondensedBlack.ttf: true
+NotoSansLao-SemiCondensedLight.ttf
+NotoSansLao-SemiCondensedLight.ttf: true
+NotoSansLao-Thin.ttf
+NotoSansLao-Thin.ttf: true
+NotoSansLao-Light.ttf
+NotoSansLao-Light.ttf: true
+NotoSansLao-ExtraCondensed.ttf
+NotoSansLao-ExtraCondensed.ttf: true
+NotoSansLao-CondensedSemiBold.ttf
+NotoSansLao-CondensedSemiBold.ttf: true
+NotoSansLao-ExtraBold.ttf
+NotoSansLao-ExtraBold.ttf: true
+NotoSansLao-SemiCondensedSemiBold.ttf
+NotoSansLao-SemiCondensedSemiBold.ttf: true
+NotoSansLao-SemiCondensedBold.ttf
+NotoSansLao-SemiCondensedBold.ttf: true
+NotoSansLao-SemiCondensedBlack.ttf
+NotoSansLao-SemiCondensedBlack.ttf: true
+NotoSansLao-SemiCondensed.ttf
+NotoSansLao-SemiCondensed.ttf: true
+NotoSansLao-SemiCondensedExtraLight.ttf
+NotoSansLao-SemiCondensedExtraLight.ttf: true
+NotoSansLao-ExtraCondensedExtraBold.ttf
+NotoSansLao-ExtraCondensedExtraBold.ttf: true
+NotoSansLao-CondensedLight.ttf
+NotoSansLao-CondensedLight.ttf: true
+NotoSansLao-ExtraCondensedBold.ttf
+NotoSansLao-ExtraCondensedBold.ttf: true
+NotoSansLao-Regular.ttf
+NotoSansLao-Regular.ttf: true
+NotoSansLao-SemiCondensedExtraBold.ttf
+NotoSansLao-SemiCondensedExtraBold.ttf: true
+NotoSansLao-Condensed.ttf
+NotoSansLao-Condensed.ttf: true
+NotoSansLao-CondensedThin.ttf
+NotoSansLao-CondensedThin.ttf: true
+NotoSansLao-SemiBold.ttf
+NotoSansLao-SemiBold.ttf: true
+NotoSansLao-Bold.ttf
+NotoSansLao-Bold.ttf: true
+NotoSansLao-Medium.ttf
+NotoSansLao-Medium.ttf: true
+NotoSansLao-SemiCondensedThin.ttf
+NotoSansLao-SemiCondensedThin.ttf: true
+NotoSansLao-CondensedExtraLight.ttf
+NotoSansLao-CondensedExtraLight.ttf: true
+NotoSansLao-ExtraLight.ttf
+NotoSansLao-ExtraLight.ttf: true
+NotoSansLao-ExtraCondensedMedium.ttf
+NotoSansLao-ExtraCondensedMedium.ttf: true
+NotoSansLao-CondensedExtraBold.ttf
+NotoSansLao-CondensedExtraBold.ttf: true
+NotoSansLao-ExtraCondensedThin.ttf
+NotoSansLao-ExtraCondensedThin.ttf: true
+NotoSansLao-ExtraCondensedExtraLight.ttf
+NotoSansLao-ExtraCondensedExtraLight.ttf: true
+Noto_Sans_Lao_UI
+Noto_Sans_Lao_UI_Blk
+Noto_Sans_Lao_UI_Cond
+Noto_Sans_Lao_UI_Cond_Blk
+Noto_Sans_Lao_UI_Cond_ExtBd
+Noto_Sans_Lao_UI_Cond_ExtLt
+Noto_Sans_Lao_UI_Cond_Light
+Noto_Sans_Lao_UI_Cond_Med
+Noto_Sans_Lao_UI_Cond_SemBd
+Noto_Sans_Lao_UI_Cond_Thin
+Noto_Sans_Lao_UI_ExtBd
+Noto_Sans_Lao_UI_ExtCond
+Noto_Sans_Lao_UI_ExtCond_Blk
+Noto_Sans_Lao_UI_ExtCond_ExtBd
+Noto_Sans_Lao_UI_ExtCond_ExtLt
+Noto_Sans_Lao_UI_ExtCond_Light
+Noto_Sans_Lao_UI_ExtCond_Med
+Noto_Sans_Lao_UI_ExtCond_SemBd
+Noto_Sans_Lao_UI_ExtCond_Thin
+Noto_Sans_Lao_UI_ExtLt
+Noto_Sans_Lao_UI_Light
+Noto_Sans_Lao_UI_Med
+Noto_Sans_Lao_UI_SemBd
+Noto_Sans_Lao_UI_SemCond
+Noto_Sans_Lao_UI_SemCond_Blk
+Noto_Sans_Lao_UI_SemCond_ExtBd
+Noto_Sans_Lao_UI_SemCond_ExtLt
+Noto_Sans_Lao_UI_SemCond_Light
+Noto_Sans_Lao_UI_SemCond_Med
+Noto_Sans_Lao_UI_SemCond_SemBd
+Noto_Sans_Lao_UI_SemCond_Thin
+Noto_Sans_Lao_UI_Thin
+NotoSansLaoUI-SemiCondensedBold.ttf
+NotoSansLaoUI-SemiCondensedBold.ttf: true
+NotoSansLaoUI-Condensed.ttf
+NotoSansLaoUI-Condensed.ttf: true
+NotoSansLaoUI-CondensedExtraLight.ttf
+NotoSansLaoUI-CondensedExtraLight.ttf: true
+NotoSansLaoUI-SemiCondensedLight.ttf
+NotoSansLaoUI-SemiCondensedLight.ttf: true
+NotoSansLaoUI-Regular.ttf
+NotoSansLaoUI-Regular.ttf: true
+NotoSansLaoUI-ExtraCondensedSemiBold.ttf
+NotoSansLaoUI-ExtraCondensedSemiBold.ttf: true
+NotoSansLaoUI-Light.ttf
+NotoSansLaoUI-Light.ttf: true
+NotoSansLaoUI-SemiCondensedMedium.ttf
+NotoSansLaoUI-SemiCondensedMedium.ttf: true
+NotoSansLaoUI-SemiCondensedBlack.ttf
+NotoSansLaoUI-SemiCondensedBlack.ttf: true
+NotoSansLaoUI-SemiCondensedThin.ttf
+NotoSansLaoUI-SemiCondensedThin.ttf: true
+NotoSansLaoUI-SemiCondensedSemiBold.ttf
+NotoSansLaoUI-SemiCondensedSemiBold.ttf: true
+NotoSansLaoUI-Bold.ttf
+NotoSansLaoUI-Bold.ttf: true
+NotoSansLaoUI-CondensedMedium.ttf
+NotoSansLaoUI-CondensedMedium.ttf: true
+NotoSansLaoUI-SemiCondensed.ttf
+NotoSansLaoUI-SemiCondensed.ttf: true
+NotoSansLaoUI-ExtraCondensedThin.ttf
+NotoSansLaoUI-ExtraCondensedThin.ttf: true
+NotoSansLaoUI-CondensedExtraBold.ttf
+NotoSansLaoUI-CondensedExtraBold.ttf: true
+NotoSansLaoUI-SemiCondensedExtraLight.ttf
+NotoSansLaoUI-SemiCondensedExtraLight.ttf: true
+NotoSansLaoUI-CondensedThin.ttf
+NotoSansLaoUI-CondensedThin.ttf: true
+NotoSansLaoUI-CondensedBold.ttf
+NotoSansLaoUI-CondensedBold.ttf: true
+NotoSansLaoUI-ExtraCondensedMedium.ttf
+NotoSansLaoUI-ExtraCondensedMedium.ttf: true
+NotoSansLaoUI-SemiCondensedExtraBold.ttf
+NotoSansLaoUI-SemiCondensedExtraBold.ttf: true
+NotoSansLaoUI-ExtraCondensedExtraBold.ttf
+NotoSansLaoUI-ExtraCondensedExtraBold.ttf: true
+NotoSansLaoUI-ExtraBold.ttf
+NotoSansLaoUI-ExtraBold.ttf: true
+NotoSansLaoUI-ExtraCondensed.ttf
+NotoSansLaoUI-ExtraCondensed.ttf: true
+NotoSansLaoUI-Black.ttf
+NotoSansLaoUI-Black.ttf: true
+NotoSansLaoUI-Medium.ttf
+NotoSansLaoUI-Medium.ttf: true
+NotoSansLaoUI-ExtraCondensedLight.ttf
+NotoSansLaoUI-ExtraCondensedLight.ttf: true
+NotoSansLaoUI-CondensedBlack.ttf
+NotoSansLaoUI-CondensedBlack.ttf: true
+NotoSansLaoUI-ExtraLight.ttf
+NotoSansLaoUI-ExtraLight.ttf: true
+NotoSansLaoUI-CondensedSemiBold.ttf
+NotoSansLaoUI-CondensedSemiBold.ttf: true
+NotoSansLaoUI-CondensedLight.ttf
+NotoSansLaoUI-CondensedLight.ttf: true
+NotoSansLaoUI-Thin.ttf
+NotoSansLaoUI-Thin.ttf: true
+NotoSansLaoUI-SemiBold.ttf
+NotoSansLaoUI-SemiBold.ttf: true
+NotoSansLaoUI-ExtraCondensedBlack.ttf
+NotoSansLaoUI-ExtraCondensedBlack.ttf: true
+NotoSansLaoUI-ExtraCondensedExtraLight.ttf
+NotoSansLaoUI-ExtraCondensedExtraLight.ttf: true
+NotoSansLaoUI-ExtraCondensedBold.ttf
+NotoSansLaoUI-ExtraCondensedBold.ttf: true
+Noto_Sans_Lepcha
+NotoSansLepcha-Regular.ttf
+NotoSansLepcha-Regular.ttf: false
+Noto_Sans_Limbu
+NotoSansLimbu-Regular.ttf
+NotoSansLimbu-Regular.ttf: false
+Noto_Sans_Linear_B
+NotoSansLinearB-Regular.ttf
+NotoSansLinearB-Regular.ttf: false
+Noto_Sans_Lisu
+NotoSansLisu-Regular.ttf
+NotoSansLisu-Regular.ttf: true
+Noto_Sans_Lycian
+NotoSansLycian-Regular.ttf
+NotoSansLycian-Regular.ttf: false
+Noto_Sans_Lydian
+NotoSansLydian-Regular.ttf
+NotoSansLydian-Regular.ttf: false
+Noto_Sans_Malayalam
+NotoSansMalayalam-Regular.ttf
+NotoSansMalayalam-Regular.ttf: true
+NotoSansMalayalam-Bold.ttf
+NotoSansMalayalam-Bold.ttf: true
+Noto_Sans_Malayalam_UI
+NotoSansMalayalamUI-Bold.ttf
+NotoSansMalayalamUI-Bold.ttf: true
+NotoSansMalayalamUI-Regular.ttf
+NotoSansMalayalamUI-Regular.ttf: true
+Noto_Sans_Mandaic
+NotoSansMandaic-Regular.ttf
+NotoSansMandaic-Regular.ttf: true
+Noto_Sans_Meetei_Mayek
+NotoSansMeeteiMayek-Regular.ttf
+NotoSansMeeteiMayek-Regular.ttf: false
+Noto_Sans_Mongolian
+NotoSansMongolian-Regular.ttf
+NotoSansMongolian-Regular.ttf: false
+Noto_Sans_Mono
+Noto_Sans_Mono_Blk
+Noto_Sans_Mono_Cond
+Noto_Sans_Mono_Cond_Blk
+Noto_Sans_Mono_Cond_ExtBd
+Noto_Sans_Mono_Cond_ExtLt
+Noto_Sans_Mono_Cond_Light
+Noto_Sans_Mono_Cond_Med
+Noto_Sans_Mono_Cond_SemBd
+Noto_Sans_Mono_Cond_Thin
+Noto_Sans_Mono_ExtBd
+Noto_Sans_Mono_ExtCond
+Noto_Sans_Mono_ExtCond_Blk
+Noto_Sans_Mono_ExtCond_ExtBd
+Noto_Sans_Mono_ExtCond_ExtLt
+Noto_Sans_Mono_ExtCond_Light
+Noto_Sans_Mono_ExtCond_Med
+Noto_Sans_Mono_ExtCond_SemBd
+Noto_Sans_Mono_ExtCond_Thin
+Noto_Sans_Mono_ExtLt
+Noto_Sans_Mono_Light
+Noto_Sans_Mono_Med
+Noto_Sans_Mono_SemBd
+Noto_Sans_Mono_SemCond
+Noto_Sans_Mono_SemCond_Blk
+Noto_Sans_Mono_SemCond_ExtBd
+Noto_Sans_Mono_SemCond_ExtLt
+Noto_Sans_Mono_SemCond_Light
+Noto_Sans_Mono_SemCond_Med
+Noto_Sans_Mono_SemCond_SemBd
+Noto_Sans_Mono_SemCond_Thin
+Noto_Sans_Mono_Thin
+NotoSansMono-SemiCondensed.ttf
+NotoSansMono-SemiCondensed.ttf: true
+NotoSansMono-Condensed.ttf
+NotoSansMono-Condensed.ttf: true
+NotoSansMono-ExtraLight.ttf
+NotoSansMono-ExtraLight.ttf: true
+NotoSansMono-ExtraBold.ttf
+NotoSansMono-ExtraBold.ttf: true
+NotoSansMono-Regular.ttf
+NotoSansMono-Regular.ttf: true
+NotoSansMono-CondensedLight.ttf
+NotoSansMono-CondensedLight.ttf: true
+NotoSansMono-SemiCondensedMedium.ttf
+NotoSansMono-SemiCondensedMedium.ttf: true
+NotoSansMono-ExtraCondensedExtraLight.ttf
+NotoSansMono-ExtraCondensedExtraLight.ttf: true
+NotoSansMono-ExtraCondensedBlack.ttf
+NotoSansMono-ExtraCondensedBlack.ttf: true
+NotoSansMono-CondensedBlack.ttf
+NotoSansMono-CondensedBlack.ttf: true
+NotoSansMono-CondensedExtraBold.ttf
+NotoSansMono-CondensedExtraBold.ttf: true
+NotoSansMono-CondensedMedium.ttf
+NotoSansMono-CondensedMedium.ttf: true
+NotoSansMono-ExtraCondensedMedium.ttf
+NotoSansMono-ExtraCondensedMedium.ttf: true
+NotoSansMono-SemiCondensedLight.ttf
+NotoSansMono-SemiCondensedLight.ttf: true
+NotoSansMono-ExtraCondensedExtraBold.ttf
+NotoSansMono-ExtraCondensedExtraBold.ttf: true
+NotoSansMono-SemiCondensedExtraLight.ttf
+NotoSansMono-SemiCondensedExtraLight.ttf: true
+NotoSansMono-ExtraCondensedThin.ttf
+NotoSansMono-ExtraCondensedThin.ttf: true
+NotoSansMono-CondensedSemiBold.ttf
+NotoSansMono-CondensedSemiBold.ttf: true
+NotoSansMono-Light.ttf
+NotoSansMono-Light.ttf: true
+NotoSansMono-Black.ttf
+NotoSansMono-Black.ttf: true
+NotoSansMono-CondensedThin.ttf
+NotoSansMono-CondensedThin.ttf: true
+NotoSansMono-Medium.ttf
+NotoSansMono-Medium.ttf: true
+NotoSansMono-ExtraCondensedSemiBold.ttf
+NotoSansMono-ExtraCondensedSemiBold.ttf: true
+NotoSansMono-SemiBold.ttf
+NotoSansMono-SemiBold.ttf: true
+NotoSansMono-ExtraCondensedBold.ttf
+NotoSansMono-ExtraCondensedBold.ttf: true
+NotoSansMono-ExtraCondensedLight.ttf
+NotoSansMono-ExtraCondensedLight.ttf: true
+NotoSansMono-CondensedBold.ttf
+NotoSansMono-CondensedBold.ttf: true
+NotoSansMono-CondensedExtraLight.ttf
+NotoSansMono-CondensedExtraLight.ttf: true
+NotoSansMono-Thin.ttf
+NotoSansMono-Thin.ttf: true
+NotoSansMono-SemiCondensedExtraBold.ttf
+NotoSansMono-SemiCondensedExtraBold.ttf: true
+NotoSansMono-Bold.ttf
+NotoSansMono-Bold.ttf: true
+NotoSansMono-SemiCondensedBold.ttf
+NotoSansMono-SemiCondensedBold.ttf: true
+NotoSansMono-SemiCondensedSemiBold.ttf
+NotoSansMono-SemiCondensedSemiBold.ttf: true
+NotoSansMono-SemiCondensedBlack.ttf
+NotoSansMono-SemiCondensedBlack.ttf: true
+NotoSansMono-ExtraCondensed.ttf
+NotoSansMono-ExtraCondensed.ttf: true
+NotoSansMono-SemiCondensedThin.ttf
+NotoSansMono-SemiCondensedThin.ttf: true
+Noto_Sans_Myanmar
+Noto_Sans_Myanmar_Blk
+Noto_Sans_Myanmar_Cond
+Noto_Sans_Myanmar_Cond_Blk
+Noto_Sans_Myanmar_Cond_ExtBd
+Noto_Sans_Myanmar_Cond_ExtLt
+Noto_Sans_Myanmar_Cond_Light
+Noto_Sans_Myanmar_Cond_Med
+Noto_Sans_Myanmar_Cond_SemBd
+Noto_Sans_Myanmar_Cond_Thin
+Noto_Sans_Myanmar_ExtBd
+Noto_Sans_Myanmar_ExtCond
+Noto_Sans_Myanmar_ExtCond_Blk
+Noto_Sans_Myanmar_ExtCond_ExtBd
+Noto_Sans_Myanmar_ExtCond_ExtLt
+Noto_Sans_Myanmar_ExtCond_Light
+Noto_Sans_Myanmar_ExtCond_Med
+Noto_Sans_Myanmar_ExtCond_SemBd
+Noto_Sans_Myanmar_ExtCond_Thin
+Noto_Sans_Myanmar_ExtLt
+Noto_Sans_Myanmar_Light
+Noto_Sans_Myanmar_Med
+Noto_Sans_Myanmar_SemBd
+Noto_Sans_Myanmar_SemCond
+Noto_Sans_Myanmar_SemCond_Blk
+Noto_Sans_Myanmar_SemCond_ExtBd
+Noto_Sans_Myanmar_SemCond_ExtLt
+Noto_Sans_Myanmar_SemCond_Light
+Noto_Sans_Myanmar_SemCond_Med
+Noto_Sans_Myanmar_SemCond_SemBd
+Noto_Sans_Myanmar_SemCond_Thin
+Noto_Sans_Myanmar_Thin
+NotoSansMyanmar-SemiCondensedThin.ttf
+NotoSansMyanmar-SemiCondensedThin.ttf: true
+NotoSansMyanmar-SemiCondensedExtraBold.ttf
+NotoSansMyanmar-SemiCondensedExtraBold.ttf: true
+NotoSansMyanmar-CondensedBold.ttf
+NotoSansMyanmar-CondensedBold.ttf: true
+NotoSansMyanmar-SemiCondensedBlack.ttf
+NotoSansMyanmar-SemiCondensedBlack.ttf: true
+NotoSansMyanmar-ExtraCondensedBlack.ttf
+NotoSansMyanmar-ExtraCondensedBlack.ttf: true
+NotoSansMyanmar-Regular.ttf
+NotoSansMyanmar-Regular.ttf: true
+NotoSansMyanmar-Condensed.ttf
+NotoSansMyanmar-Condensed.ttf: true
+NotoSansMyanmar-SemiBold.ttf
+NotoSansMyanmar-SemiBold.ttf: true
+NotoSansMyanmar-SemiCondensed.ttf
+NotoSansMyanmar-SemiCondensed.ttf: true
+NotoSansMyanmar-Light.ttf
+NotoSansMyanmar-Light.ttf: true
+NotoSansMyanmar-SemiCondensedMedium.ttf
+NotoSansMyanmar-SemiCondensedMedium.ttf: true
+NotoSansMyanmar-CondensedSemiBold.ttf
+NotoSansMyanmar-CondensedSemiBold.ttf: true
+NotoSansMyanmar-ExtraCondensedThin.ttf
+NotoSansMyanmar-ExtraCondensedThin.ttf: true
+NotoSansMyanmar-ExtraCondensedMedium.ttf
+NotoSansMyanmar-ExtraCondensedMedium.ttf: true
+NotoSansMyanmar-Bold.ttf
+NotoSansMyanmar-Bold.ttf: true
+NotoSansMyanmar-SemiCondensedSemiBold.ttf
+NotoSansMyanmar-SemiCondensedSemiBold.ttf: true
+NotoSansMyanmar-Medium.ttf
+NotoSansMyanmar-Medium.ttf: true
+NotoSansMyanmar-CondensedLight.ttf
+NotoSansMyanmar-CondensedLight.ttf: true
+NotoSansMyanmar-ExtraCondensedExtraLight.ttf
+NotoSansMyanmar-ExtraCondensedExtraLight.ttf: true
+NotoSansMyanmar-Thin.ttf
+NotoSansMyanmar-Thin.ttf: true
+NotoSansMyanmar-ExtraCondensedSemiBold.ttf
+NotoSansMyanmar-ExtraCondensedSemiBold.ttf: true
+NotoSansMyanmar-ExtraCondensedLight.ttf
+NotoSansMyanmar-ExtraCondensedLight.ttf: true
+NotoSansMyanmar-ExtraCondensedBold.ttf
+NotoSansMyanmar-ExtraCondensedBold.ttf: true
+NotoSansMyanmar-ExtraLight.ttf
+NotoSansMyanmar-ExtraLight.ttf: true
+NotoSansMyanmar-ExtraCondensedExtraBold.ttf
+NotoSansMyanmar-ExtraCondensedExtraBold.ttf: true
+NotoSansMyanmar-CondensedMedium.ttf
+NotoSansMyanmar-CondensedMedium.ttf: true
+NotoSansMyanmar-Black.ttf
+NotoSansMyanmar-Black.ttf: true
+NotoSansMyanmar-CondensedExtraLight.ttf
+NotoSansMyanmar-CondensedExtraLight.ttf: true
+NotoSansMyanmar-CondensedExtraBold.ttf
+NotoSansMyanmar-CondensedExtraBold.ttf: true
+NotoSansMyanmar-SemiCondensedExtraLight.ttf
+NotoSansMyanmar-SemiCondensedExtraLight.ttf: true
+NotoSansMyanmar-CondensedBlack.ttf
+NotoSansMyanmar-CondensedBlack.ttf: true
+NotoSansMyanmar-SemiCondensedBold.ttf
+NotoSansMyanmar-SemiCondensedBold.ttf: true
+NotoSansMyanmar-ExtraBold.ttf
+NotoSansMyanmar-ExtraBold.ttf: true
+NotoSansMyanmar-CondensedThin.ttf
+NotoSansMyanmar-CondensedThin.ttf: true
+NotoSansMyanmar-ExtraCondensed.ttf
+NotoSansMyanmar-ExtraCondensed.ttf: true
+NotoSansMyanmar-SemiCondensedLight.ttf
+NotoSansMyanmar-SemiCondensedLight.ttf: true
+Noto_Sans_Myanmar_UI
+Noto_Sans_Myanmar_UI_Bk
+Noto_Sans_Myanmar_UI_Cn
+Noto_Sans_Myanmar_UI_Cn_Bk
+Noto_Sans_Myanmar_UI_Cn_Lt
+Noto_Sans_Myanmar_UI_Cn_Md
+Noto_Sans_Myanmar_UI_Cn_SmBd
+Noto_Sans_Myanmar_UI_Cn_Th
+Noto_Sans_Myanmar_UI_Cn_XBd
+Noto_Sans_Myanmar_UI_Cn_XLt
+Noto_Sans_Myanmar_UI_Lt
+Noto_Sans_Myanmar_UI_Md
+Noto_Sans_Myanmar_UI_SmBd
+Noto_Sans_Myanmar_UI_SmCn
+Noto_Sans_Myanmar_UI_SmCn_Bk
+Noto_Sans_Myanmar_UI_SmCn_Lt
+Noto_Sans_Myanmar_UI_SmCn_Md
+Noto_Sans_Myanmar_UI_SmCn_SmBd
+Noto_Sans_Myanmar_UI_SmCn_Th
+Noto_Sans_Myanmar_UI_SmCn_XBd
+Noto_Sans_Myanmar_UI_SmCn_XLt
+Noto_Sans_Myanmar_UI_Th
+Noto_Sans_Myanmar_UI_XBd
+Noto_Sans_Myanmar_UI_XCn
+Noto_Sans_Myanmar_UI_XCn_Bk
+Noto_Sans_Myanmar_UI_XCn_Lt
+Noto_Sans_Myanmar_UI_XCn_Md
+Noto_Sans_Myanmar_UI_XCn_SmBd
+Noto_Sans_Myanmar_UI_XCn_Th
+Noto_Sans_Myanmar_UI_XCn_XBd
+Noto_Sans_Myanmar_UI_XCn_XLt
+Noto_Sans_Myanmar_UI_XLt
+NotoSansMyanmarUI-ExtraCondensedExtraBold.ttf
+NotoSansMyanmarUI-ExtraCondensedExtraBold.ttf: true
+NotoSansMyanmarUI-SemiCondensedBold.ttf
+NotoSansMyanmarUI-SemiCondensedBold.ttf: true
+NotoSansMyanmarUI-SemiCondensedExtraLight.ttf
+NotoSansMyanmarUI-SemiCondensedExtraLight.ttf: true
+NotoSansMyanmarUI-Condensed.ttf
+NotoSansMyanmarUI-Condensed.ttf: true
+NotoSansMyanmarUI-CondensedBlack.ttf
+NotoSansMyanmarUI-CondensedBlack.ttf: true
+NotoSansMyanmarUI-SemiCondensedLight.ttf
+NotoSansMyanmarUI-SemiCondensedLight.ttf: true
+NotoSansMyanmarUI-CondensedLight.ttf
+NotoSansMyanmarUI-CondensedLight.ttf: true
+NotoSansMyanmarUI-SemiCondensedSemiBold.ttf
+NotoSansMyanmarUI-SemiCondensedSemiBold.ttf: true
+NotoSansMyanmarUI-SemiCondensedBlack.ttf
+NotoSansMyanmarUI-SemiCondensedBlack.ttf: true
+NotoSansMyanmarUI-Black.ttf
+NotoSansMyanmarUI-Black.ttf: true
+NotoSansMyanmarUI-SemiBold.ttf
+NotoSansMyanmarUI-SemiBold.ttf: true
+NotoSansMyanmarUI-ExtraCondensed.ttf
+NotoSansMyanmarUI-ExtraCondensed.ttf: true
+NotoSansMyanmarUI-ExtraCondensedBlack.ttf
+NotoSansMyanmarUI-ExtraCondensedBlack.ttf: true
+NotoSansMyanmarUI-Light.ttf
+NotoSansMyanmarUI-Light.ttf: true
+NotoSansMyanmarUI-SemiCondensedExtraBold.ttf
+NotoSansMyanmarUI-SemiCondensedExtraBold.ttf: true
+NotoSansMyanmarUI-ExtraCondensedSemiBold.ttf
+NotoSansMyanmarUI-ExtraCondensedSemiBold.ttf: true
+NotoSansMyanmarUI-ExtraCondensedExtraLight.ttf
+NotoSansMyanmarUI-ExtraCondensedExtraLight.ttf: true
+NotoSansMyanmarUI-ExtraCondensedBold.ttf
+NotoSansMyanmarUI-ExtraCondensedBold.ttf: true
+NotoSansMyanmarUI-ExtraLight.ttf
+NotoSansMyanmarUI-ExtraLight.ttf: true
+NotoSansMyanmarUI-CondensedThin.ttf
+NotoSansMyanmarUI-CondensedThin.ttf: true
+NotoSansMyanmarUI-ExtraCondensedMedium.ttf
+NotoSansMyanmarUI-ExtraCondensedMedium.ttf: true
+NotoSansMyanmarUI-SemiCondensed.ttf
+NotoSansMyanmarUI-SemiCondensed.ttf: true
+NotoSansMyanmarUI-SemiCondensedMedium.ttf
+NotoSansMyanmarUI-SemiCondensedMedium.ttf: true
+NotoSansMyanmarUI-ExtraCondensedThin.ttf
+NotoSansMyanmarUI-ExtraCondensedThin.ttf: true
+NotoSansMyanmarUI-ExtraBold.ttf
+NotoSansMyanmarUI-ExtraBold.ttf: true
+NotoSansMyanmarUI-CondensedSemiBold.ttf
+NotoSansMyanmarUI-CondensedSemiBold.ttf: true
+NotoSansMyanmarUI-CondensedExtraLight.ttf
+NotoSansMyanmarUI-CondensedExtraLight.ttf: true
+NotoSansMyanmarUI-Medium.ttf
+NotoSansMyanmarUI-Medium.ttf: true
+NotoSansMyanmarUI-Bold.ttf
+NotoSansMyanmarUI-Bold.ttf: true
+NotoSansMyanmarUI-CondensedExtraBold.ttf
+NotoSansMyanmarUI-CondensedExtraBold.ttf: true
+NotoSansMyanmarUI-Thin.ttf
+NotoSansMyanmarUI-Thin.ttf: true
+NotoSansMyanmarUI-CondensedBold.ttf
+NotoSansMyanmarUI-CondensedBold.ttf: true
+NotoSansMyanmarUI-SemiCondensedThin.ttf
+NotoSansMyanmarUI-SemiCondensedThin.ttf: true
+NotoSansMyanmarUI-CondensedMedium.ttf
+NotoSansMyanmarUI-CondensedMedium.ttf: true
+NotoSansMyanmarUI-ExtraCondensedLight.ttf
+NotoSansMyanmarUI-ExtraCondensedLight.ttf: true
+NotoSansMyanmarUI-Regular.ttf
+NotoSansMyanmarUI-Regular.ttf: true
+Noto_Sans_New_Tai_Lue
+NotoSansNewTaiLue-Regular.ttf
+NotoSansNewTaiLue-Regular.ttf: false
+Noto_Sans_N'Ko
+NotoSansNKo-Regular.ttf
+NotoSansNKo-Regular.ttf: true
+Noto_Sans_Ogham
+NotoSansOgham-Regular.ttf
+NotoSansOgham-Regular.ttf: false
+Noto_Sans_Ol_Chiki
+NotoSansOlChiki-Regular.ttf
+NotoSansOlChiki-Regular.ttf: true
+Noto_Sans_Old_Italic
+NotoSansOldItalic-Regular.ttf
+NotoSansOldItalic-Regular.ttf: false
+Noto_Sans_Old_Persian
+NotoSansOldPersian-Regular.ttf
+NotoSansOldPersian-Regular.ttf: false
+Noto_Sans_OldSouArab
+NotoSansOldSouthArabian-Regular.ttf
+NotoSansOldSouthArabian-Regular.ttf: false
+Noto_Sans_Old_Turkic
+NotoSansOldTurkic-Regular.ttf
+NotoSansOldTurkic-Regular.ttf: true
+Noto_Sans_Oriya
+NotoSansOriya-Bold.ttf
+NotoSansOriya-Bold.ttf: true
+NotoSansOriya-Regular.ttf
+NotoSansOriya-Regular.ttf: true
+Noto_Sans_Oriya_UI
+NotoSansOriyaUI-Bold.ttf
+NotoSansOriyaUI-Bold.ttf: true
+NotoSansOriyaUI-Regular.ttf
+NotoSansOriyaUI-Regular.ttf: true
+Noto_Sans_Osage
+NotoSansOsage-Regular.ttf
+NotoSansOsage-Regular.ttf: true
+Noto_Sans_Osmanya
+NotoSansOsmanya-Regular.ttf
+NotoSansOsmanya-Regular.ttf: true
+Noto_Sans_Phags_Pa
+NotoSansPhagsPa-Regular.ttf
+NotoSansPhagsPa-Regular.ttf: false
+Noto_Sans_Phoenician
+NotoSansPhoenician-Regular.ttf
+NotoSansPhoenician-Regular.ttf: false
+Noto_Sans_Rejang
+NotoSansRejang-Regular.ttf
+NotoSansRejang-Regular.ttf: false
+Noto_Sans_Runic
+NotoSansRunic-Regular.ttf
+NotoSansRunic-Regular.ttf: false
+Noto_Sans_Samaritan
+NotoSansSamaritan-Regular.ttf
+NotoSansSamaritan-Regular.ttf: false
+Noto_Sans_Saurashtra
+NotoSansSaurashtra-Regular.ttf
+NotoSansSaurashtra-Regular.ttf: false
+Noto_Sans_Shavian
+NotoSansShavian-Regular.ttf
+NotoSansShavian-Regular.ttf: true
+Noto_Sans_Sinhala
+Noto_Sans_Sinhala_Blk
+Noto_Sans_Sinhala_Cond
+Noto_Sans_Sinhala_Cond_Blk
+Noto_Sans_Sinhala_Cond_ExtBd
+Noto_Sans_Sinhala_Cond_ExtLt
+Noto_Sans_Sinhala_Cond_Light
+Noto_Sans_Sinhala_Cond_Med
+Noto_Sans_Sinhala_Cond_SemBd
+Noto_Sans_Sinhala_Cond_Thin
+Noto_Sans_Sinhala_ExtBd
+Noto_Sans_Sinhala_ExtCond
+Noto_Sans_Sinhala_ExtCond_Blk
+Noto_Sans_Sinhala_ExtCond_ExtBd
+Noto_Sans_Sinhala_ExtCond_ExtLt
+Noto_Sans_Sinhala_ExtCond_Light
+Noto_Sans_Sinhala_ExtCond_Med
+Noto_Sans_Sinhala_ExtCond_SemBd
+Noto_Sans_Sinhala_ExtCond_Thin
+Noto_Sans_Sinhala_ExtLt
+Noto_Sans_Sinhala_Light
+Noto_Sans_Sinhala_Med
+Noto_Sans_Sinhala_SemBd
+Noto_Sans_Sinhala_SemCond
+Noto_Sans_Sinhala_SemCond_Blk
+Noto_Sans_Sinhala_SemCond_ExtBd
+Noto_Sans_Sinhala_SemCond_ExtLt
+Noto_Sans_Sinhala_SemCond_Light
+Noto_Sans_Sinhala_SemCond_Med
+Noto_Sans_Sinhala_SemCond_SemBd
+Noto_Sans_Sinhala_SemCond_Thin
+Noto_Sans_Sinhala_Thin
+NotoSansSinhala-SemiCondensedBold.ttf
+NotoSansSinhala-SemiCondensedBold.ttf: true
+NotoSansSinhala-CondensedSemiBold.ttf
+NotoSansSinhala-CondensedSemiBold.ttf: true
+NotoSansSinhala-CondensedMedium.ttf
+NotoSansSinhala-CondensedMedium.ttf: true
+NotoSansSinhala-Regular.ttf
+NotoSansSinhala-Regular.ttf: true
+NotoSansSinhala-SemiBold.ttf
+NotoSansSinhala-SemiBold.ttf: true
+NotoSansSinhala-ExtraLight.ttf
+NotoSansSinhala-ExtraLight.ttf: true
+NotoSansSinhala-SemiCondensedExtraLight.ttf
+NotoSansSinhala-SemiCondensedExtraLight.ttf: true
+NotoSansSinhala-Bold.ttf
+NotoSansSinhala-Bold.ttf: true
+NotoSansSinhala-SemiCondensedSemiBold.ttf
+NotoSansSinhala-SemiCondensedSemiBold.ttf: true
+NotoSansSinhala-CondensedExtraLight.ttf
+NotoSansSinhala-CondensedExtraLight.ttf: true
+NotoSansSinhala-CondensedThin.ttf
+NotoSansSinhala-CondensedThin.ttf: true
+NotoSansSinhala-SemiCondensedLight.ttf
+NotoSansSinhala-SemiCondensedLight.ttf: true
+NotoSansSinhala-SemiCondensedMedium.ttf
+NotoSansSinhala-SemiCondensedMedium.ttf: true
+NotoSansSinhala-SemiCondensedExtraBold.ttf
+NotoSansSinhala-SemiCondensedExtraBold.ttf: true
+NotoSansSinhala-SemiCondensedBlack.ttf
+NotoSansSinhala-SemiCondensedBlack.ttf: true
+NotoSansSinhala-SemiCondensed.ttf
+NotoSansSinhala-SemiCondensed.ttf: true
+NotoSansSinhala-Light.ttf
+NotoSansSinhala-Light.ttf: true
+NotoSansSinhala-Medium.ttf
+NotoSansSinhala-Medium.ttf: true
+NotoSansSinhala-CondensedBold.ttf
+NotoSansSinhala-CondensedBold.ttf: true
+NotoSansSinhala-SemiCondensedThin.ttf
+NotoSansSinhala-SemiCondensedThin.ttf: true
+NotoSansSinhala-ExtraCondensedThin.ttf
+NotoSansSinhala-ExtraCondensedThin.ttf: true
+NotoSansSinhala-ExtraCondensedBlack.ttf
+NotoSansSinhala-ExtraCondensedBlack.ttf: true
+NotoSansSinhala-ExtraCondensedMedium.ttf
+NotoSansSinhala-ExtraCondensedMedium.ttf: true
+NotoSansSinhala-Condensed.ttf
+NotoSansSinhala-Condensed.ttf: true
+NotoSansSinhala-ExtraBold.ttf
+NotoSansSinhala-ExtraBold.ttf: true
+NotoSansSinhala-ExtraCondensedBold.ttf
+NotoSansSinhala-ExtraCondensedBold.ttf: true
+NotoSansSinhala-ExtraCondensedLight.ttf
+NotoSansSinhala-ExtraCondensedLight.ttf: true
+NotoSansSinhala-CondensedLight.ttf
+NotoSansSinhala-CondensedLight.ttf: true
+NotoSansSinhala-ExtraCondensed.ttf
+NotoSansSinhala-ExtraCondensed.ttf: true
+NotoSansSinhala-CondensedBlack.ttf
+NotoSansSinhala-CondensedBlack.ttf: true
+NotoSansSinhala-Black.ttf
+NotoSansSinhala-Black.ttf: true
+NotoSansSinhala-Thin.ttf
+NotoSansSinhala-Thin.ttf: true
+NotoSansSinhala-CondensedExtraBold.ttf
+NotoSansSinhala-CondensedExtraBold.ttf: true
+NotoSansSinhala-ExtraCondensedExtraLight.ttf
+NotoSansSinhala-ExtraCondensedExtraLight.ttf: true
+NotoSansSinhala-ExtraCondensedSemiBold.ttf
+NotoSansSinhala-ExtraCondensedSemiBold.ttf: true
+NotoSansSinhala-ExtraCondensedExtraBold.ttf
+NotoSansSinhala-ExtraCondensedExtraBold.ttf: true
+Noto_Sans_Sinhala_Blk
+Noto_Sans_Sinhala_Cond
+Noto_Sans_Sinhala_Cond_Blk
+Noto_Sans_Sinhala_Cond_ExtBd
+Noto_Sans_Sinhala_Cond_ExtLt
+Noto_Sans_Sinhala_Cond_Light
+Noto_Sans_Sinhala_Cond_Med
+Noto_Sans_Sinhala_Cond_SemBd
+Noto_Sans_Sinhala_Cond_Thin
+Noto_Sans_Sinhala_ExtBd
+Noto_Sans_Sinhala_ExtCond
+Noto_Sans_Sinhala_ExtCond_Blk
+Noto_Sans_Sinhala_ExtCond_ExtBd
+Noto_Sans_Sinhala_ExtCond_ExtLt
+Noto_Sans_Sinhala_ExtCond_Light
+Noto_Sans_Sinhala_ExtCond_Med
+Noto_Sans_Sinhala_ExtCond_SemBd
+Noto_Sans_Sinhala_ExtCond_Thin
+Noto_Sans_Sinhala_ExtLt
+Noto_Sans_Sinhala_Light
+Noto_Sans_Sinhala_Med
+Noto_Sans_Sinhala_SemBd
+Noto_Sans_Sinhala_SemCond
+Noto_Sans_Sinhala_SemCond_Blk
+Noto_Sans_Sinhala_SemCond_ExtBd
+Noto_Sans_Sinhala_SemCond_ExtLt
+Noto_Sans_Sinhala_SemCond_Light
+Noto_Sans_Sinhala_SemCond_Med
+Noto_Sans_Sinhala_SemCond_SemBd
+Noto_Sans_Sinhala_SemCond_Thin
+Noto_Sans_Sinhala_Thin
+Noto_Sans_Sinhala_UI
+NotoSansSinhalaUI-SemiBold.ttf
+NotoSansSinhalaUI-SemiBold.ttf: true
+NotoSansSinhalaUI-CondensedBold.ttf
+NotoSansSinhalaUI-CondensedBold.ttf: true
+NotoSansSinhalaUI-ExtraCondensedBold.ttf
+NotoSansSinhalaUI-ExtraCondensedBold.ttf: true
+NotoSansSinhalaUI-CondensedExtraBold.ttf
+NotoSansSinhalaUI-CondensedExtraBold.ttf: true
+NotoSansSinhalaUI-Bold.ttf
+NotoSansSinhalaUI-Bold.ttf: true
+NotoSansSinhalaUI-CondensedSemiBold.ttf
+NotoSansSinhalaUI-CondensedSemiBold.ttf: true
+NotoSansSinhalaUI-ExtraCondensedBlack.ttf
+NotoSansSinhalaUI-ExtraCondensedBlack.ttf: true
+NotoSansSinhalaUI-SemiCondensedBlack.ttf
+NotoSansSinhalaUI-SemiCondensedBlack.ttf: true
+NotoSansSinhalaUI-CondensedThin.ttf
+NotoSansSinhalaUI-CondensedThin.ttf: true
+NotoSansSinhalaUI-SemiCondensedExtraBold.ttf
+NotoSansSinhalaUI-SemiCondensedExtraBold.ttf: true
+NotoSansSinhalaUI-SemiCondensedBold.ttf
+NotoSansSinhalaUI-SemiCondensedBold.ttf: true
+NotoSansSinhalaUI-ExtraCondensedMedium.ttf
+NotoSansSinhalaUI-ExtraCondensedMedium.ttf: true
+NotoSansSinhalaUI-SemiCondensedMedium.ttf
+NotoSansSinhalaUI-SemiCondensedMedium.ttf: true
+NotoSansSinhalaUI-ExtraCondensedLight.ttf
+NotoSansSinhalaUI-ExtraCondensedLight.ttf: true
+NotoSansSinhalaUI-Black.ttf
+NotoSansSinhalaUI-Black.ttf: true
+NotoSansSinhalaUI-Regular.ttf
+NotoSansSinhalaUI-Regular.ttf: true
+NotoSansSinhalaUI-ExtraCondensedExtraBold.ttf
+NotoSansSinhalaUI-ExtraCondensedExtraBold.ttf: true
+NotoSansSinhalaUI-Medium.ttf
+NotoSansSinhalaUI-Medium.ttf: true
+NotoSansSinhalaUI-CondensedBlack.ttf
+NotoSansSinhalaUI-CondensedBlack.ttf: true
+NotoSansSinhalaUI-SemiCondensedSemiBold.ttf
+NotoSansSinhalaUI-SemiCondensedSemiBold.ttf: true
+NotoSansSinhalaUI-SemiCondensedLight.ttf
+NotoSansSinhalaUI-SemiCondensedLight.ttf: true
+NotoSansSinhalaUI-ExtraCondensedSemiBold.ttf
+NotoSansSinhalaUI-ExtraCondensedSemiBold.ttf: true
+NotoSansSinhalaUI-ExtraCondensedThin.ttf
+NotoSansSinhalaUI-ExtraCondensedThin.ttf: true
+NotoSansSinhalaUI-ExtraCondensed.ttf
+NotoSansSinhalaUI-ExtraCondensed.ttf: true
+NotoSansSinhalaUI-ExtraBold.ttf
+NotoSansSinhalaUI-ExtraBold.ttf: true
+NotoSansSinhalaUI-CondensedExtraLight.ttf
+NotoSansSinhalaUI-CondensedExtraLight.ttf: true
+NotoSansSinhalaUI-Condensed.ttf
+NotoSansSinhalaUI-Condensed.ttf: true
+NotoSansSinhalaUI-SemiCondensedThin.ttf
+NotoSansSinhalaUI-SemiCondensedThin.ttf: true
+NotoSansSinhalaUI-SemiCondensedExtraLight.ttf
+NotoSansSinhalaUI-SemiCondensedExtraLight.ttf: true
+NotoSansSinhalaUI-CondensedMedium.ttf
+NotoSansSinhalaUI-CondensedMedium.ttf: true
+NotoSansSinhalaUI-ExtraLight.ttf
+NotoSansSinhalaUI-ExtraLight.ttf: true
+NotoSansSinhalaUI-Light.ttf
+NotoSansSinhalaUI-Light.ttf: true
+NotoSansSinhalaUI-CondensedLight.ttf
+NotoSansSinhalaUI-CondensedLight.ttf: true
+NotoSansSinhalaUI-Thin.ttf
+NotoSansSinhalaUI-Thin.ttf: true
+NotoSansSinhalaUI-SemiCondensed.ttf
+NotoSansSinhalaUI-SemiCondensed.ttf: true
+NotoSansSinhalaUI-ExtraCondensedExtraLight.ttf
+NotoSansSinhalaUI-ExtraCondensedExtraLight.ttf: true
+Noto_Sans_Sundanese
+NotoSansSundanese-Regular.ttf
+NotoSansSundanese-Regular.ttf: false
+Noto_Sans_Syloti_Nagri
+NotoSansSylotiNagri-Regular.ttf
+NotoSansSylotiNagri-Regular.ttf: false
+Noto_Sans_Symbols
+Noto_Sans_Symbols_Blk
+Noto_Sans_Symbols_ExtBd
+Noto_Sans_Symbols_ExtLt
+Noto_Sans_Symbols_Light
+Noto_Sans_Symbols_Med
+Noto_Sans_Symbols_SemBd
+Noto_Sans_Symbols_Thin
+NotoSansSymbols-Light.ttf
+NotoSansSymbols-Light.ttf: true
+NotoSansSymbols-ExtraLight.ttf
+NotoSansSymbols-ExtraLight.ttf: true
+NotoSansSymbols-Black.ttf
+NotoSansSymbols-Black.ttf: true
+NotoSansSymbols-SemiBold.ttf
+NotoSansSymbols-SemiBold.ttf: true
+NotoSansSymbols-Thin.ttf
+NotoSansSymbols-Thin.ttf: true
+NotoSansSymbols-Medium.ttf
+NotoSansSymbols-Medium.ttf: true
+NotoSansSymbols-Bold.ttf
+NotoSansSymbols-Bold.ttf: true
+NotoSansSymbols-Regular.ttf
+NotoSansSymbols-Regular.ttf: true
+NotoSansSymbols-ExtraBold.ttf
+NotoSansSymbols-ExtraBold.ttf: true
+Noto_Sans_Symbols2
+NotoSansSymbols2-Regular.ttf
+NotoSansSymbols2-Regular.ttf: false
+Noto_Sans_Syriac_Eastern
+NotoSansSyriacEastern-Regular.ttf
+NotoSansSyriacEastern-Regular.ttf: false
+Noto_Sans_Syriac_Estrangela
+NotoSansSyriacEstrangela-Regular.ttf
+NotoSansSyriacEstrangela-Regular.ttf: false
+Noto_Sans_Syriac_Western
+NotoSansSyriacWestern-Regular.ttf
+NotoSansSyriacWestern-Regular.ttf: false
+Noto_Sans_Tagalog
+NotoSansTagalog-Regular.ttf
+NotoSansTagalog-Regular.ttf: false
+Noto_Sans_Tagbanwa
+NotoSansTagbanwa-Regular.ttf
+NotoSansTagbanwa-Regular.ttf: false
+Noto_Sans_Tai_Le
+NotoSansTaiLe-Regular.ttf
+NotoSansTaiLe-Regular.ttf: false
+Noto_Sans_Tai_Tham
+NotoSansTaiTham-Regular.ttf
+NotoSansTaiTham-Regular.ttf: false
+Noto_Sans_Tai_Viet
+NotoSansTaiViet-Regular.ttf
+NotoSansTaiViet-Regular.ttf: false
+Noto_Sans_Tamil
+Noto_Sans_Tamil_Blk
+Noto_Sans_Tamil_Cond
+Noto_Sans_Tamil_Cond_Blk
+Noto_Sans_Tamil_Cond_ExtBd
+Noto_Sans_Tamil_Cond_ExtLt
+Noto_Sans_Tamil_Cond_Light
+Noto_Sans_Tamil_Cond_Med
+Noto_Sans_Tamil_Cond_SemBd
+Noto_Sans_Tamil_Cond_Thin
+Noto_Sans_Tamil_ExtBd
+Noto_Sans_Tamil_ExtCond
+Noto_Sans_Tamil_ExtCond_Blk
+Noto_Sans_Tamil_ExtCond_ExtBd
+Noto_Sans_Tamil_ExtCond_ExtLt
+Noto_Sans_Tamil_ExtCond_Light
+Noto_Sans_Tamil_ExtCond_Med
+Noto_Sans_Tamil_ExtCond_SemBd
+Noto_Sans_Tamil_ExtCond_Thin
+Noto_Sans_Tamil_ExtLt
+Noto_Sans_Tamil_Light
+Noto_Sans_Tamil_Med
+Noto_Sans_Tamil_SemBd
+Noto_Sans_Tamil_SemCond
+Noto_Sans_Tamil_SemCond_Blk
+Noto_Sans_Tamil_SemCond_ExtBd
+Noto_Sans_Tamil_SemCond_ExtLt
+Noto_Sans_Tamil_SemCond_Light
+Noto_Sans_Tamil_SemCond_Med
+Noto_Sans_Tamil_SemCond_SemBd
+Noto_Sans_Tamil_SemCond_Thin
+Noto_Sans_Tamil_Thin
+NotoSansTamil-SemiCondensedBold.ttf
+NotoSansTamil-SemiCondensedBold.ttf: true
+NotoSansTamil-ExtraCondensedLight.ttf
+NotoSansTamil-ExtraCondensedLight.ttf: true
+NotoSansTamil-ExtraBold.ttf
+NotoSansTamil-ExtraBold.ttf: true
+NotoSansTamil-Condensed.ttf
+NotoSansTamil-Condensed.ttf: true
+NotoSansTamil-ExtraCondensedThin.ttf
+NotoSansTamil-ExtraCondensedThin.ttf: true
+NotoSansTamil-Light.ttf
+NotoSansTamil-Light.ttf: true
+NotoSansTamil-CondensedBlack.ttf
+NotoSansTamil-CondensedBlack.ttf: true
+NotoSansTamil-CondensedMedium.ttf
+NotoSansTamil-CondensedMedium.ttf: true
+NotoSansTamil-CondensedBold.ttf
+NotoSansTamil-CondensedBold.ttf: true
+NotoSansTamil-Bold.ttf
+NotoSansTamil-Bold.ttf: true
+NotoSansTamil-SemiCondensedThin.ttf
+NotoSansTamil-SemiCondensedThin.ttf: true
+NotoSansTamil-ExtraLight.ttf
+NotoSansTamil-ExtraLight.ttf: true
+NotoSansTamil-SemiCondensedLight.ttf
+NotoSansTamil-SemiCondensedLight.ttf: true
+NotoSansTamil-ExtraCondensedExtraBold.ttf
+NotoSansTamil-ExtraCondensedExtraBold.ttf: true
+NotoSansTamil-ExtraCondensedExtraLight.ttf
+NotoSansTamil-ExtraCondensedExtraLight.ttf: true
+NotoSansTamil-CondensedSemiBold.ttf
+NotoSansTamil-CondensedSemiBold.ttf: true
+NotoSansTamil-SemiBold.ttf
+NotoSansTamil-SemiBold.ttf: true
+NotoSansTamil-SemiCondensed.ttf
+NotoSansTamil-SemiCondensed.ttf: true
+NotoSansTamil-SemiCondensedExtraBold.ttf
+NotoSansTamil-SemiCondensedExtraBold.ttf: true
+NotoSansTamil-SemiCondensedBlack.ttf
+NotoSansTamil-SemiCondensedBlack.ttf: true
+NotoSansTamil-Black.ttf
+NotoSansTamil-Black.ttf: true
+NotoSansTamil-SemiCondensedMedium.ttf
+NotoSansTamil-SemiCondensedMedium.ttf: true
+NotoSansTamil-ExtraCondensedMedium.ttf
+NotoSansTamil-ExtraCondensedMedium.ttf: true
+NotoSansTamil-CondensedThin.ttf
+NotoSansTamil-CondensedThin.ttf: true
+NotoSansTamil-ExtraCondensedSemiBold.ttf
+NotoSansTamil-ExtraCondensedSemiBold.ttf: true
+NotoSansTamil-ExtraCondensed.ttf
+NotoSansTamil-ExtraCondensed.ttf: true
+NotoSansTamil-SemiCondensedSemiBold.ttf
+NotoSansTamil-SemiCondensedSemiBold.ttf: true
+NotoSansTamil-CondensedExtraLight.ttf
+NotoSansTamil-CondensedExtraLight.ttf: true
+NotoSansTamil-SemiCondensedExtraLight.ttf
+NotoSansTamil-SemiCondensedExtraLight.ttf: true
+NotoSansTamil-Regular.ttf
+NotoSansTamil-Regular.ttf: true
+NotoSansTamil-ExtraCondensedBold.ttf
+NotoSansTamil-ExtraCondensedBold.ttf: true
+NotoSansTamil-Thin.ttf
+NotoSansTamil-Thin.ttf: true
+NotoSansTamil-CondensedLight.ttf
+NotoSansTamil-CondensedLight.ttf: true
+NotoSansTamil-CondensedExtraBold.ttf
+NotoSansTamil-CondensedExtraBold.ttf: true
+NotoSansTamil-ExtraCondensedBlack.ttf
+NotoSansTamil-ExtraCondensedBlack.ttf: true
+NotoSansTamil-Medium.ttf
+NotoSansTamil-Medium.ttf: true
+Noto_Sans_Tamil_Blk
+Noto_Sans_Tamil_Cond
+Noto_Sans_Tamil_Cond_Blk
+Noto_Sans_Tamil_Cond_ExtBd
+Noto_Sans_Tamil_Cond_ExtLt
+Noto_Sans_Tamil_Cond_Light
+Noto_Sans_Tamil_Cond_Med
+Noto_Sans_Tamil_Cond_SemBd
+Noto_Sans_Tamil_Cond_Thin
+Noto_Sans_Tamil_ExtBd
+Noto_Sans_Tamil_ExtCond
+Noto_Sans_Tamil_ExtCond_Blk
+Noto_Sans_Tamil_ExtCond_ExtBd
+Noto_Sans_Tamil_ExtCond_ExtLt
+Noto_Sans_Tamil_ExtCond_Light
+Noto_Sans_Tamil_ExtCond_Med
+Noto_Sans_Tamil_ExtCond_SemBd
+Noto_Sans_Tamil_ExtCond_Thin
+Noto_Sans_Tamil_ExtLt
+Noto_Sans_Tamil_Light
+Noto_Sans_Tamil_Med
+Noto_Sans_Tamil_SemBd
+Noto_Sans_Tamil_SemCond
+Noto_Sans_Tamil_SemCond_Blk
+Noto_Sans_Tamil_SemCond_ExtBd
+Noto_Sans_Tamil_SemCond_ExtLt
+Noto_Sans_Tamil_SemCond_Light
+Noto_Sans_Tamil_SemCond_Med
+Noto_Sans_Tamil_SemCond_SemBd
+Noto_Sans_Tamil_SemCond_Thin
+Noto_Sans_Tamil_Thin
+Noto_Sans_Tamil_UI
+NotoSansTamilUI-SemiCondensedLight.ttf
+NotoSansTamilUI-SemiCondensedLight.ttf: true
+NotoSansTamilUI-Medium.ttf
+NotoSansTamilUI-Medium.ttf: true
+NotoSansTamilUI-Black.ttf
+NotoSansTamilUI-Black.ttf: true
+NotoSansTamilUI-ExtraCondensedExtraLight.ttf
+NotoSansTamilUI-ExtraCondensedExtraLight.ttf: true
+NotoSansTamilUI-Bold.ttf
+NotoSansTamilUI-Bold.ttf: true
+NotoSansTamilUI-CondensedBlack.ttf
+NotoSansTamilUI-CondensedBlack.ttf: true
+NotoSansTamilUI-ExtraCondensedSemiBold.ttf
+NotoSansTamilUI-ExtraCondensedSemiBold.ttf: true
+NotoSansTamilUI-SemiCondensedExtraBold.ttf
+NotoSansTamilUI-SemiCondensedExtraBold.ttf: true
+NotoSansTamilUI-Thin.ttf
+NotoSansTamilUI-Thin.ttf: true
+NotoSansTamilUI-Condensed.ttf
+NotoSansTamilUI-Condensed.ttf: true
+NotoSansTamilUI-SemiCondensed.ttf
+NotoSansTamilUI-SemiCondensed.ttf: true
+NotoSansTamilUI-SemiCondensedThin.ttf
+NotoSansTamilUI-SemiCondensedThin.ttf: true
+NotoSansTamilUI-ExtraLight.ttf
+NotoSansTamilUI-ExtraLight.ttf: true
+NotoSansTamilUI-SemiBold.ttf
+NotoSansTamilUI-SemiBold.ttf: true
+NotoSansTamilUI-CondensedBold.ttf
+NotoSansTamilUI-CondensedBold.ttf: true
+NotoSansTamilUI-CondensedExtraBold.ttf
+NotoSansTamilUI-CondensedExtraBold.ttf: true
+NotoSansTamilUI-SemiCondensedBlack.ttf
+NotoSansTamilUI-SemiCondensedBlack.ttf: true
+NotoSansTamilUI-ExtraCondensedExtraBold.ttf
+NotoSansTamilUI-ExtraCondensedExtraBold.ttf: true
+NotoSansTamilUI-ExtraCondensed.ttf
+NotoSansTamilUI-ExtraCondensed.ttf: true
+NotoSansTamilUI-ExtraCondensedMedium.ttf
+NotoSansTamilUI-ExtraCondensedMedium.ttf: true
+NotoSansTamilUI-CondensedThin.ttf
+NotoSansTamilUI-CondensedThin.ttf: true
+NotoSansTamilUI-SemiCondensedExtraLight.ttf
+NotoSansTamilUI-SemiCondensedExtraLight.ttf: true
+NotoSansTamilUI-CondensedSemiBold.ttf
+NotoSansTamilUI-CondensedSemiBold.ttf: true
+NotoSansTamilUI-ExtraCondensedBold.ttf
+NotoSansTamilUI-ExtraCondensedBold.ttf: true
+NotoSansTamilUI-CondensedMedium.ttf
+NotoSansTamilUI-CondensedMedium.ttf: true
+NotoSansTamilUI-CondensedExtraLight.ttf
+NotoSansTamilUI-CondensedExtraLight.ttf: true
+NotoSansTamilUI-SemiCondensedSemiBold.ttf
+NotoSansTamilUI-SemiCondensedSemiBold.ttf: true
+NotoSansTamilUI-SemiCondensedBold.ttf
+NotoSansTamilUI-SemiCondensedBold.ttf: true
+NotoSansTamilUI-SemiCondensedMedium.ttf
+NotoSansTamilUI-SemiCondensedMedium.ttf: true
+NotoSansTamilUI-Regular.ttf
+NotoSansTamilUI-Regular.ttf: true
+NotoSansTamilUI-CondensedLight.ttf
+NotoSansTamilUI-CondensedLight.ttf: true
+NotoSansTamilUI-ExtraCondensedThin.ttf
+NotoSansTamilUI-ExtraCondensedThin.ttf: true
+NotoSansTamilUI-ExtraCondensedBlack.ttf
+NotoSansTamilUI-ExtraCondensedBlack.ttf: true
+NotoSansTamilUI-ExtraCondensedLight.ttf
+NotoSansTamilUI-ExtraCondensedLight.ttf: true
+NotoSansTamilUI-ExtraBold.ttf
+NotoSansTamilUI-ExtraBold.ttf: true
+NotoSansTamilUI-Light.ttf
+NotoSansTamilUI-Light.ttf: true
+Noto_Sans_Telugu
+NotoSansTelugu-Bold.ttf
+NotoSansTelugu-Bold.ttf: true
+NotoSansTelugu-Regular.ttf
+NotoSansTelugu-Regular.ttf: true
+Noto_Sans_Telugu_UI
+NotoSansTeluguUI-Regular.ttf
+NotoSansTeluguUI-Regular.ttf: true
+NotoSansTeluguUI-Bold.ttf
+NotoSansTeluguUI-Bold.ttf: true
+Noto_Sans_Thaana
+NotoSansThaana-Regular.ttf
+NotoSansThaana-Regular.ttf: true
+NotoSansThaana-Bold.ttf
+NotoSansThaana-Bold.ttf: true
+Noto_Sans_Thai
+Noto_Sans_Thai_Blk
+Noto_Sans_Thai_Cond
+Noto_Sans_Thai_Cond_Blk
+Noto_Sans_Thai_Cond_ExtBd
+Noto_Sans_Thai_Cond_ExtLt
+Noto_Sans_Thai_Cond_Light
+Noto_Sans_Thai_Cond_Med
+Noto_Sans_Thai_Cond_SemBd
+Noto_Sans_Thai_Cond_Thin
+Noto_Sans_Thai_ExtBd
+Noto_Sans_Thai_ExtCond
+Noto_Sans_Thai_ExtCond_Blk
+Noto_Sans_Thai_ExtCond_ExtBd
+Noto_Sans_Thai_ExtCond_ExtLt
+Noto_Sans_Thai_ExtCond_Light
+Noto_Sans_Thai_ExtCond_Med
+Noto_Sans_Thai_ExtCond_SemBd
+Noto_Sans_Thai_ExtCond_Thin
+Noto_Sans_Thai_ExtLt
+Noto_Sans_Thai_Light
+Noto_Sans_Thai_Med
+Noto_Sans_Thai_SemBd
+Noto_Sans_Thai_SemCond
+Noto_Sans_Thai_SemCond_Blk
+Noto_Sans_Thai_SemCond_ExtBd
+Noto_Sans_Thai_SemCond_ExtLt
+Noto_Sans_Thai_SemCond_Light
+Noto_Sans_Thai_SemCond_Med
+Noto_Sans_Thai_SemCond_SemBd
+Noto_Sans_Thai_SemCond_Thin
+Noto_Sans_Thai_Thin
+NotoSansThai-Bold.ttf
+NotoSansThai-Bold.ttf: true
+NotoSansThai-ExtraLight.ttf
+NotoSansThai-ExtraLight.ttf: true
+NotoSansThai-Condensed.ttf
+NotoSansThai-Condensed.ttf: true
+NotoSansThai-CondensedBold.ttf
+NotoSansThai-CondensedBold.ttf: true
+NotoSansThai-ExtraCondensedMedium.ttf
+NotoSansThai-ExtraCondensedMedium.ttf: true
+NotoSansThai-CondensedExtraBold.ttf
+NotoSansThai-CondensedExtraBold.ttf: true
+NotoSansThai-SemiCondensedExtraLight.ttf
+NotoSansThai-SemiCondensedExtraLight.ttf: true
+NotoSansThai-SemiCondensedBold.ttf
+NotoSansThai-SemiCondensedBold.ttf: true
+NotoSansThai-ExtraCondensed.ttf
+NotoSansThai-ExtraCondensed.ttf: true
+NotoSansThai-ExtraCondensedSemiBold.ttf
+NotoSansThai-ExtraCondensedSemiBold.ttf: true
+NotoSansThai-SemiCondensedMedium.ttf
+NotoSansThai-SemiCondensedMedium.ttf: true
+NotoSansThai-CondensedExtraLight.ttf
+NotoSansThai-CondensedExtraLight.ttf: true
+NotoSansThai-ExtraCondensedLight.ttf
+NotoSansThai-ExtraCondensedLight.ttf: true
+NotoSansThai-ExtraCondensedBlack.ttf
+NotoSansThai-ExtraCondensedBlack.ttf: true
+NotoSansThai-Regular.ttf
+NotoSansThai-Regular.ttf: true
+NotoSansThai-CondensedBlack.ttf
+NotoSansThai-CondensedBlack.ttf: true
+NotoSansThai-SemiCondensedBlack.ttf
+NotoSansThai-SemiCondensedBlack.ttf: true
+NotoSansThai-ExtraCondensedExtraLight.ttf
+NotoSansThai-ExtraCondensedExtraLight.ttf: true
+NotoSansThai-ExtraCondensedExtraBold.ttf
+NotoSansThai-ExtraCondensedExtraBold.ttf: true
+NotoSansThai-SemiCondensedSemiBold.ttf
+NotoSansThai-SemiCondensedSemiBold.ttf: true
+NotoSansThai-Light.ttf
+NotoSansThai-Light.ttf: true
+NotoSansThai-Thin.ttf
+NotoSansThai-Thin.ttf: true
+NotoSansThai-ExtraCondensedBold.ttf
+NotoSansThai-ExtraCondensedBold.ttf: true
+NotoSansThai-SemiCondensedLight.ttf
+NotoSansThai-SemiCondensedLight.ttf: true
+NotoSansThai-ExtraBold.ttf
+NotoSansThai-ExtraBold.ttf: true
+NotoSansThai-CondensedLight.ttf
+NotoSansThai-CondensedLight.ttf: true
+NotoSansThai-CondensedSemiBold.ttf
+NotoSansThai-CondensedSemiBold.ttf: true
+NotoSansThai-ExtraCondensedThin.ttf
+NotoSansThai-ExtraCondensedThin.ttf: true
+NotoSansThai-SemiCondensedThin.ttf
+NotoSansThai-SemiCondensedThin.ttf: true
+NotoSansThai-SemiCondensed.ttf
+NotoSansThai-SemiCondensed.ttf: true
+NotoSansThai-Medium.ttf
+NotoSansThai-Medium.ttf: true
+NotoSansThai-CondensedThin.ttf
+NotoSansThai-CondensedThin.ttf: true
+NotoSansThai-Black.ttf
+NotoSansThai-Black.ttf: true
+NotoSansThai-SemiCondensedExtraBold.ttf
+NotoSansThai-SemiCondensedExtraBold.ttf: true
+NotoSansThai-CondensedMedium.ttf
+NotoSansThai-CondensedMedium.ttf: true
+NotoSansThai-SemiBold.ttf
+NotoSansThai-SemiBold.ttf: true
+Noto_Sans_Thai_UI
+Noto_Sans_Thai_UI_Blk
+Noto_Sans_Thai_UI_Cond
+Noto_Sans_Thai_UI_Cond_Blk
+Noto_Sans_Thai_UI_Cond_ExtBd
+Noto_Sans_Thai_UI_Cond_ExtLt
+Noto_Sans_Thai_UI_Cond_Light
+Noto_Sans_Thai_UI_Cond_Med
+Noto_Sans_Thai_UI_Cond_SemBd
+Noto_Sans_Thai_UI_Cond_Thin
+Noto_Sans_Thai_UI_ExtBd
+Noto_Sans_Thai_UI_ExtCond
+Noto_Sans_Thai_UI_ExtCond_Blk
+Noto_Sans_Thai_UI_ExtCond_ExtBd
+Noto_Sans_Thai_UI_ExtCond_ExtLt
+Noto_Sans_Thai_UI_ExtCond_Light
+Noto_Sans_Thai_UI_ExtCond_Med
+Noto_Sans_Thai_UI_ExtCond_SemBd
+Noto_Sans_Thai_UI_ExtCond_Thin
+Noto_Sans_Thai_UI_ExtLt
+Noto_Sans_Thai_UI_Light
+Noto_Sans_Thai_UI_Med
+Noto_Sans_Thai_UI_SemBd
+Noto_Sans_Thai_UI_SemCond
+Noto_Sans_Thai_UI_SemCond_Blk
+Noto_Sans_Thai_UI_SemCond_ExtBd
+Noto_Sans_Thai_UI_SemCond_ExtLt
+Noto_Sans_Thai_UI_SemCond_Light
+Noto_Sans_Thai_UI_SemCond_Med
+Noto_Sans_Thai_UI_SemCond_SemBd
+Noto_Sans_Thai_UI_SemCond_Thin
+Noto_Sans_Thai_UI_Thin
+NotoSansThaiUI-ExtraCondensedSemiBold.ttf
+NotoSansThaiUI-ExtraCondensedSemiBold.ttf: true
+NotoSansThaiUI-ExtraLight.ttf
+NotoSansThaiUI-ExtraLight.ttf: true
+NotoSansThaiUI-SemiCondensedLight.ttf
+NotoSansThaiUI-SemiCondensedLight.ttf: true
+NotoSansThaiUI-ExtraCondensedExtraLight.ttf
+NotoSansThaiUI-ExtraCondensedExtraLight.ttf: true
+NotoSansThaiUI-CondensedExtraLight.ttf
+NotoSansThaiUI-CondensedExtraLight.ttf: true
+NotoSansThaiUI-CondensedLight.ttf
+NotoSansThaiUI-CondensedLight.ttf: true
+NotoSansThaiUI-SemiCondensedThin.ttf
+NotoSansThaiUI-SemiCondensedThin.ttf: true
+NotoSansThaiUI-SemiBold.ttf
+NotoSansThaiUI-SemiBold.ttf: true
+NotoSansThaiUI-CondensedMedium.ttf
+NotoSansThaiUI-CondensedMedium.ttf: true
+NotoSansThaiUI-ExtraCondensedBlack.ttf
+NotoSansThaiUI-ExtraCondensedBlack.ttf: true
+NotoSansThaiUI-Thin.ttf
+NotoSansThaiUI-Thin.ttf: true
+NotoSansThaiUI-Medium.ttf
+NotoSansThaiUI-Medium.ttf: true
+NotoSansThaiUI-SemiCondensedBlack.ttf
+NotoSansThaiUI-SemiCondensedBlack.ttf: true
+NotoSansThaiUI-ExtraCondensed.ttf
+NotoSansThaiUI-ExtraCondensed.ttf: true
+NotoSansThaiUI-SemiCondensedSemiBold.ttf
+NotoSansThaiUI-SemiCondensedSemiBold.ttf: true
+NotoSansThaiUI-Condensed.ttf
+NotoSansThaiUI-Condensed.ttf: true
+NotoSansThaiUI-SemiCondensed.ttf
+NotoSansThaiUI-SemiCondensed.ttf: true
+NotoSansThaiUI-ExtraCondensedBold.ttf
+NotoSansThaiUI-ExtraCondensedBold.ttf: true
+NotoSansThaiUI-Bold.ttf
+NotoSansThaiUI-Bold.ttf: true
+NotoSansThaiUI-ExtraCondensedMedium.ttf
+NotoSansThaiUI-ExtraCondensedMedium.ttf: true
+NotoSansThaiUI-SemiCondensedExtraBold.ttf
+NotoSansThaiUI-SemiCondensedExtraBold.ttf: true
+NotoSansThaiUI-CondensedThin.ttf
+NotoSansThaiUI-CondensedThin.ttf: true
+NotoSansThaiUI-ExtraCondensedLight.ttf
+NotoSansThaiUI-ExtraCondensedLight.ttf: true
+NotoSansThaiUI-CondensedExtraBold.ttf
+NotoSansThaiUI-CondensedExtraBold.ttf: true
+NotoSansThaiUI-CondensedSemiBold.ttf
+NotoSansThaiUI-CondensedSemiBold.ttf: true
+NotoSansThaiUI-ExtraCondensedThin.ttf
+NotoSansThaiUI-ExtraCondensedThin.ttf: true
+NotoSansThaiUI-Regular.ttf
+NotoSansThaiUI-Regular.ttf: true
+NotoSansThaiUI-Black.ttf
+NotoSansThaiUI-Black.ttf: true
+NotoSansThaiUI-ExtraBold.ttf
+NotoSansThaiUI-ExtraBold.ttf: true
+NotoSansThaiUI-SemiCondensedMedium.ttf
+NotoSansThaiUI-SemiCondensedMedium.ttf: true
+NotoSansThaiUI-SemiCondensedExtraLight.ttf
+NotoSansThaiUI-SemiCondensedExtraLight.ttf: true
+NotoSansThaiUI-SemiCondensedBold.ttf
+NotoSansThaiUI-SemiCondensedBold.ttf: true
+NotoSansThaiUI-CondensedBlack.ttf
+NotoSansThaiUI-CondensedBlack.ttf: true
+NotoSansThaiUI-ExtraCondensedExtraBold.ttf
+NotoSansThaiUI-ExtraCondensedExtraBold.ttf: true
+NotoSansThaiUI-Light.ttf
+NotoSansThaiUI-Light.ttf: true
+NotoSansThaiUI-CondensedBold.ttf
+NotoSansThaiUI-CondensedBold.ttf: true
+Noto_Sans_Tibetan
+NotoSansTibetan-Regular.ttf
+NotoSansTibetan-Regular.ttf: true
+NotoSansTibetan-Bold.ttf
+NotoSansTibetan-Bold.ttf: true
+Noto_Sans_Tifinagh
+NotoSansTifinagh-Regular.ttf
+NotoSansTifinagh-Regular.ttf: true
+Noto_Sans_Ugaritic
+NotoSansUgaritic-Regular.ttf
+NotoSansUgaritic-Regular.ttf: false
+Noto_Sans_Vai
+NotoSansVai-Regular.ttf
+NotoSansVai-Regular.ttf: true
+Noto_Sans_Yi
+NotoSansYi-Regular.ttf
+NotoSansYi-Regular.ttf: false
+Noto_Serif_Armenian
+Noto_Serif_Armenian_Bk
+Noto_Serif_Armenian_Cn
+Noto_Serif_Armenian_Cn_Bk
+Noto_Serif_Armenian_Cn_Lt
+Noto_Serif_Armenian_Cn_Md
+Noto_Serif_Armenian_Cn_SmBd
+Noto_Serif_Armenian_Cn_Th
+Noto_Serif_Armenian_Cn_XBd
+Noto_Serif_Armenian_Cn_XLt
+Noto_Serif_Armenian_Lt
+Noto_Serif_Armenian_Md
+Noto_Serif_Armenian_SmBd
+Noto_Serif_Armenian_SmCn
+Noto_Serif_Armenian_SmCn_Bk
+Noto_Serif_Armenian_SmCn_Lt
+Noto_Serif_Armenian_SmCn_Md
+Noto_Serif_Armenian_SmCn_SmBd
+Noto_Serif_Armenian_SmCn_Th
+Noto_Serif_Armenian_SmCn_XBd
+Noto_Serif_Armenian_SmCn_XLt
+Noto_Serif_Armenian_Th
+Noto_Serif_Armenian_XBd
+Noto_Serif_Armenian_XCn
+Noto_Serif_Armenian_XCn_Bk
+Noto_Serif_Armenian_XCn_Lt
+Noto_Serif_Armenian_XCn_Md
+Noto_Serif_Armenian_XCn_SmBd
+Noto_Serif_Armenian_XCn_Th
+Noto_Serif_Armenian_XCn_XBd
+Noto_Serif_Armenian_XCn_XLt
+Noto_Serif_Armenian_XLt
+NotoSerifArmenian-SemiCondensedExtraLight.ttf
+NotoSerifArmenian-SemiCondensedExtraLight.ttf: true
+NotoSerifArmenian-ExtraLight.ttf
+NotoSerifArmenian-ExtraLight.ttf: true
+NotoSerifArmenian-Light.ttf
+NotoSerifArmenian-Light.ttf: true
+NotoSerifArmenian-CondensedThin.ttf
+NotoSerifArmenian-CondensedThin.ttf: true
+NotoSerifArmenian-SemiCondensedThin.ttf
+NotoSerifArmenian-SemiCondensedThin.ttf: true
+NotoSerifArmenian-ExtraCondensedLight.ttf
+NotoSerifArmenian-ExtraCondensedLight.ttf: true
+NotoSerifArmenian-Bold.ttf
+NotoSerifArmenian-Bold.ttf: true
+NotoSerifArmenian-Regular.ttf
+NotoSerifArmenian-Regular.ttf: true
+NotoSerifArmenian-Black.ttf
+NotoSerifArmenian-Black.ttf: true
+NotoSerifArmenian-SemiCondensedBlack.ttf
+NotoSerifArmenian-SemiCondensedBlack.ttf: true
+NotoSerifArmenian-CondensedLight.ttf
+NotoSerifArmenian-CondensedLight.ttf: true
+NotoSerifArmenian-SemiCondensed.ttf
+NotoSerifArmenian-SemiCondensed.ttf: true
+NotoSerifArmenian-SemiBold.ttf
+NotoSerifArmenian-SemiBold.ttf: true
+NotoSerifArmenian-ExtraCondensedThin.ttf
+NotoSerifArmenian-ExtraCondensedThin.ttf: true
+NotoSerifArmenian-ExtraCondensedExtraLight.ttf
+NotoSerifArmenian-ExtraCondensedExtraLight.ttf: true
+NotoSerifArmenian-SemiCondensedExtraBold.ttf
+NotoSerifArmenian-SemiCondensedExtraBold.ttf: true
+NotoSerifArmenian-CondensedBlack.ttf
+NotoSerifArmenian-CondensedBlack.ttf: true
+NotoSerifArmenian-Condensed.ttf
+NotoSerifArmenian-Condensed.ttf: true
+NotoSerifArmenian-ExtraCondensedBold.ttf
+NotoSerifArmenian-ExtraCondensedBold.ttf: true
+NotoSerifArmenian-ExtraCondensedMedium.ttf
+NotoSerifArmenian-ExtraCondensedMedium.ttf: true
+NotoSerifArmenian-SemiCondensedLight.ttf
+NotoSerifArmenian-SemiCondensedLight.ttf: true
+NotoSerifArmenian-CondensedBold.ttf
+NotoSerifArmenian-CondensedBold.ttf: true
+NotoSerifArmenian-ExtraBold.ttf
+NotoSerifArmenian-ExtraBold.ttf: true
+NotoSerifArmenian-ExtraCondensedSemiBold.ttf
+NotoSerifArmenian-ExtraCondensedSemiBold.ttf: true
+NotoSerifArmenian-SemiCondensedSemiBold.ttf
+NotoSerifArmenian-SemiCondensedSemiBold.ttf: true
+NotoSerifArmenian-ExtraCondensedBlack.ttf
+NotoSerifArmenian-ExtraCondensedBlack.ttf: true
+NotoSerifArmenian-ExtraCondensed.ttf
+NotoSerifArmenian-ExtraCondensed.ttf: true
+NotoSerifArmenian-SemiCondensedBold.ttf
+NotoSerifArmenian-SemiCondensedBold.ttf: true
+NotoSerifArmenian-Medium.ttf
+NotoSerifArmenian-Medium.ttf: true
+NotoSerifArmenian-Thin.ttf
+NotoSerifArmenian-Thin.ttf: true
+NotoSerifArmenian-SemiCondensedMedium.ttf
+NotoSerifArmenian-SemiCondensedMedium.ttf: true
+NotoSerifArmenian-ExtraCondensedExtraBold.ttf
+NotoSerifArmenian-ExtraCondensedExtraBold.ttf: true
+NotoSerifArmenian-CondensedMedium.ttf
+NotoSerifArmenian-CondensedMedium.ttf: true
+NotoSerifArmenian-CondensedExtraLight.ttf
+NotoSerifArmenian-CondensedExtraLight.ttf: true
+NotoSerifArmenian-CondensedSemiBold.ttf
+NotoSerifArmenian-CondensedSemiBold.ttf: true
+NotoSerifArmenian-CondensedExtraBold.ttf
+NotoSerifArmenian-CondensedExtraBold.ttf: true
+Noto_Serif_Bengali
+NotoSerifBengali-Bold.ttf
+NotoSerifBengali-Bold.ttf: true
+NotoSerifBengali-Regular.ttf
+NotoSerifBengali-Regular.ttf: true
+Noto_Serif_Devanagari
+NotoSerifDevanagari-Bold.ttf
+NotoSerifDevanagari-Bold.ttf: true
+NotoSerifDevanagari-Regular.ttf
+NotoSerifDevanagari-Regular.ttf: true
+Noto_Serif_Disp
+Noto_Serif_Disp_Blk
+Noto_Serif_Disp_Cond
+Noto_Serif_Disp_Cond_Blk
+Noto_Serif_Disp_Cond_ExtBd
+Noto_Serif_Disp_Cond_ExtLt
+Noto_Serif_Disp_Cond_Light
+Noto_Serif_Disp_Cond_Med
+Noto_Serif_Disp_Cond_SemBd
+Noto_Serif_Disp_Cond_Thin
+Noto_Serif_Disp_ExtBd
+Noto_Serif_Disp_ExtCond
+Noto_Serif_Disp_ExtCond_Blk
+Noto_Serif_Disp_ExtCond_ExtBd
+Noto_Serif_Disp_ExtCond_ExtLt
+Noto_Serif_Disp_ExtCond_Light
+Noto_Serif_Disp_ExtCond_Med
+Noto_Serif_Disp_ExtCond_SemBd
+Noto_Serif_Disp_ExtCond_Thin
+Noto_Serif_Disp_ExtLt
+Noto_Serif_Disp_Light
+Noto_Serif_Disp_Med
+Noto_Serif_Disp_SemBd
+Noto_Serif_Disp_SemCond
+Noto_Serif_Disp_SemCond_Blk
+Noto_Serif_Disp_SemCond_ExtBd
+Noto_Serif_Disp_SemCond_ExtLt
+Noto_Serif_Disp_SemCond_Light
+Noto_Serif_Disp_SemCond_Med
+Noto_Serif_Disp_SemCond_SemBd
+Noto_Serif_Disp_SemCond_Thin
+Noto_Serif_Disp_Thin
+NotoSerifDisplay-SemiCondensedBoldItalic.ttf
+NotoSerifDisplay-SemiCondensedBoldItalic.ttf: true
+NotoSerifDisplay-Medium.ttf
+NotoSerifDisplay-Medium.ttf: true
+NotoSerifDisplay-Regular.ttf
+NotoSerifDisplay-Regular.ttf: true
+NotoSerifDisplay-SemiCondensedSemiBold.ttf
+NotoSerifDisplay-SemiCondensedSemiBold.ttf: true
+NotoSerifDisplay-CondensedThin.ttf
+NotoSerifDisplay-CondensedThin.ttf: true
+NotoSerifDisplay-BoldItalic.ttf
+NotoSerifDisplay-BoldItalic.ttf: true
+NotoSerifDisplay-CondensedLight.ttf
+NotoSerifDisplay-CondensedLight.ttf: true
+NotoSerifDisplay-Condensed.ttf
+NotoSerifDisplay-Condensed.ttf: true
+NotoSerifDisplay-CondensedExtraBold.ttf
+NotoSerifDisplay-CondensedExtraBold.ttf: true
+NotoSerifDisplay-SemiCondensedBlack.ttf
+NotoSerifDisplay-SemiCondensedBlack.ttf: true
+NotoSerifDisplay-ExtraCondensedSemiBoldItalic.ttf
+NotoSerifDisplay-ExtraCondensedSemiBoldItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedItalic.ttf
+NotoSerifDisplay-ExtraCondensedItalic.ttf: true
+NotoSerifDisplay-SemiCondensedBold.ttf
+NotoSerifDisplay-SemiCondensedBold.ttf: true
+NotoSerifDisplay-SemiCondensedLightItalic.ttf
+NotoSerifDisplay-SemiCondensedLightItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedExtraBold.ttf
+NotoSerifDisplay-ExtraCondensedExtraBold.ttf: true
+NotoSerifDisplay-MediumItalic.ttf
+NotoSerifDisplay-MediumItalic.ttf: true
+NotoSerifDisplay-CondensedMedium.ttf
+NotoSerifDisplay-CondensedMedium.ttf: true
+NotoSerifDisplay-CondensedBlack.ttf
+NotoSerifDisplay-CondensedBlack.ttf: true
+NotoSerifDisplay-ExtraCondensedLight.ttf
+NotoSerifDisplay-ExtraCondensedLight.ttf: true
+NotoSerifDisplay-SemiCondensedThin.ttf
+NotoSerifDisplay-SemiCondensedThin.ttf: true
+NotoSerifDisplay-ExtraCondensedExtraBoldItalic.ttf
+NotoSerifDisplay-ExtraCondensedExtraBoldItalic.ttf: true
+NotoSerifDisplay-BlackItalic.ttf
+NotoSerifDisplay-BlackItalic.ttf: true
+NotoSerifDisplay-ExtraBoldItalic.ttf
+NotoSerifDisplay-ExtraBoldItalic.ttf: true
+NotoSerifDisplay-ExtraCondensed.ttf
+NotoSerifDisplay-ExtraCondensed.ttf: true
+NotoSerifDisplay-CondensedBoldItalic.ttf
+NotoSerifDisplay-CondensedBoldItalic.ttf: true
+NotoSerifDisplay-CondensedBlackItalic.ttf
+NotoSerifDisplay-CondensedBlackItalic.ttf: true
+NotoSerifDisplay-ThinItalic.ttf
+NotoSerifDisplay-ThinItalic.ttf: true
+NotoSerifDisplay-CondensedExtraBoldItalic.ttf
+NotoSerifDisplay-CondensedExtraBoldItalic.ttf: true
+NotoSerifDisplay-SemiCondensedBlackItalic.ttf
+NotoSerifDisplay-SemiCondensedBlackItalic.ttf: true
+NotoSerifDisplay-CondensedItalic.ttf
+NotoSerifDisplay-CondensedItalic.ttf: true
+NotoSerifDisplay-ExtraBold.ttf
+NotoSerifDisplay-ExtraBold.ttf: true
+NotoSerifDisplay-SemiBold.ttf
+NotoSerifDisplay-SemiBold.ttf: true
+NotoSerifDisplay-ExtraCondensedMediumItalic.ttf
+NotoSerifDisplay-ExtraCondensedMediumItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedExtraLight.ttf
+NotoSerifDisplay-ExtraCondensedExtraLight.ttf: true
+NotoSerifDisplay-ExtraCondensedLightItalic.ttf
+NotoSerifDisplay-ExtraCondensedLightItalic.ttf: true
+NotoSerifDisplay-CondensedSemiBoldItalic.ttf
+NotoSerifDisplay-CondensedSemiBoldItalic.ttf: true
+NotoSerifDisplay-SemiCondensedExtraBold.ttf
+NotoSerifDisplay-SemiCondensedExtraBold.ttf: true
+NotoSerifDisplay-SemiCondensedThinItalic.ttf
+NotoSerifDisplay-SemiCondensedThinItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedBlack.ttf
+NotoSerifDisplay-ExtraCondensedBlack.ttf: true
+NotoSerifDisplay-Bold.ttf
+NotoSerifDisplay-Bold.ttf: true
+NotoSerifDisplay-CondensedMediumItalic.ttf
+NotoSerifDisplay-CondensedMediumItalic.ttf: true
+NotoSerifDisplay-LightItalic.ttf
+NotoSerifDisplay-LightItalic.ttf: true
+NotoSerifDisplay-SemiBoldItalic.ttf
+NotoSerifDisplay-SemiBoldItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedBold.ttf
+NotoSerifDisplay-ExtraCondensedBold.ttf: true
+NotoSerifDisplay-ExtraCondensedThin.ttf
+NotoSerifDisplay-ExtraCondensedThin.ttf: true
+NotoSerifDisplay-SemiCondensed.ttf
+NotoSerifDisplay-SemiCondensed.ttf: true
+NotoSerifDisplay-CondensedExtraLight.ttf
+NotoSerifDisplay-CondensedExtraLight.ttf: true
+NotoSerifDisplay-SemiCondensedExtraLight.ttf
+NotoSerifDisplay-SemiCondensedExtraLight.ttf: true
+NotoSerifDisplay-ExtraCondensedThinItalic.ttf
+NotoSerifDisplay-ExtraCondensedThinItalic.ttf: true
+NotoSerifDisplay-SemiCondensedMedium.ttf
+NotoSerifDisplay-SemiCondensedMedium.ttf: true
+NotoSerifDisplay-Italic.ttf
+NotoSerifDisplay-Italic.ttf: true
+NotoSerifDisplay-SemiCondensedExtraLightItalic.ttf
+NotoSerifDisplay-SemiCondensedExtraLightItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedSemiBold.ttf
+NotoSerifDisplay-ExtraCondensedSemiBold.ttf: true
+NotoSerifDisplay-SemiCondensedExtraBoldItalic.ttf
+NotoSerifDisplay-SemiCondensedExtraBoldItalic.ttf: true
+NotoSerifDisplay-ExtraLightItalic.ttf
+NotoSerifDisplay-ExtraLightItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedExtraLightItalic.ttf
+NotoSerifDisplay-ExtraCondensedExtraLightItalic.ttf: true
+NotoSerifDisplay-SemiCondensedSemiBoldItalic.ttf
+NotoSerifDisplay-SemiCondensedSemiBoldItalic.ttf: true
+NotoSerifDisplay-CondensedBold.ttf
+NotoSerifDisplay-CondensedBold.ttf: true
+NotoSerifDisplay-CondensedSemiBold.ttf
+NotoSerifDisplay-CondensedSemiBold.ttf: true
+NotoSerifDisplay-SemiCondensedLight.ttf
+NotoSerifDisplay-SemiCondensedLight.ttf: true
+NotoSerifDisplay-CondensedLightItalic.ttf
+NotoSerifDisplay-CondensedLightItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedBoldItalic.ttf
+NotoSerifDisplay-ExtraCondensedBoldItalic.ttf: true
+NotoSerifDisplay-ExtraCondensedMedium.ttf
+NotoSerifDisplay-ExtraCondensedMedium.ttf: true
+NotoSerifDisplay-CondensedExtraLightItalic.ttf
+NotoSerifDisplay-CondensedExtraLightItalic.ttf: true
+NotoSerifDisplay-SemiCondensedItalic.ttf
+NotoSerifDisplay-SemiCondensedItalic.ttf: true
+NotoSerifDisplay-Thin.ttf
+NotoSerifDisplay-Thin.ttf: true
+NotoSerifDisplay-Light.ttf
+NotoSerifDisplay-Light.ttf: true
+NotoSerifDisplay-SemiCondensedMediumItalic.ttf
+NotoSerifDisplay-SemiCondensedMediumItalic.ttf: true
+NotoSerifDisplay-ExtraLight.ttf
+NotoSerifDisplay-ExtraLight.ttf: true
+NotoSerifDisplay-CondensedThinItalic.ttf
+NotoSerifDisplay-CondensedThinItalic.ttf: true
+NotoSerifDisplay-Black.ttf
+NotoSerifDisplay-Black.ttf: true
+NotoSerifDisplay-ExtraCondensedBlackItalic.ttf
+NotoSerifDisplay-ExtraCondensedBlackItalic.ttf: true
+Noto_Serif_Ethiopic
+Noto_Serif_Ethiopic_Bk
+Noto_Serif_Ethiopic_Cn
+Noto_Serif_Ethiopic_Cn_Bk
+Noto_Serif_Ethiopic_Cn_Lt
+Noto_Serif_Ethiopic_Cn_Md
+Noto_Serif_Ethiopic_Cn_SmBd
+Noto_Serif_Ethiopic_Cn_Th
+Noto_Serif_Ethiopic_Cn_XBd
+Noto_Serif_Ethiopic_Cn_XLt
+Noto_Serif_Ethiopic_Lt
+Noto_Serif_Ethiopic_Md
+Noto_Serif_Ethiopic_SmBd
+Noto_Serif_Ethiopic_SmCn
+Noto_Serif_Ethiopic_SmCn_Bk
+Noto_Serif_Ethiopic_SmCn_Lt
+Noto_Serif_Ethiopic_SmCn_Md
+Noto_Serif_Ethiopic_SmCn_SmBd
+Noto_Serif_Ethiopic_SmCn_Th
+Noto_Serif_Ethiopic_SmCn_XBd
+Noto_Serif_Ethiopic_SmCn_XLt
+Noto_Serif_Ethiopic_Th
+Noto_Serif_Ethiopic_XBd
+Noto_Serif_Ethiopic_XCn
+Noto_Serif_Ethiopic_XCn_Bk
+Noto_Serif_Ethiopic_XCn_Lt
+Noto_Serif_Ethiopic_XCn_Md
+Noto_Serif_Ethiopic_XCn_SmBd
+Noto_Serif_Ethiopic_XCn_Th
+Noto_Serif_Ethiopic_XCn_XBd
+Noto_Serif_Ethiopic_XCn_XLt
+Noto_Serif_Ethiopic_XLt
+NotoSerifEthiopic-ExtraCondensedMedium.ttf
+NotoSerifEthiopic-ExtraCondensedMedium.ttf: true
+NotoSerifEthiopic-ExtraCondensedThin.ttf
+NotoSerifEthiopic-ExtraCondensedThin.ttf: true
+NotoSerifEthiopic-Black.ttf
+NotoSerifEthiopic-Black.ttf: true
+NotoSerifEthiopic-SemiCondensedThin.ttf
+NotoSerifEthiopic-SemiCondensedThin.ttf: true
+NotoSerifEthiopic-SemiCondensedMedium.ttf
+NotoSerifEthiopic-SemiCondensedMedium.ttf: true
+NotoSerifEthiopic-ExtraLight.ttf
+NotoSerifEthiopic-ExtraLight.ttf: true
+NotoSerifEthiopic-SemiBold.ttf
+NotoSerifEthiopic-SemiBold.ttf: true
+NotoSerifEthiopic-CondensedMedium.ttf
+NotoSerifEthiopic-CondensedMedium.ttf: true
+NotoSerifEthiopic-ExtraCondensedBold.ttf
+NotoSerifEthiopic-ExtraCondensedBold.ttf: true
+NotoSerifEthiopic-ExtraCondensedExtraLight.ttf
+NotoSerifEthiopic-ExtraCondensedExtraLight.ttf: true
+NotoSerifEthiopic-CondensedLight.ttf
+NotoSerifEthiopic-CondensedLight.ttf: true
+NotoSerifEthiopic-SemiCondensedBlack.ttf
+NotoSerifEthiopic-SemiCondensedBlack.ttf: true
+NotoSerifEthiopic-ExtraCondensedExtraBold.ttf
+NotoSerifEthiopic-ExtraCondensedExtraBold.ttf: true
+NotoSerifEthiopic-Condensed.ttf
+NotoSerifEthiopic-Condensed.ttf: true
+NotoSerifEthiopic-CondensedBlack.ttf
+NotoSerifEthiopic-CondensedBlack.ttf: true
+NotoSerifEthiopic-CondensedExtraBold.ttf
+NotoSerifEthiopic-CondensedExtraBold.ttf: true
+NotoSerifEthiopic-Light.ttf
+NotoSerifEthiopic-Light.ttf: true
+NotoSerifEthiopic-Thin.ttf
+NotoSerifEthiopic-Thin.ttf: true
+NotoSerifEthiopic-SemiCondensedLight.ttf
+NotoSerifEthiopic-SemiCondensedLight.ttf: true
+NotoSerifEthiopic-ExtraBold.ttf
+NotoSerifEthiopic-ExtraBold.ttf: true
+NotoSerifEthiopic-ExtraCondensedLight.ttf
+NotoSerifEthiopic-ExtraCondensedLight.ttf: true
+NotoSerifEthiopic-SemiCondensed.ttf
+NotoSerifEthiopic-SemiCondensed.ttf: true
+NotoSerifEthiopic-SemiCondensedBold.ttf
+NotoSerifEthiopic-SemiCondensedBold.ttf: true
+NotoSerifEthiopic-SemiCondensedExtraLight.ttf
+NotoSerifEthiopic-SemiCondensedExtraLight.ttf: true
+NotoSerifEthiopic-ExtraCondensedSemiBold.ttf
+NotoSerifEthiopic-ExtraCondensedSemiBold.ttf: true
+NotoSerifEthiopic-SemiCondensedSemiBold.ttf
+NotoSerifEthiopic-SemiCondensedSemiBold.ttf: true
+NotoSerifEthiopic-ExtraCondensedBlack.ttf
+NotoSerifEthiopic-ExtraCondensedBlack.ttf: true
+NotoSerifEthiopic-Medium.ttf
+NotoSerifEthiopic-Medium.ttf: true
+NotoSerifEthiopic-SemiCondensedExtraBold.ttf
+NotoSerifEthiopic-SemiCondensedExtraBold.ttf: true
+NotoSerifEthiopic-Bold.ttf
+NotoSerifEthiopic-Bold.ttf: true
+NotoSerifEthiopic-ExtraCondensed.ttf
+NotoSerifEthiopic-ExtraCondensed.ttf: true
+NotoSerifEthiopic-CondensedBold.ttf
+NotoSerifEthiopic-CondensedBold.ttf: true
+NotoSerifEthiopic-Regular.ttf
+NotoSerifEthiopic-Regular.ttf: true
+NotoSerifEthiopic-CondensedThin.ttf
+NotoSerifEthiopic-CondensedThin.ttf: true
+NotoSerifEthiopic-CondensedSemiBold.ttf
+NotoSerifEthiopic-CondensedSemiBold.ttf: true
+NotoSerifEthiopic-CondensedExtraLight.ttf
+NotoSerifEthiopic-CondensedExtraLight.ttf: true
+Noto_Serif
+Noto_Serif_Blk
+Noto_Serif_Cond
+Noto_Serif_Cond_Blk
+Noto_Serif_Cond_ExtBd
+Noto_Serif_Cond_ExtLt
+Noto_Serif_Cond_Light
+Noto_Serif_Cond_Med
+Noto_Serif_Cond_SemBd
+Noto_Serif_Cond_Thin
+Noto_Serif_ExtBd
+Noto_Serif_ExtCond
+Noto_Serif_ExtCond_Blk
+Noto_Serif_ExtCond_ExtBd
+Noto_Serif_ExtCond_ExtLt
+Noto_Serif_ExtCond_Light
+Noto_Serif_ExtCond_Med
+Noto_Serif_ExtCond_SemBd
+Noto_Serif_ExtCond_Thin
+Noto_Serif_ExtLt
+Noto_Serif_Light
+Noto_Serif_Med
+Noto_Serif_SemBd
+Noto_Serif_SemCond
+Noto_Serif_SemCond_Blk
+Noto_Serif_SemCond_ExtBd
+Noto_Serif_SemCond_ExtLt
+Noto_Serif_SemCond_Light
+Noto_Serif_SemCond_Med
+Noto_Serif_SemCond_SemBd
+Noto_Serif_SemCond_Thin
+Noto_Serif_Thin
+NotoSerif-ExtraCondensedLightItalic.ttf
+NotoSerif-ExtraCondensedLightItalic.ttf: true
+NotoSerif-ExtraCondensedExtraLight.ttf
+NotoSerif-ExtraCondensedExtraLight.ttf: true
+NotoSerif-SemiCondensedBlackItalic.ttf
+NotoSerif-SemiCondensedBlackItalic.ttf: true
+NotoSerif-SemiCondensedThin.ttf
+NotoSerif-SemiCondensedThin.ttf: true
+NotoSerif-SemiBoldItalic.ttf
+NotoSerif-SemiBoldItalic.ttf: true
+NotoSerif-ExtraCondensedMedium.ttf
+NotoSerif-ExtraCondensedMedium.ttf: true
+NotoSerif-Condensed.ttf
+NotoSerif-Condensed.ttf: true
+NotoSerif-BlackItalic.ttf
+NotoSerif-BlackItalic.ttf: true
+NotoSerif-Black.ttf
+NotoSerif-Black.ttf: true
+NotoSerif-SemiCondensedExtraBold.ttf
+NotoSerif-SemiCondensedExtraBold.ttf: true
+NotoSerif-CondensedLightItalic.ttf
+NotoSerif-CondensedLightItalic.ttf: true
+NotoSerif-Italic.ttf
+NotoSerif-Italic.ttf: true
+NotoSerif-CondensedBlackItalic.ttf
+NotoSerif-CondensedBlackItalic.ttf: true
+NotoSerif-ExtraCondensedBold.ttf
+NotoSerif-ExtraCondensedBold.ttf: true
+NotoSerif-SemiCondensedExtraLightItalic.ttf
+NotoSerif-SemiCondensedExtraLightItalic.ttf: true
+NotoSerif-CondensedThinItalic.ttf
+NotoSerif-CondensedThinItalic.ttf: true
+NotoSerif-Regular.ttf
+NotoSerif-Regular.ttf: true
+NotoSerif-CondensedBlack.ttf
+NotoSerif-CondensedBlack.ttf: true
+NotoSerif-CondensedItalic.ttf
+NotoSerif-CondensedItalic.ttf: true
+NotoSerif-ExtraCondensedBlack.ttf
+NotoSerif-ExtraCondensedBlack.ttf: true
+NotoSerif-CondensedLight.ttf
+NotoSerif-CondensedLight.ttf: true
+NotoSerif-Medium.ttf
+NotoSerif-Medium.ttf: true
+NotoSerif-CondensedMediumItalic.ttf
+NotoSerif-CondensedMediumItalic.ttf: true
+NotoSerif-Light.ttf
+NotoSerif-Light.ttf: true
+NotoSerif-ExtraBoldItalic.ttf
+NotoSerif-ExtraBoldItalic.ttf: true
+NotoSerif-SemiCondensedExtraBoldItalic.ttf
+NotoSerif-SemiCondensedExtraBoldItalic.ttf: true
+NotoSerif-Bold.ttf
+NotoSerif-Bold.ttf: true
+NotoSerif-ExtraCondensedExtraLightItalic.ttf
+NotoSerif-ExtraCondensedExtraLightItalic.ttf: true
+NotoSerif-CondensedMedium.ttf
+NotoSerif-CondensedMedium.ttf: true
+NotoSerif-ExtraLight.ttf
+NotoSerif-ExtraLight.ttf: true
+NotoSerif-LightItalic.ttf
+NotoSerif-LightItalic.ttf: true
+NotoSerif-CondensedThin.ttf
+NotoSerif-CondensedThin.ttf: true
+NotoSerif-SemiCondensedBold.ttf
+NotoSerif-SemiCondensedBold.ttf: true
+NotoSerif-CondensedExtraLight.ttf
+NotoSerif-CondensedExtraLight.ttf: true
+NotoSerif-ExtraCondensedBlackItalic.ttf
+NotoSerif-ExtraCondensedBlackItalic.ttf: true
+NotoSerif-CondensedSemiBold.ttf
+NotoSerif-CondensedSemiBold.ttf: true
+NotoSerif-MediumItalic.ttf
+NotoSerif-MediumItalic.ttf: true
+NotoSerif-SemiCondensedExtraLight.ttf
+NotoSerif-SemiCondensedExtraLight.ttf: true
+NotoSerif-ExtraCondensedExtraBoldItalic.ttf
+NotoSerif-ExtraCondensedExtraBoldItalic.ttf: true
+NotoSerif-CondensedExtraLightItalic.ttf
+NotoSerif-CondensedExtraLightItalic.ttf: true
+NotoSerif-SemiCondensedSemiBoldItalic.ttf
+NotoSerif-SemiCondensedSemiBoldItalic.ttf: true
+NotoSerif-SemiCondensedLight.ttf
+NotoSerif-SemiCondensedLight.ttf: true
+NotoSerif-ExtraCondensedSemiBold.ttf
+NotoSerif-ExtraCondensedSemiBold.ttf: true
+NotoSerif-ExtraCondensedExtraBold.ttf
+NotoSerif-ExtraCondensedExtraBold.ttf: true
+NotoSerif-SemiCondensedItalic.ttf
+NotoSerif-SemiCondensedItalic.ttf: true
+NotoSerif-SemiCondensedSemiBold.ttf
+NotoSerif-SemiCondensedSemiBold.ttf: true
+NotoSerif-ExtraCondensed.ttf
+NotoSerif-ExtraCondensed.ttf: true
+NotoSerif-ExtraBold.ttf
+NotoSerif-ExtraBold.ttf: true
+NotoSerif-ThinItalic.ttf
+NotoSerif-ThinItalic.ttf: true
+NotoSerif-CondensedSemiBoldItalic.ttf
+NotoSerif-CondensedSemiBoldItalic.ttf: true
+NotoSerif-Thin.ttf
+NotoSerif-Thin.ttf: true
+NotoSerif-SemiCondensed.ttf
+NotoSerif-SemiCondensed.ttf: true
+NotoSerif-ExtraLightItalic.ttf
+NotoSerif-ExtraLightItalic.ttf: true
+NotoSerif-CondensedBoldItalic.ttf
+NotoSerif-CondensedBoldItalic.ttf: true
+NotoSerif-SemiCondensedLightItalic.ttf
+NotoSerif-SemiCondensedLightItalic.ttf: true
+NotoSerif-ExtraCondensedThin.ttf
+NotoSerif-ExtraCondensedThin.ttf: true
+NotoSerif-ExtraCondensedSemiBoldItalic.ttf
+NotoSerif-ExtraCondensedSemiBoldItalic.ttf: true
+NotoSerif-CondensedExtraBold.ttf
+NotoSerif-CondensedExtraBold.ttf: true
+NotoSerif-ExtraCondensedThinItalic.ttf
+NotoSerif-ExtraCondensedThinItalic.ttf: true
+NotoSerif-ExtraCondensedItalic.ttf
+NotoSerif-ExtraCondensedItalic.ttf: true
+NotoSerif-CondensedExtraBoldItalic.ttf
+NotoSerif-CondensedExtraBoldItalic.ttf: true
+NotoSerif-BoldItalic.ttf
+NotoSerif-BoldItalic.ttf: true
+NotoSerif-SemiCondensedBlack.ttf
+NotoSerif-SemiCondensedBlack.ttf: true
+NotoSerif-ExtraCondensedLight.ttf
+NotoSerif-ExtraCondensedLight.ttf: true
+NotoSerif-SemiCondensedThinItalic.ttf
+NotoSerif-SemiCondensedThinItalic.ttf: true
+NotoSerif-ExtraCondensedBoldItalic.ttf
+NotoSerif-ExtraCondensedBoldItalic.ttf: true
+NotoSerif-SemiBold.ttf
+NotoSerif-SemiBold.ttf: true
+NotoSerif-ExtraCondensedMediumItalic.ttf
+NotoSerif-ExtraCondensedMediumItalic.ttf: true
+NotoSerif-SemiCondensedMediumItalic.ttf
+NotoSerif-SemiCondensedMediumItalic.ttf: true
+NotoSerif-SemiCondensedMedium.ttf
+NotoSerif-SemiCondensedMedium.ttf: true
+NotoSerif-CondensedBold.ttf
+NotoSerif-CondensedBold.ttf: true
+NotoSerif-SemiCondensedBoldItalic.ttf
+NotoSerif-SemiCondensedBoldItalic.ttf: true
+Noto_Serif_Georgian
+Noto_Serif_Georgian_Bk
+Noto_Serif_Georgian_Cn
+Noto_Serif_Georgian_Cn_Bk
+Noto_Serif_Georgian_Cn_Lt
+Noto_Serif_Georgian_Cn_Md
+Noto_Serif_Georgian_Cn_SmBd
+Noto_Serif_Georgian_Cn_Th
+Noto_Serif_Georgian_Cn_XBd
+Noto_Serif_Georgian_Cn_XLt
+Noto_Serif_Georgian_Lt
+Noto_Serif_Georgian_Md
+Noto_Serif_Georgian_SmBd
+Noto_Serif_Georgian_SmCn
+Noto_Serif_Georgian_SmCn_Bk
+Noto_Serif_Georgian_SmCn_Lt
+Noto_Serif_Georgian_SmCn_Md
+Noto_Serif_Georgian_SmCn_SmBd
+Noto_Serif_Georgian_SmCn_Th
+Noto_Serif_Georgian_SmCn_XBd
+Noto_Serif_Georgian_SmCn_XLt
+Noto_Serif_Georgian_Th
+Noto_Serif_Georgian_XBd
+Noto_Serif_Georgian_XCn
+Noto_Serif_Georgian_XCn_Bk
+Noto_Serif_Georgian_XCn_Lt
+Noto_Serif_Georgian_XCn_Md
+Noto_Serif_Georgian_XCn_SmBd
+Noto_Serif_Georgian_XCn_Th
+Noto_Serif_Georgian_XCn_XBd
+Noto_Serif_Georgian_XCn_XLt
+Noto_Serif_Georgian_XLt
+NotoSerifGeorgian-CondensedThin.ttf
+NotoSerifGeorgian-CondensedThin.ttf: true
+NotoSerifGeorgian-SemiCondensedSemiBold.ttf
+NotoSerifGeorgian-SemiCondensedSemiBold.ttf: true
+NotoSerifGeorgian-CondensedLight.ttf
+NotoSerifGeorgian-CondensedLight.ttf: true
+NotoSerifGeorgian-SemiCondensed.ttf
+NotoSerifGeorgian-SemiCondensed.ttf: true
+NotoSerifGeorgian-SemiCondensedExtraLight.ttf
+NotoSerifGeorgian-SemiCondensedExtraLight.ttf: true
+NotoSerifGeorgian-Regular.ttf
+NotoSerifGeorgian-Regular.ttf: true
+NotoSerifGeorgian-SemiCondensedLight.ttf
+NotoSerifGeorgian-SemiCondensedLight.ttf: true
+NotoSerifGeorgian-ExtraCondensedBlack.ttf
+NotoSerifGeorgian-ExtraCondensedBlack.ttf: true
+NotoSerifGeorgian-ExtraCondensedExtraLight.ttf
+NotoSerifGeorgian-ExtraCondensedExtraLight.ttf: true
+NotoSerifGeorgian-Light.ttf
+NotoSerifGeorgian-Light.ttf: true
+NotoSerifGeorgian-Bold.ttf
+NotoSerifGeorgian-Bold.ttf: true
+NotoSerifGeorgian-SemiCondensedBold.ttf
+NotoSerifGeorgian-SemiCondensedBold.ttf: true
+NotoSerifGeorgian-ExtraCondensed.ttf
+NotoSerifGeorgian-ExtraCondensed.ttf: true
+NotoSerifGeorgian-ExtraBold.ttf
+NotoSerifGeorgian-ExtraBold.ttf: true
+NotoSerifGeorgian-Black.ttf
+NotoSerifGeorgian-Black.ttf: true
+NotoSerifGeorgian-ExtraCondensedBold.ttf
+NotoSerifGeorgian-ExtraCondensedBold.ttf: true
+NotoSerifGeorgian-ExtraCondensedLight.ttf
+NotoSerifGeorgian-ExtraCondensedLight.ttf: true
+NotoSerifGeorgian-SemiCondensedThin.ttf
+NotoSerifGeorgian-SemiCondensedThin.ttf: true
+NotoSerifGeorgian-ExtraCondensedExtraBold.ttf
+NotoSerifGeorgian-ExtraCondensedExtraBold.ttf: true
+NotoSerifGeorgian-CondensedBlack.ttf
+NotoSerifGeorgian-CondensedBlack.ttf: true
+NotoSerifGeorgian-ExtraCondensedSemiBold.ttf
+NotoSerifGeorgian-ExtraCondensedSemiBold.ttf: true
+NotoSerifGeorgian-CondensedExtraBold.ttf
+NotoSerifGeorgian-CondensedExtraBold.ttf: true
+NotoSerifGeorgian-ExtraCondensedMedium.ttf
+NotoSerifGeorgian-ExtraCondensedMedium.ttf: true
+NotoSerifGeorgian-ExtraLight.ttf
+NotoSerifGeorgian-ExtraLight.ttf: true
+NotoSerifGeorgian-CondensedMedium.ttf
+NotoSerifGeorgian-CondensedMedium.ttf: true
+NotoSerifGeorgian-Condensed.ttf
+NotoSerifGeorgian-Condensed.ttf: true
+NotoSerifGeorgian-Thin.ttf
+NotoSerifGeorgian-Thin.ttf: true
+NotoSerifGeorgian-SemiCondensedBlack.ttf
+NotoSerifGeorgian-SemiCondensedBlack.ttf: true
+NotoSerifGeorgian-ExtraCondensedThin.ttf
+NotoSerifGeorgian-ExtraCondensedThin.ttf: true
+NotoSerifGeorgian-CondensedExtraLight.ttf
+NotoSerifGeorgian-CondensedExtraLight.ttf: true
+NotoSerifGeorgian-Medium.ttf
+NotoSerifGeorgian-Medium.ttf: true
+NotoSerifGeorgian-CondensedSemiBold.ttf
+NotoSerifGeorgian-CondensedSemiBold.ttf: true
+NotoSerifGeorgian-SemiCondensedExtraBold.ttf
+NotoSerifGeorgian-SemiCondensedExtraBold.ttf: true
+NotoSerifGeorgian-SemiCondensedMedium.ttf
+NotoSerifGeorgian-SemiCondensedMedium.ttf: true
+NotoSerifGeorgian-CondensedBold.ttf
+NotoSerifGeorgian-CondensedBold.ttf: true
+NotoSerifGeorgian-SemiBold.ttf
+NotoSerifGeorgian-SemiBold.ttf: true
+Noto_Serif_Gujarati
+NotoSerifGujarati-Bold.ttf
+NotoSerifGujarati-Bold.ttf: true
+NotoSerifGujarati-Regular.ttf
+NotoSerifGujarati-Regular.ttf: true
+Noto_Serif_Hebrew
+Noto_Serif_Hebrew_Blk
+Noto_Serif_Hebrew_Cond
+Noto_Serif_Hebrew_Cond_Blk
+Noto_Serif_Hebrew_Cond_ExtBd
+Noto_Serif_Hebrew_Cond_ExtLt
+Noto_Serif_Hebrew_Cond_Light
+Noto_Serif_Hebrew_Cond_Med
+Noto_Serif_Hebrew_Cond_SemBd
+Noto_Serif_Hebrew_Cond_Thin
+Noto_Serif_Hebrew_ExtBd
+Noto_Serif_Hebrew_ExtCond
+Noto_Serif_Hebrew_ExtCond_Blk
+Noto_Serif_Hebrew_ExtCond_ExtBd
+Noto_Serif_Hebrew_ExtCond_ExtLt
+Noto_Serif_Hebrew_ExtCond_Light
+Noto_Serif_Hebrew_ExtCond_Med
+Noto_Serif_Hebrew_ExtCond_SemBd
+Noto_Serif_Hebrew_ExtCond_Thin
+Noto_Serif_Hebrew_ExtLt
+Noto_Serif_Hebrew_Light
+Noto_Serif_Hebrew_Med
+Noto_Serif_Hebrew_SemBd
+Noto_Serif_Hebrew_SemCond
+Noto_Serif_Hebrew_SemCond_Blk
+Noto_Serif_Hebrew_SemCond_ExtBd
+Noto_Serif_Hebrew_SemCond_ExtLt
+Noto_Serif_Hebrew_SemCond_Light
+Noto_Serif_Hebrew_SemCond_Med
+Noto_Serif_Hebrew_SemCond_SemBd
+Noto_Serif_Hebrew_SemCond_Thin
+Noto_Serif_Hebrew_Thin
+NotoSerifHebrew-ExtraLight.ttf
+NotoSerifHebrew-ExtraLight.ttf: true
+NotoSerifHebrew-SemiCondensedThin.ttf
+NotoSerifHebrew-SemiCondensedThin.ttf: true
+NotoSerifHebrew-CondensedSemiBold.ttf
+NotoSerifHebrew-CondensedSemiBold.ttf: true
+NotoSerifHebrew-SemiCondensedLight.ttf
+NotoSerifHebrew-SemiCondensedLight.ttf: true
+NotoSerifHebrew-SemiCondensedBlack.ttf
+NotoSerifHebrew-SemiCondensedBlack.ttf: true
+NotoSerifHebrew-CondensedLight.ttf
+NotoSerifHebrew-CondensedLight.ttf: true
+NotoSerifHebrew-SemiCondensedBold.ttf
+NotoSerifHebrew-SemiCondensedBold.ttf: true
+NotoSerifHebrew-SemiCondensed.ttf
+NotoSerifHebrew-SemiCondensed.ttf: true
+NotoSerifHebrew-CondensedExtraLight.ttf
+NotoSerifHebrew-CondensedExtraLight.ttf: true
+NotoSerifHebrew-SemiBold.ttf
+NotoSerifHebrew-SemiBold.ttf: true
+NotoSerifHebrew-ExtraCondensedSemiBold.ttf
+NotoSerifHebrew-ExtraCondensedSemiBold.ttf: true
+NotoSerifHebrew-SemiCondensedExtraLight.ttf
+NotoSerifHebrew-SemiCondensedExtraLight.ttf: true
+NotoSerifHebrew-ExtraCondensedExtraLight.ttf
+NotoSerifHebrew-ExtraCondensedExtraLight.ttf: true
+NotoSerifHebrew-ExtraCondensedMedium.ttf
+NotoSerifHebrew-ExtraCondensedMedium.ttf: true
+NotoSerifHebrew-CondensedBold.ttf
+NotoSerifHebrew-CondensedBold.ttf: true
+NotoSerifHebrew-ExtraCondensedThin.ttf
+NotoSerifHebrew-ExtraCondensedThin.ttf: true
+NotoSerifHebrew-Condensed.ttf
+NotoSerifHebrew-Condensed.ttf: true
+NotoSerifHebrew-ExtraCondensed.ttf
+NotoSerifHebrew-ExtraCondensed.ttf: true
+NotoSerifHebrew-ExtraCondensedLight.ttf
+NotoSerifHebrew-ExtraCondensedLight.ttf: true
+NotoSerifHebrew-SemiCondensedMedium.ttf
+NotoSerifHebrew-SemiCondensedMedium.ttf: true
+NotoSerifHebrew-Bold.ttf
+NotoSerifHebrew-Bold.ttf: true
+NotoSerifHebrew-Medium.ttf
+NotoSerifHebrew-Medium.ttf: true
+NotoSerifHebrew-Light.ttf
+NotoSerifHebrew-Light.ttf: true
+NotoSerifHebrew-CondensedExtraBold.ttf
+NotoSerifHebrew-CondensedExtraBold.ttf: true
+NotoSerifHebrew-CondensedBlack.ttf
+NotoSerifHebrew-CondensedBlack.ttf: true
+NotoSerifHebrew-ExtraCondensedBold.ttf
+NotoSerifHebrew-ExtraCondensedBold.ttf: true
+NotoSerifHebrew-Thin.ttf
+NotoSerifHebrew-Thin.ttf: true
+NotoSerifHebrew-Black.ttf
+NotoSerifHebrew-Black.ttf: true
+NotoSerifHebrew-ExtraBold.ttf
+NotoSerifHebrew-ExtraBold.ttf: true
+NotoSerifHebrew-Regular.ttf
+NotoSerifHebrew-Regular.ttf: true
+NotoSerifHebrew-ExtraCondensedExtraBold.ttf
+NotoSerifHebrew-ExtraCondensedExtraBold.ttf: true
+NotoSerifHebrew-SemiCondensedExtraBold.ttf
+NotoSerifHebrew-SemiCondensedExtraBold.ttf: true
+NotoSerifHebrew-SemiCondensedSemiBold.ttf
+NotoSerifHebrew-SemiCondensedSemiBold.ttf: true
+NotoSerifHebrew-ExtraCondensedBlack.ttf
+NotoSerifHebrew-ExtraCondensedBlack.ttf: true
+NotoSerifHebrew-CondensedThin.ttf
+NotoSerifHebrew-CondensedThin.ttf: true
+NotoSerifHebrew-CondensedMedium.ttf
+NotoSerifHebrew-CondensedMedium.ttf: true
+Noto_Serif_Kannada
+NotoSerifKannada-Bold.ttf
+NotoSerifKannada-Bold.ttf: true
+NotoSerifKannada-Regular.ttf
+NotoSerifKannada-Regular.ttf: true
+Noto_Serif_Khmer
+Noto_Serif_Khmer_Blk
+Noto_Serif_Khmer_Cond
+Noto_Serif_Khmer_Cond_Blk
+Noto_Serif_Khmer_Cond_ExtBd
+Noto_Serif_Khmer_Cond_ExtLt
+Noto_Serif_Khmer_Cond_Light
+Noto_Serif_Khmer_Cond_Med
+Noto_Serif_Khmer_Cond_SemBd
+Noto_Serif_Khmer_Cond_Thin
+Noto_Serif_Khmer_ExtBd
+Noto_Serif_Khmer_ExtCond
+Noto_Serif_Khmer_ExtCond_Blk
+Noto_Serif_Khmer_ExtCond_ExtBd
+Noto_Serif_Khmer_ExtCond_ExtLt
+Noto_Serif_Khmer_ExtCond_Light
+Noto_Serif_Khmer_ExtCond_Med
+Noto_Serif_Khmer_ExtCond_SemBd
+Noto_Serif_Khmer_ExtCond_Thin
+Noto_Serif_Khmer_ExtLt
+Noto_Serif_Khmer_Light
+Noto_Serif_Khmer_Med
+Noto_Serif_Khmer_SemBd
+Noto_Serif_Khmer_SemCond
+Noto_Serif_Khmer_SemCond_Blk
+Noto_Serif_Khmer_SemCond_ExtBd
+Noto_Serif_Khmer_SemCond_ExtLt
+Noto_Serif_Khmer_SemCond_Light
+Noto_Serif_Khmer_SemCond_Med
+Noto_Serif_Khmer_SemCond_SemBd
+Noto_Serif_Khmer_SemCond_Thin
+Noto_Serif_Khmer_Thin
+NotoSerifKhmer-ExtraCondensedLight.ttf
+NotoSerifKhmer-ExtraCondensedLight.ttf: true
+NotoSerifKhmer-ExtraCondensed.ttf
+NotoSerifKhmer-ExtraCondensed.ttf: true
+NotoSerifKhmer-SemiCondensedBold.ttf
+NotoSerifKhmer-SemiCondensedBold.ttf: true
+NotoSerifKhmer-Condensed.ttf
+NotoSerifKhmer-Condensed.ttf: true
+NotoSerifKhmer-ExtraCondensedMedium.ttf
+NotoSerifKhmer-ExtraCondensedMedium.ttf: true
+NotoSerifKhmer-SemiCondensedLight.ttf
+NotoSerifKhmer-SemiCondensedLight.ttf: true
+NotoSerifKhmer-SemiCondensedExtraLight.ttf
+NotoSerifKhmer-SemiCondensedExtraLight.ttf: true
+NotoSerifKhmer-Bold.ttf
+NotoSerifKhmer-Bold.ttf: true
+NotoSerifKhmer-CondensedBold.ttf
+NotoSerifKhmer-CondensedBold.ttf: true
+NotoSerifKhmer-CondensedMedium.ttf
+NotoSerifKhmer-CondensedMedium.ttf: true
+NotoSerifKhmer-ExtraLight.ttf
+NotoSerifKhmer-ExtraLight.ttf: true
+NotoSerifKhmer-ExtraCondensedExtraLight.ttf
+NotoSerifKhmer-ExtraCondensedExtraLight.ttf: true
+NotoSerifKhmer-ExtraCondensedSemiBold.ttf
+NotoSerifKhmer-ExtraCondensedSemiBold.ttf: true
+NotoSerifKhmer-ExtraCondensedThin.ttf
+NotoSerifKhmer-ExtraCondensedThin.ttf: true
+NotoSerifKhmer-CondensedExtraLight.ttf
+NotoSerifKhmer-CondensedExtraLight.ttf: true
+NotoSerifKhmer-Light.ttf
+NotoSerifKhmer-Light.ttf: true
+NotoSerifKhmer-SemiCondensedThin.ttf
+NotoSerifKhmer-SemiCondensedThin.ttf: true
+NotoSerifKhmer-Regular.ttf
+NotoSerifKhmer-Regular.ttf: true
+NotoSerifKhmer-Medium.ttf
+NotoSerifKhmer-Medium.ttf: true
+NotoSerifKhmer-ExtraCondensedBlack.ttf
+NotoSerifKhmer-ExtraCondensedBlack.ttf: true
+NotoSerifKhmer-Thin.ttf
+NotoSerifKhmer-Thin.ttf: true
+NotoSerifKhmer-CondensedSemiBold.ttf
+NotoSerifKhmer-CondensedSemiBold.ttf: true
+NotoSerifKhmer-SemiCondensedSemiBold.ttf
+NotoSerifKhmer-SemiCondensedSemiBold.ttf: true
+NotoSerifKhmer-SemiBold.ttf
+NotoSerifKhmer-SemiBold.ttf: true
+NotoSerifKhmer-CondensedLight.ttf
+NotoSerifKhmer-CondensedLight.ttf: true
+NotoSerifKhmer-SemiCondensedMedium.ttf
+NotoSerifKhmer-SemiCondensedMedium.ttf: true
+NotoSerifKhmer-SemiCondensedExtraBold.ttf
+NotoSerifKhmer-SemiCondensedExtraBold.ttf: true
+NotoSerifKhmer-ExtraCondensedBold.ttf
+NotoSerifKhmer-ExtraCondensedBold.ttf: true
+NotoSerifKhmer-CondensedExtraBold.ttf
+NotoSerifKhmer-CondensedExtraBold.ttf: true
+NotoSerifKhmer-Black.ttf
+NotoSerifKhmer-Black.ttf: true
+NotoSerifKhmer-ExtraCondensedExtraBold.ttf
+NotoSerifKhmer-ExtraCondensedExtraBold.ttf: true
+NotoSerifKhmer-SemiCondensed.ttf
+NotoSerifKhmer-SemiCondensed.ttf: true
+NotoSerifKhmer-CondensedThin.ttf
+NotoSerifKhmer-CondensedThin.ttf: true
+NotoSerifKhmer-SemiCondensedBlack.ttf
+NotoSerifKhmer-SemiCondensedBlack.ttf: true
+NotoSerifKhmer-CondensedBlack.ttf
+NotoSerifKhmer-CondensedBlack.ttf: true
+NotoSerifKhmer-ExtraBold.ttf
+NotoSerifKhmer-ExtraBold.ttf: true
+Noto_Serif_Lao
+Noto_Serif_Lao_Blk
+Noto_Serif_Lao_Cond
+Noto_Serif_Lao_Cond_Blk
+Noto_Serif_Lao_Cond_ExtBd
+Noto_Serif_Lao_Cond_ExtLt
+Noto_Serif_Lao_Cond_Light
+Noto_Serif_Lao_Cond_Med
+Noto_Serif_Lao_Cond_SemBd
+Noto_Serif_Lao_Cond_Thin
+Noto_Serif_Lao_ExtBd
+Noto_Serif_Lao_ExtCond
+Noto_Serif_Lao_ExtCond_Blk
+Noto_Serif_Lao_ExtCond_ExtBd
+Noto_Serif_Lao_ExtCond_ExtLt
+Noto_Serif_Lao_ExtCond_Light
+Noto_Serif_Lao_ExtCond_Med
+Noto_Serif_Lao_ExtCond_SemBd
+Noto_Serif_Lao_ExtCond_Thin
+Noto_Serif_Lao_ExtLt
+Noto_Serif_Lao_Light
+Noto_Serif_Lao_Med
+Noto_Serif_Lao_SemBd
+Noto_Serif_Lao_SemCond
+Noto_Serif_Lao_SemCond_Blk
+Noto_Serif_Lao_SemCond_ExtBd
+Noto_Serif_Lao_SemCond_ExtLt
+Noto_Serif_Lao_SemCond_Light
+Noto_Serif_Lao_SemCond_Med
+Noto_Serif_Lao_SemCond_SemBd
+Noto_Serif_Lao_SemCond_Thin
+Noto_Serif_Lao_Thin
+NotoSerifLao-ExtraCondensedLight.ttf
+NotoSerifLao-ExtraCondensedLight.ttf: true
+NotoSerifLao-SemiBold.ttf
+NotoSerifLao-SemiBold.ttf: true
+NotoSerifLao-ExtraLight.ttf
+NotoSerifLao-ExtraLight.ttf: true
+NotoSerifLao-Thin.ttf
+NotoSerifLao-Thin.ttf: true
+NotoSerifLao-CondensedLight.ttf
+NotoSerifLao-CondensedLight.ttf: true
+NotoSerifLao-CondensedBlack.ttf
+NotoSerifLao-CondensedBlack.ttf: true
+NotoSerifLao-CondensedExtraLight.ttf
+NotoSerifLao-CondensedExtraLight.ttf: true
+NotoSerifLao-Medium.ttf
+NotoSerifLao-Medium.ttf: true
+NotoSerifLao-ExtraCondensedSemiBold.ttf
+NotoSerifLao-ExtraCondensedSemiBold.ttf: true
+NotoSerifLao-Black.ttf
+NotoSerifLao-Black.ttf: true
+NotoSerifLao-ExtraCondensedExtraBold.ttf
+NotoSerifLao-ExtraCondensedExtraBold.ttf: true
+NotoSerifLao-SemiCondensedBlack.ttf
+NotoSerifLao-SemiCondensedBlack.ttf: true
+NotoSerifLao-ExtraCondensedBold.ttf
+NotoSerifLao-ExtraCondensedBold.ttf: true
+NotoSerifLao-Light.ttf
+NotoSerifLao-Light.ttf: true
+NotoSerifLao-CondensedMedium.ttf
+NotoSerifLao-CondensedMedium.ttf: true
+NotoSerifLao-SemiCondensed.ttf
+NotoSerifLao-SemiCondensed.ttf: true
+NotoSerifLao-CondensedExtraBold.ttf
+NotoSerifLao-CondensedExtraBold.ttf: true
+NotoSerifLao-Condensed.ttf
+NotoSerifLao-Condensed.ttf: true
+NotoSerifLao-SemiCondensedSemiBold.ttf
+NotoSerifLao-SemiCondensedSemiBold.ttf: true
+NotoSerifLao-ExtraCondensedExtraLight.ttf
+NotoSerifLao-ExtraCondensedExtraLight.ttf: true
+NotoSerifLao-ExtraCondensedMedium.ttf
+NotoSerifLao-ExtraCondensedMedium.ttf: true
+NotoSerifLao-SemiCondensedBold.ttf
+NotoSerifLao-SemiCondensedBold.ttf: true
+NotoSerifLao-CondensedSemiBold.ttf
+NotoSerifLao-CondensedSemiBold.ttf: true
+NotoSerifLao-SemiCondensedLight.ttf
+NotoSerifLao-SemiCondensedLight.ttf: true
+NotoSerifLao-ExtraBold.ttf
+NotoSerifLao-ExtraBold.ttf: true
+NotoSerifLao-SemiCondensedExtraBold.ttf
+NotoSerifLao-SemiCondensedExtraBold.ttf: true
+NotoSerifLao-SemiCondensedExtraLight.ttf
+NotoSerifLao-SemiCondensedExtraLight.ttf: true
+NotoSerifLao-SemiCondensedThin.ttf
+NotoSerifLao-SemiCondensedThin.ttf: true
+NotoSerifLao-Bold.ttf
+NotoSerifLao-Bold.ttf: true
+NotoSerifLao-Regular.ttf
+NotoSerifLao-Regular.ttf: true
+NotoSerifLao-CondensedThin.ttf
+NotoSerifLao-CondensedThin.ttf: true
+NotoSerifLao-ExtraCondensedBlack.ttf
+NotoSerifLao-ExtraCondensedBlack.ttf: true
+NotoSerifLao-ExtraCondensed.ttf
+NotoSerifLao-ExtraCondensed.ttf: true
+NotoSerifLao-ExtraCondensedThin.ttf
+NotoSerifLao-ExtraCondensedThin.ttf: true
+NotoSerifLao-CondensedBold.ttf
+NotoSerifLao-CondensedBold.ttf: true
+NotoSerifLao-SemiCondensedMedium.ttf
+NotoSerifLao-SemiCondensedMedium.ttf: true
+Noto_Serif_Malayalam
+NotoSerifMalayalam-Bold.ttf
+NotoSerifMalayalam-Bold.ttf: true
+NotoSerifMalayalam-Regular.ttf
+NotoSerifMalayalam-Regular.ttf: true
+Noto_Serif_Myanmar
+Noto_Serif_Myanmar_Blk
+Noto_Serif_Myanmar_Cond
+Noto_Serif_Myanmar_Cond_Blk
+Noto_Serif_Myanmar_Cond_ExtBd
+Noto_Serif_Myanmar_Cond_ExtLt
+Noto_Serif_Myanmar_Cond_Light
+Noto_Serif_Myanmar_Cond_Med
+Noto_Serif_Myanmar_Cond_SemBd
+Noto_Serif_Myanmar_Cond_Thin
+Noto_Serif_Myanmar_ExtBd
+Noto_Serif_Myanmar_ExtCond
+Noto_Serif_Myanmar_ExtCond_Blk
+Noto_Serif_Myanmar_ExtCond_ExtBd
+Noto_Serif_Myanmar_ExtCond_ExtLt
+Noto_Serif_Myanmar_ExtCond_Light
+Noto_Serif_Myanmar_ExtCond_Med
+Noto_Serif_Myanmar_ExtCond_SemBd
+Noto_Serif_Myanmar_ExtCond_Thin
+Noto_Serif_Myanmar_ExtLt
+Noto_Serif_Myanmar_Light
+Noto_Serif_Myanmar_Med
+Noto_Serif_Myanmar_SemBd
+Noto_Serif_Myanmar_SemCond
+Noto_Serif_Myanmar_SemCond_Blk
+Noto_Serif_Myanmar_SemCond_ExtBd
+Noto_Serif_Myanmar_SemCond_ExtLt
+Noto_Serif_Myanmar_SemCond_Light
+Noto_Serif_Myanmar_SemCond_Med
+Noto_Serif_Myanmar_SemCond_SemBd
+Noto_Serif_Myanmar_SemCond_Thin
+Noto_Serif_Myanmar_Thin
+NotoSerifMyanmar-CondensedMedium.ttf
+NotoSerifMyanmar-CondensedMedium.ttf: true
+NotoSerifMyanmar-SemiCondensedMedium.ttf
+NotoSerifMyanmar-SemiCondensedMedium.ttf: true
+NotoSerifMyanmar-SemiCondensedBlack.ttf
+NotoSerifMyanmar-SemiCondensedBlack.ttf: true
+NotoSerifMyanmar-SemiCondensedLight.ttf
+NotoSerifMyanmar-SemiCondensedLight.ttf: true
+NotoSerifMyanmar-Light.ttf
+NotoSerifMyanmar-Light.ttf: true
+NotoSerifMyanmar-Black.ttf
+NotoSerifMyanmar-Black.ttf: true
+NotoSerifMyanmar-ExtraCondensedSemiBold.ttf
+NotoSerifMyanmar-ExtraCondensedSemiBold.ttf: true
+NotoSerifMyanmar-SemiCondensed.ttf
+NotoSerifMyanmar-SemiCondensed.ttf: true
+NotoSerifMyanmar-ExtraCondensedMedium.ttf
+NotoSerifMyanmar-ExtraCondensedMedium.ttf: true
+NotoSerifMyanmar-CondensedBlack.ttf
+NotoSerifMyanmar-CondensedBlack.ttf: true
+NotoSerifMyanmar-ExtraCondensedThin.ttf
+NotoSerifMyanmar-ExtraCondensedThin.ttf: true
+NotoSerifMyanmar-SemiCondensedBold.ttf
+NotoSerifMyanmar-SemiCondensedBold.ttf: true
+NotoSerifMyanmar-ExtraCondensedExtraBold.ttf
+NotoSerifMyanmar-ExtraCondensedExtraBold.ttf: true
+NotoSerifMyanmar-ExtraCondensedBold.ttf
+NotoSerifMyanmar-ExtraCondensedBold.ttf: true
+NotoSerifMyanmar-Bold.ttf
+NotoSerifMyanmar-Bold.ttf: true
+NotoSerifMyanmar-ExtraLight.ttf
+NotoSerifMyanmar-ExtraLight.ttf: true
+NotoSerifMyanmar-SemiCondensedExtraBold.ttf
+NotoSerifMyanmar-SemiCondensedExtraBold.ttf: true
+NotoSerifMyanmar-Medium.ttf
+NotoSerifMyanmar-Medium.ttf: true
+NotoSerifMyanmar-ExtraCondensedBlack.ttf
+NotoSerifMyanmar-ExtraCondensedBlack.ttf: true
+NotoSerifMyanmar-Condensed.ttf
+NotoSerifMyanmar-Condensed.ttf: true
+NotoSerifMyanmar-ExtraBold.ttf
+NotoSerifMyanmar-ExtraBold.ttf: true
+NotoSerifMyanmar-Regular.ttf
+NotoSerifMyanmar-Regular.ttf: true
+NotoSerifMyanmar-ExtraCondensedLight.ttf
+NotoSerifMyanmar-ExtraCondensedLight.ttf: true
+NotoSerifMyanmar-CondensedSemiBold.ttf
+NotoSerifMyanmar-CondensedSemiBold.ttf: true
+NotoSerifMyanmar-CondensedExtraLight.ttf
+NotoSerifMyanmar-CondensedExtraLight.ttf: true
+NotoSerifMyanmar-SemiBold.ttf
+NotoSerifMyanmar-SemiBold.ttf: true
+NotoSerifMyanmar-CondensedBold.ttf
+NotoSerifMyanmar-CondensedBold.ttf: true
+NotoSerifMyanmar-SemiCondensedExtraLight.ttf
+NotoSerifMyanmar-SemiCondensedExtraLight.ttf: true
+NotoSerifMyanmar-CondensedLight.ttf
+NotoSerifMyanmar-CondensedLight.ttf: true
+NotoSerifMyanmar-CondensedThin.ttf
+NotoSerifMyanmar-CondensedThin.ttf: true
+NotoSerifMyanmar-CondensedExtraBold.ttf
+NotoSerifMyanmar-CondensedExtraBold.ttf: true
+NotoSerifMyanmar-ExtraCondensedExtraLight.ttf
+NotoSerifMyanmar-ExtraCondensedExtraLight.ttf: true
+NotoSerifMyanmar-SemiCondensedSemiBold.ttf
+NotoSerifMyanmar-SemiCondensedSemiBold.ttf: true
+NotoSerifMyanmar-ExtraCondensed.ttf
+NotoSerifMyanmar-ExtraCondensed.ttf: true
+NotoSerifMyanmar-SemiCondensedThin.ttf
+NotoSerifMyanmar-SemiCondensedThin.ttf: true
+NotoSerifMyanmar-Thin.ttf
+NotoSerifMyanmar-Thin.ttf: true
+Noto_Serif_Sinhala
+Noto_Serif_Sinhala_Blk
+Noto_Serif_Sinhala_ExtBd
+Noto_Serif_Sinhala_ExtLt
+Noto_Serif_Sinhala_Light
+Noto_Serif_Sinhala_Med
+Noto_Serif_Sinhala_SemBd
+Noto_Serif_Sinhala_Thin
+NotoSerifSinhala-ExtraLight.ttf
+NotoSerifSinhala-ExtraLight.ttf: true
+NotoSerifSinhala-Thin.ttf
+NotoSerifSinhala-Thin.ttf: true
+NotoSerifSinhala-ExtraBold.ttf
+NotoSerifSinhala-ExtraBold.ttf: true
+NotoSerifSinhala-Black.ttf
+NotoSerifSinhala-Black.ttf: true
+NotoSerifSinhala-Bold.ttf
+NotoSerifSinhala-Bold.ttf: true
+NotoSerifSinhala-SemiBold.ttf
+NotoSerifSinhala-SemiBold.ttf: true
+NotoSerifSinhala-Medium.ttf
+NotoSerifSinhala-Medium.ttf: true
+NotoSerifSinhala-Light.ttf
+NotoSerifSinhala-Light.ttf: true
+NotoSerifSinhala-Regular.ttf
+NotoSerifSinhala-Regular.ttf: true
+Noto_Serif_Tamil
+Noto_Serif_Tamil_Blk
+Noto_Serif_Tamil_Cond
+Noto_Serif_Tamil_Cond_Blk
+Noto_Serif_Tamil_Cond_ExtBd
+Noto_Serif_Tamil_Cond_ExtLt
+Noto_Serif_Tamil_Cond_Light
+Noto_Serif_Tamil_Cond_Med
+Noto_Serif_Tamil_Cond_SemBd
+Noto_Serif_Tamil_Cond_Thin
+Noto_Serif_Tamil_ExtBd
+Noto_Serif_Tamil_ExtCond
+Noto_Serif_Tamil_ExtCond_Blk
+Noto_Serif_Tamil_ExtCond_ExtBd
+Noto_Serif_Tamil_ExtCond_ExtLt
+Noto_Serif_Tamil_ExtCond_Light
+Noto_Serif_Tamil_ExtCond_Med
+Noto_Serif_Tamil_ExtCond_SemBd
+Noto_Serif_Tamil_ExtCond_Thin
+Noto_Serif_Tamil_ExtLt
+Noto_Serif_Tamil_Light
+Noto_Serif_Tamil_Med
+Noto_Serif_Tamil_SemBd
+Noto_Serif_Tamil_SemCond
+Noto_Serif_Tamil_SemCond_Blk
+Noto_Serif_Tamil_SemCond_ExtBd
+Noto_Serif_Tamil_SemCond_ExtLt
+Noto_Serif_Tamil_SemCond_Light
+Noto_Serif_Tamil_SemCond_Med
+Noto_Serif_Tamil_SemCond_SemBd
+Noto_Serif_Tamil_SemCond_Thin
+Noto_Serif_Tamil_Thin
+NotoSerifTamil-SemiCondensedLight.ttf
+NotoSerifTamil-SemiCondensedLight.ttf: true
+NotoSerifTamil-ExtraCondensedThin.ttf
+NotoSerifTamil-ExtraCondensedThin.ttf: true
+NotoSerifTamil-ExtraCondensedBold.ttf
+NotoSerifTamil-ExtraCondensedBold.ttf: true
+NotoSerifTamil-CondensedLight.ttf
+NotoSerifTamil-CondensedLight.ttf: true
+NotoSerifTamil-SemiCondensedBold.ttf
+NotoSerifTamil-SemiCondensedBold.ttf: true
+NotoSerifTamil-Medium.ttf
+NotoSerifTamil-Medium.ttf: true
+NotoSerifTamil-Light.ttf
+NotoSerifTamil-Light.ttf: true
+NotoSerifTamil-SemiCondensedSemiBold.ttf
+NotoSerifTamil-SemiCondensedSemiBold.ttf: true
+NotoSerifTamil-ExtraCondensedSemiBold.ttf
+NotoSerifTamil-ExtraCondensedSemiBold.ttf: true
+NotoSerifTamil-CondensedMedium.ttf
+NotoSerifTamil-CondensedMedium.ttf: true
+NotoSerifTamil-CondensedSemiBold.ttf
+NotoSerifTamil-CondensedSemiBold.ttf: true
+NotoSerifTamil-Black.ttf
+NotoSerifTamil-Black.ttf: true
+NotoSerifTamil-ExtraCondensedMedium.ttf
+NotoSerifTamil-ExtraCondensedMedium.ttf: true
+NotoSerifTamil-ExtraLight.ttf
+NotoSerifTamil-ExtraLight.ttf: true
+NotoSerifTamil-SemiCondensedBlack.ttf
+NotoSerifTamil-SemiCondensedBlack.ttf: true
+NotoSerifTamil-SemiCondensedThin.ttf
+NotoSerifTamil-SemiCondensedThin.ttf: true
+NotoSerifTamil-CondensedBlack.ttf
+NotoSerifTamil-CondensedBlack.ttf: true
+NotoSerifTamil-ExtraCondensedExtraBold.ttf
+NotoSerifTamil-ExtraCondensedExtraBold.ttf: true
+NotoSerifTamil-ExtraCondensedLight.ttf
+NotoSerifTamil-ExtraCondensedLight.ttf: true
+NotoSerifTamil-Thin.ttf
+NotoSerifTamil-Thin.ttf: true
+NotoSerifTamil-SemiCondensedExtraBold.ttf
+NotoSerifTamil-SemiCondensedExtraBold.ttf: true
+NotoSerifTamil-ExtraCondensed.ttf
+NotoSerifTamil-ExtraCondensed.ttf: true
+NotoSerifTamil-SemiCondensed.ttf
+NotoSerifTamil-SemiCondensed.ttf: true
+NotoSerifTamil-CondensedThin.ttf
+NotoSerifTamil-CondensedThin.ttf: true
+NotoSerifTamil-CondensedExtraBold.ttf
+NotoSerifTamil-CondensedExtraBold.ttf: true
+NotoSerifTamil-CondensedBold.ttf
+NotoSerifTamil-CondensedBold.ttf: true
+NotoSerifTamil-ExtraCondensedExtraLight.ttf
+NotoSerifTamil-ExtraCondensedExtraLight.ttf: true
+NotoSerifTamil-Regular.ttf
+NotoSerifTamil-Regular.ttf: true
+NotoSerifTamil-SemiCondensedMedium.ttf
+NotoSerifTamil-SemiCondensedMedium.ttf: true
+NotoSerifTamil-ExtraCondensedBlack.ttf
+NotoSerifTamil-ExtraCondensedBlack.ttf: true
+NotoSerifTamil-CondensedExtraLight.ttf
+NotoSerifTamil-CondensedExtraLight.ttf: true
+NotoSerifTamil-SemiBold.ttf
+NotoSerifTamil-SemiBold.ttf: true
+NotoSerifTamil-Bold.ttf
+NotoSerifTamil-Bold.ttf: true
+NotoSerifTamil-ExtraBold.ttf
+NotoSerifTamil-ExtraBold.ttf: true
+NotoSerifTamil-SemiCondensedExtraLight.ttf
+NotoSerifTamil-SemiCondensedExtraLight.ttf: true
+NotoSerifTamil-Condensed.ttf
+NotoSerifTamil-Condensed.ttf: true
+Noto_Serif_Telugu
+NotoSerifTelugu-Bold.ttf
+NotoSerifTelugu-Bold.ttf: true
+NotoSerifTelugu-Regular.ttf
+NotoSerifTelugu-Regular.ttf: true
+Noto_Serif_Thai
+Noto_Serif_Thai_Blk
+Noto_Serif_Thai_Cond
+Noto_Serif_Thai_Cond_Blk
+Noto_Serif_Thai_Cond_ExtBd
+Noto_Serif_Thai_Cond_ExtLt
+Noto_Serif_Thai_Cond_Light
+Noto_Serif_Thai_Cond_Med
+Noto_Serif_Thai_Cond_SemBd
+Noto_Serif_Thai_Cond_Thin
+Noto_Serif_Thai_ExtBd
+Noto_Serif_Thai_ExtCond
+Noto_Serif_Thai_ExtCond_Blk
+Noto_Serif_Thai_ExtCond_ExtBd
+Noto_Serif_Thai_ExtCond_ExtLt
+Noto_Serif_Thai_ExtCond_Light
+Noto_Serif_Thai_ExtCond_Med
+Noto_Serif_Thai_ExtCond_SemBd
+Noto_Serif_Thai_ExtCond_Thin
+Noto_Serif_Thai_ExtLt
+Noto_Serif_Thai_Light
+Noto_Serif_Thai_Med
+Noto_Serif_Thai_SemBd
+Noto_Serif_Thai_SemCond
+Noto_Serif_Thai_SemCond_Blk
+Noto_Serif_Thai_SemCond_ExtBd
+Noto_Serif_Thai_SemCond_ExtLt
+Noto_Serif_Thai_SemCond_Light
+Noto_Serif_Thai_SemCond_Med
+Noto_Serif_Thai_SemCond_SemBd
+Noto_Serif_Thai_SemCond_Thin
+Noto_Serif_Thai_Thin
+NotoSerifThai-ExtraBold.ttf
+NotoSerifThai-ExtraBold.ttf: true
+NotoSerifThai-SemiCondensed.ttf
+NotoSerifThai-SemiCondensed.ttf: true
+NotoSerifThai-CondensedExtraBold.ttf
+NotoSerifThai-CondensedExtraBold.ttf: true
+NotoSerifThai-SemiCondensedBlack.ttf
+NotoSerifThai-SemiCondensedBlack.ttf: true
+NotoSerifThai-ExtraCondensedLight.ttf
+NotoSerifThai-ExtraCondensedLight.ttf: true
+NotoSerifThai-SemiCondensedExtraLight.ttf
+NotoSerifThai-SemiCondensedExtraLight.ttf: true
+NotoSerifThai-Condensed.ttf
+NotoSerifThai-Condensed.ttf: true
+NotoSerifThai-SemiCondensedSemiBold.ttf
+NotoSerifThai-SemiCondensedSemiBold.ttf: true
+NotoSerifThai-SemiCondensedExtraBold.ttf
+NotoSerifThai-SemiCondensedExtraBold.ttf: true
+NotoSerifThai-SemiCondensedBold.ttf
+NotoSerifThai-SemiCondensedBold.ttf: true
+NotoSerifThai-SemiBold.ttf
+NotoSerifThai-SemiBold.ttf: true
+NotoSerifThai-ExtraLight.ttf
+NotoSerifThai-ExtraLight.ttf: true
+NotoSerifThai-ExtraCondensedSemiBold.ttf
+NotoSerifThai-ExtraCondensedSemiBold.ttf: true
+NotoSerifThai-ExtraCondensed.ttf
+NotoSerifThai-ExtraCondensed.ttf: true
+NotoSerifThai-ExtraCondensedExtraLight.ttf
+NotoSerifThai-ExtraCondensedExtraLight.ttf: true
+NotoSerifThai-ExtraCondensedThin.ttf
+NotoSerifThai-ExtraCondensedThin.ttf: true
+NotoSerifThai-SemiCondensedThin.ttf
+NotoSerifThai-SemiCondensedThin.ttf: true
+NotoSerifThai-CondensedThin.ttf
+NotoSerifThai-CondensedThin.ttf: true
+NotoSerifThai-SemiCondensedMedium.ttf
+NotoSerifThai-SemiCondensedMedium.ttf: true
+NotoSerifThai-Regular.ttf
+NotoSerifThai-Regular.ttf: true
+NotoSerifThai-CondensedMedium.ttf
+NotoSerifThai-CondensedMedium.ttf: true
+NotoSerifThai-Bold.ttf
+NotoSerifThai-Bold.ttf: true
+NotoSerifThai-CondensedLight.ttf
+NotoSerifThai-CondensedLight.ttf: true
+NotoSerifThai-CondensedBold.ttf
+NotoSerifThai-CondensedBold.ttf: true
+NotoSerifThai-ExtraCondensedMedium.ttf
+NotoSerifThai-ExtraCondensedMedium.ttf: true
+NotoSerifThai-ExtraCondensedBold.ttf
+NotoSerifThai-ExtraCondensedBold.ttf: true
+NotoSerifThai-CondensedSemiBold.ttf
+NotoSerifThai-CondensedSemiBold.ttf: true
+NotoSerifThai-Medium.ttf
+NotoSerifThai-Medium.ttf: true
+NotoSerifThai-ExtraCondensedBlack.ttf
+NotoSerifThai-ExtraCondensedBlack.ttf: true
+NotoSerifThai-CondensedExtraLight.ttf
+NotoSerifThai-CondensedExtraLight.ttf: true
+NotoSerifThai-Black.ttf
+NotoSerifThai-Black.ttf: true
+NotoSerifThai-Thin.ttf
+NotoSerifThai-Thin.ttf: true
+NotoSerifThai-ExtraCondensedExtraBold.ttf
+NotoSerifThai-ExtraCondensedExtraBold.ttf: true
+NotoSerifThai-CondensedBlack.ttf
+NotoSerifThai-CondensedBlack.ttf: true
+NotoSerifThai-SemiCondensedLight.ttf
+NotoSerifThai-SemiCondensedLight.ttf: true
+NotoSerifThai-Light.ttf
+NotoSerifThai-Light.ttf: true

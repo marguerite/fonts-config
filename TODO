@@ -37,3 +37,5 @@
   ,Serif,Symbol fonts from the list. Emoji don't need to be removed,
   because webpages will not specify 'emoji' in font-family in the
   forseeable future.
+* Need to use Bold Font to provide bold weight
+* Need to downgrade weight for Noto Sans in CJK to match Source Sans Pro
