@@ -12,7 +12,7 @@
     substitutes. ✓
   + Adobe Souce Han are the same as Google Noto CJK. we need
     to use Noto CJK to provide Source Han ✓
-  + separate cjk from non-latin
+  + separate cjk from non-latin ✓
   + limit the minimum size for CJK.
   + unset antialias/hinting for small fonts
   + provides alias for '(N)SimSun'/'SimHei'/'KaiTi(_GB2312)'/
@@ -22,6 +22,7 @@
   + AR PL and WenQuanYi hinting stuff
   + Move the CJK part in 60-family-prefer.conf to 59-family-prefer-
     lang-specific-cjk.conf
+  + Fix packaging of Source Han
 * openSUSE should support colored emojis out of the box.
   + "emoji" family has been defined by fontconfig. ✓
   + "Symbola" conflicts with color emoji. need to replace it
