@@ -1,4 +1,3 @@
-Noto_Emoji
 Noto_Nastaliq_Urdu
 Noto_Sans_AnatoHiero
 Noto_Sans_Balinese
@@ -7,13 +6,6 @@ Noto_Sans_Brahmi
 Noto_Sans_Buginese
 Noto_Sans_Canadian_Aboriginal
 Noto_Sans_Cham
-Noto_Sans_Cham_Blk
-Noto_Sans_Cham_ExtBd
-Noto_Sans_Cham_ExtLt
-Noto_Sans_Cham_Light
-Noto_Sans_Cham_Med
-Noto_Sans_Cham_SemBd
-Noto_Sans_Cham_Thin
 Noto_Sans_Coptic
 Noto_Sans_Cuneiform
 Noto_Sans_EgyptHiero
