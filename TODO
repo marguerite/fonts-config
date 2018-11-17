@@ -1,4 +1,4 @@
-* 59-family-prefer-lang:
+* CJK:
   + Google Noto CJK embeds Adobe Source Sans Pro as Latin.
     but Google wants us to use Roboto/Noto Sans for Latin.
     the CJK prepend needs to prepend Roboto/Noto Sans/Serif
@@ -12,6 +12,16 @@
     substitutes. ✓
   + Adobe Souce Han are the same as Google Noto CJK. we need
     to use Noto CJK to provide Source Han ✓
+  + separate cjk from non-latin
+  + limit the minimum size for CJK.
+  + unset antialias/hinting for small fonts
+  + provides alias for '(N)SimSun'/'SimHei'/'KaiTi(_GB2312)'/
+    'YuanTi'/'Microsoft YaHei/JengHei'
+  + CJK has no 'slant' style, distinguish with different weights
+  + spacing=dual fix
+  + AR PL and WenQuanYi hinting stuff
+  + Move the CJK part in 60-family-prefer.conf to 59-family-prefer-
+    lang-specific-cjk.conf
 * openSUSE should support colored emojis out of the box.
   + "emoji" family has been defined by fontconfig. ✓
   + "Symbola" conflicts with color emoji. need to replace it
@@ -37,5 +47,9 @@
   Fonts ✓
 * All fonts are 'sans-serif' by default, we need to remove Monospace
   ,Serif,Symbol fonts from the list. Emoji don't need to be removed,
+  (Noto Emoji should be removed because it appears before the Color one)
   because webpages will not specify 'emoji' in font-family in the
   forseeable future.
+* Let fonts-config calculate DPI and set it.
+* Fix synthetic bold and italic fonts' pixelsize to integer.
+* Unset hinstyle/autohint for small Latin fonts (less_eq 8)
