@@ -23,19 +23,18 @@
      Color Emoji are emoji-less)
   + Firefox embeded a "EmojiOne Mozilla" font, we need to reject
     it. ✓
-  + We may need to unset hint/antialias/autohint for emoji fonts. ✓
+  + Unset hint/antialias/autohint for emoji fonts. ✓
 * openSUSE should use modern symbol fonts like Deepin OpenSymbol
   which is 100% replacement for M$ Wingdings and Symbola ✓
   + packaging of deepin-opensymbol-fonts ✓
   + fontconfig substitutions ✓
-* We need to re-evaluate the selections in 60-family-prefer.conf
+* Re-evaluate the selections in 60-family-prefer.conf
   especially the CJK part. Most of the fonts listed there are
   pretty old and have modern replacement.
-* We need to evaluate Noto fonts and add them to TT/Non-TT Instucted
-  Fonts
+* Evaluate Noto fonts and add them to TT/Non-TT Instucted
+  Fonts ✓
 * All fonts are 'sans-serif' by default, we need to remove Monospace
   ,Serif,Symbol fonts from the list. Emoji don't need to be removed,
   because webpages will not specify 'emoji' in font-family in the
   forseeable future.
-* Need to use Bold Font to provide bold weight
-* Need to downgrade weight for Noto Sans in CJK to match Source Sans Pro
+* Downgrade weight for Noto Sans in CJK to match Source Sans Pro
