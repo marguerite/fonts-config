@@ -5,6 +5,8 @@
     too ✓
   + Adobe Source Sans Pro is 2/3 of Noto Sans, need
     to resize with matrix ✓
+  + Downgrade weight/width for Noto Sans in CJK to match
+    Source Sans Pro ✓
   + Noto Sans CJK SC and Noto Sans SC are different font names
     (The later is a subset of the former). So we need to provide
     substitutes. ✓
@@ -37,4 +39,3 @@
   ,Serif,Symbol fonts from the list. Emoji don't need to be removed,
   because webpages will not specify 'emoji' in font-family in the
   forseeable future.
-* Downgrade weight for Noto Sans in CJK to match Source Sans Pro
