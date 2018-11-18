@@ -46,11 +46,11 @@
   pretty old and have modern replacement.
 * Evaluate Noto fonts and add them to TT/Non-TT Instucted
   Fonts ✓
-* All fonts are 'sans-serif' by default, we need to remove Monospace
-  ,Serif,Symbol fonts from the list. Emoji don't need to be removed,
-  (Noto Emoji should be removed because it appears before the Color one)
-  because webpages will not specify 'emoji' in font-family in the
-  forseeable future.
+* All uncategoried fonts are 'sans-serif' by default, we need to 
+  remove Monospace,Serif,Symbol and KaiTi fonts from the list.
+  'emoji' but Noto Emoji (because it occurs before the colored one
+  in the list) should not be removed, because webpages will not
+  specify 'emoji' in font-family in the forseeable future. ✓
 * Let fonts-config calculate DPI and set it.
 * Fix synthetic bold and italic fonts' pixelsize to integer.
 * Unset hinstyle/autohint for small Latin fonts (less_eq 8)
