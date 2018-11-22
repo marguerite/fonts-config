@@ -5,3 +5,4 @@
 * format.sh: format fontconfig files
 * noto-cjk-rendering.sh: generate noto cjk rendering configurations
 * generate-noto-lang.rb: geneate lang specific configrations for Noto fonts
+* generate_emoji_unicode.rb: generate unicodes from recommended emojis 

@@ -27,6 +27,8 @@ instead of generating it every time.
 80-89 match target scan (modify scanned patterns)
 90-99 font synthesis
 
+Developers should take care of /usr/share/fontconfig/conf.avail too. Those fontconfig defaults will significantly affect the final order of the configurations in /etc/fonts/conf.d.
+
 ## Debug
 
 [FC_DEBUG](https://www.freedesktop.org/software/fontconfig/fontconfig-user.html#DEBUG) is your friend.
