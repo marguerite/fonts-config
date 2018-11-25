@@ -23,19 +23,6 @@
   + Move the CJK part in 60-family-prefer.conf to 59-family-prefer-
     lang-specific-cjk.conf
   + Fix packaging of Source Han
-* openSUSE should support colored emojis out of the box.
-  + "emoji" family has been defined by fontconfig. ✓
-  + "Symbola" conflicts with color emoji. need to replace it
-    completely ✓
-  + "Dejavu" contains black and white and ugly emojis.
-    Restricted by chasets.
-    (All fonts are recognized as sans-serif if not explicitly
-     assigned, we can't prepend "emoji" to "sans-serif" (boo#1092737),
-     so we have to make sure every font appeared before Noto
-     Color Emoji are emoji-less)
-  + Firefox embeded a "EmojiOne Mozilla" font, we need to reject
-    it. ✓
-  + Unset hint/antialias/autohint for emoji fonts. ✓
 * openSUSE should use modern symbol fonts like Deepin OpenSymbol
   which is 100% replacement for M$ Wingdings and Symbola ✓
   + packaging of deepin-opensymbol-fonts ✓
@@ -48,3 +35,5 @@
 * Let fonts-config calculate DPI and set it.
 * Fix synthetic bold and italic fonts' pixelsize to integer.
 * Unset hinstyle/autohint for small Latin fonts (less_eq 8)
+* Bug: Noto Color Emoji's whitespace char (0x0020) in chromium is broken 
+* Investigation: Noto Sans SC Bold is preferred in Firefox.
