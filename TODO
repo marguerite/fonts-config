@@ -37,3 +37,4 @@
 * Unset hinstyle/autohint for small Latin fonts (less_eq 8)
 * Bug: Noto Color Emoji's whitespace char (0x0020) in chromium is broken 
 * Investigation: Noto Sans SC Bold is preferred in Firefox.
+* Noto Sans has embededbitmap
